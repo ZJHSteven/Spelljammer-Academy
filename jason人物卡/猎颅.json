@@ -1,0 +1,290 @@
+{
+"version": "dnd5e-2014",
+"character": {
+"core": {
+"name": "猎颅",
+"level": 4,
+"classes": [
+{ "name": "奇械师", "subclass": "炼金术师", "level": 3 },
+{ "name": "邪术师", "subclass": "死灵宗主（The Undead）", "level": 1 }
+],
+"race": { "name": "兔人（Harengon）", "source": "" },
+"alignment": "NG",
+"xp": null
+},
+
+"appearance": {
+  "age": 10,
+  "height_cm": 160,
+  "weight_lb": 143,
+  "hair": "白",
+  "eyes": "红",
+  "skin": "白"
+},
+"description": "白发红瞳的小型兔人工匠，穿镶钉皮甲持轻弩，身挂修补与铁匠工具，举止敏捷。",
+"backstory": "出生于妖精荒原圣森的小兔人。目睹恶龙屠城后立誓变强，以剑与器械讨伐巨龙。通过荒原的传送门离乡历练，计划在尘世完成修行与考核（“考驾照”）、积攒财富，日后乘星舰返乡复仇。身为公会商人出身，珍视学艺的作坊与行当网络，为了获得稀世之物有时会不择手段。",
+
+"background": {
+  "name": "公会商人（Guild Artisan）",
+  "feature": "公会成员（Guild Membership）",
+  "skills": ["洞悉", "游说"],
+  "tools": ["一种工匠工具（已选：铁匠工具）"],
+  "languages": ["一门自选语言（已计入总语言）"],
+  "ideals": "人民（我为我在乎的人奋斗，而非抽象理想；中立）",
+  "bonds": "我学习技艺的厂房对我来说是世界上最重要的地方。",
+  "flaws": "我会为了获得某些珍贵无价之物做任何事。",
+  "traits": ["我喜欢对我的行当高谈阔论。"]
+},
+
+"abilities": { "STR": 9, "DEX": 18, "CON": 14, "INT": 18, "WIS": 12, "CHA": 13 },
+"proficiency_bonus": 2,
+
+"saves": {
+  "proficient": ["体质", "智力"],
+  "mods": { "STR": -1, "DEX": 4, "CON": 4, "INT": 6, "WIS": 1, "CHA": 1 }
+},
+
+"skills": {
+  "proficient": ["察觉", "洞悉", "游说", "历史", "调查"],
+  "expertise": [],
+  "overrides": []
+},
+
+"senses": { "passive_perception": 13 },
+"size": "小型",
+"speed": { "walk": 30 },
+"ac": 18,
+"hp": {
+  "max": 31,
+  "current": 31,
+  "hit_dice": [
+    { "class": "奇械师", "die": "d8", "levels": 3 },
+    { "class": "邪术师", "die": "d8", "levels": 1 }
+  ]
+},
+"initiative": {
+  "mod": 6,
+  "sources": ["敏捷+4", "野兔敏锐（Hare-Trigger）：将熟练加值+2加入先攻"]
+},
+
+"languages": ["通用语", "木族语", "矮人语", "炼狱语"],
+"proficiencies": {
+  "armor": ["轻甲", "中甲", "盾牌"],
+  "weapons": ["简易武器"],
+  "tools": ["盗贼工具", "修补工具（Tinker’s Tools）", "铁匠工具", "炼金术工具（Alchemist’s Supplies）"]
+},
+
+"features": [
+  {
+    "name": "野兔敏锐 Hare-Trigger",
+    "source": "血统",
+    "action": "被动",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "",
+    "effect_short": "先攻加入熟练加值。"
+  },
+  {
+    "name": "野兔感官 Leporine Senses",
+    "source": "血统",
+    "action": "被动",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "",
+    "effect_short": "获得察觉技能熟练。"
+  },
+  {
+    "name": "幸运步法 Lucky Footwork",
+    "source": "血统",
+    "action": "反应",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "你进行敏捷豁免且失败时；速度不为0且未倒地",
+    "effect_short": "投d4加到敏捷豁免上，可能改判成功。"
+  },
+  {
+    "name": "兔子跳 Rabbit Hop",
+    "source": "血统",
+    "action": "附赠动作",
+    "max_uses": 2,
+    "recharge": "长休",
+    "trigger": "",
+    "effect_short": "跳跃距离=熟练加值×5尺（不触发借机）。"
+  },
+  {
+    "name": "魔法工艺 Magical Tinkering",
+    "source": "职业",
+    "action": "动作",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "手持修补工具触碰微小非魔法物体",
+    "effect_short": "赋予物体微光/录音/气味或声响/静态图像之一；可维持至多INT件。"
+  },
+  {
+    "name": "奇械师施法 Artificer Spellcasting",
+    "source": "职业",
+    "action": "被动",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "",
+    "effect_short": "施法关键属性=智力；DC14，法术攻击+6；使用工具作法器；1环法术位3枚。"
+  },
+  {
+    "name": "物品注法 Infuse Item",
+    "source": "职业",
+    "action": "被动",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "长休后为非魔法物品注入魔法",
+    "effect_short": "已知注法4；同时激活的注法物品上限=2（死亡INT天后失效）。"
+  },
+  {
+    "name": "称手工具 Right Tool for the Job",
+    "source": "职业",
+    "action": "其他",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "用修补工具工作1小时",
+    "effect_short": "在身旁5尺未占据空间制造任一套工匠工具（非魔法）。"
+  },
+  {
+    "name": "实验性灵药 Experimental Elixir",
+    "source": "子职",
+    "action": "其他",
+    "max_uses": null,
+    "recharge": "长休",
+    "trigger": "长休结束后用炼金术工具酿制",
+    "effect_short": "随机/自选灵药效果（炼金术师3级特性）。"
+  },
+  {
+    "name": "契约魔法 Pact Magic（邪术师）",
+    "source": "职业",
+    "action": "被动",
+    "max_uses": 1,
+    "recharge": "短休",
+    "trigger": "",
+    "effect_short": "施法关键属性=魅力；DC11，法术攻击+3；1环法术位1枚；已知1环法术：脆弱诅咒、灾祸术。"
+  },
+  {
+    "name": "战栗形态 Form of Dread",
+    "source": "子职",
+    "action": "附赠动作",
+    "max_uses": 2,
+    "recharge": "长休",
+    "trigger": "",
+    "effect_short": "变身1分钟；得1d10+1临时HP；每回合首次命中可令目标感知豁免失败则恐慌至你下回合；你免疫恐慌。"
+  },
+  {
+    "name": "注法：思维砥石 Mind Sharpener",
+    "source": "职业",
+    "action": "反应",
+    "max_uses": 4,
+    "recharge": "其他",
+    "trigger": "维持专注的体质豁免失败",
+    "effect_short": "消耗1充能改为成功；每日黎明恢复1d4充能。"
+  },
+  {
+    "name": "注法：次元袋 Bag of Holding",
+    "source": "职业",
+    "action": "被动",
+    "max_uses": null,
+    "recharge": null,
+    "trigger": "",
+    "effect_short": "容量64立方尺/500磅；被毁或与某些空间物件交互会开启星界传送门。"
+  },
+  {
+    "name": "注法：迷醉香水 Perfume of Bewitching",
+    "source": "职业",
+    "action": "动作",
+    "max_uses": 1,
+    "recharge": "长休",
+    "trigger": "",
+    "effect_short": "1小时内你对CR≤1类人生物的魅力检定具有优势。"
+  },
+  {
+    "name": "注法：炼金壶 Alchemy Jug",
+    "source": "职业",
+    "action": "动作",
+    "max_uses": null,
+    "recharge": "其他",
+    "trigger": "指定液体",
+    "effect_short": "按表产出多种液体（油/淡水/蜂蜜等），每日限额。"
+  }
+],
+
+  "spellcasting": [
+    {
+      "class": "奇械师",
+      "ability": "智力",
+      "dc": 14,
+      "attack_bonus": 6,
+      "slots": { "1": 3, "2": 0, "3": 0 },
+      "spellbook": {
+        "cantrips": ["神导术", "法师之手"],
+        "level1": ["妖火", "净化食粮（仪式）", "侦测魔法（仪式）", "塔莎酸蚀酿", "警报术（仪式）", "吸收元素", "治愈真言", "致病射线"],
+        "level2": []
+      },
+      "prepared": {
+        "level1": ["妖火", "侦测魔法（仪式）", "警报术（仪式）", "吸收元素", "治愈真言"],
+        "level2": []
+      }
+    },
+    {
+      "class": "邪术师",
+      "ability": "魅力",
+      "dc": 11,
+      "attack_bonus": 3,
+      "slots": { "1": 2, "2": 0, "3": 0 },
+      "spellbook": {
+        "cantrips": ["魔能爆", "霜噬"],
+        "level1": ["脆弱诅咒", "灾祸术"],
+        "level2": []
+      },
+      "prepared": {
+        "level1": [],
+        "level2": []
+      }
+    }
+  ],
+
+"equipment": {
+  "armor": ["镶钉皮甲", "盾牌"],
+  "weapons": [
+    {
+      "name": "轻弩",
+      "attack_bonus": 6,
+      "damage": [{ "dice": "1d8+4", "type": "穿刺" }],
+      "properties": ["射程 80/320", "装填", "双手"],
+      "ammo": { "name": "弩矢", "qty": 20 }
+    },
+    {
+      "name": "匕首",
+      "attack_bonus": 6,
+      "damage": [{ "dice": "1d4+4", "type": "穿刺" }],
+      "properties": ["灵巧", "轻型", "投掷 20/60"],
+      "ammo": { "name": "", "qty": 0 }
+    }
+  ],
+  "pack": ["地城套装"],
+  "coins": { "pp": 0, "gp": 6, "sp": 5, "cp": 0 },
+  "others": [
+    "盗贼工具",
+    "修补工具",
+    "铁匠工具",
+    "炼金术工具",
+    "旅行者服装",
+    "公会介绍信",
+    "爪钩（2gp）",
+    "吊桶 ×10",
+    "商用天平（5gp）",
+    "灯油 ×10",
+    "注法物品：思维砥石",
+    "注法物品：次元袋",
+    "注法物品：迷醉香水",
+    "注法物品：炼金壶"
+  ]
+},
+
+"notes": ""
+}
+}

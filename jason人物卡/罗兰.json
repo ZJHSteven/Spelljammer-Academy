@@ -1,0 +1,250 @@
+{
+  "version": "dnd5e-2014",
+  "character": {
+    "core": {
+      "name": "罗兰",
+      "level": 4,
+      "classes": [
+        { "name": "法师", "subclass": "时空学派（Chronurgy Magic）", "level": 4 }
+      ],
+      "race": { "name": "复生者（人类）", "source": "VRGtR" },
+      "alignment": "中立邪恶",
+      "xp": null
+    },
+
+    "appearance": {
+      "age": 25,
+      "height_cm": 170,
+      "weight_lb": 140,
+      "hair": "灰发（枯白）",
+      "eyes": "蓝色",
+      "skin": "灰白无生气"
+    },
+    "description": "看似死去已久、眼瞳如幽蓝鬼火的冷静学者法师，执着追索往日记忆。",
+    "backstory": "罗兰曾被石化并于久远之后苏醒，右手被幽灵肢体所替，体内又寄居着来自异界的残破灵魂与记忆。作为复生者，他明白死亡并非终结；如今以学院出身的隐居学者之姿，往来各地图书馆搜寻线索，试图拼合自己支离破碎的过往与答案。",
+
+    "background": {
+      "name": "智者（与世隔绝的学者）",
+      "feature": "图书馆使用权（Library Access）",
+      "skills": ["奥秘", "历史"],
+      "tools": ["书法工具"],
+      "languages": ["精灵语", "通用语"],
+      "ideals": "无拘无束（混乱）：任何东西都不该束缚所有存在中的无限可能。",
+      "bonds": "我终生寻求往日的记忆。",
+      "flaws": "往日的记忆值得用一整个文明交换。",
+      "traits": [
+        "我习惯帮助那些不像我这么聪明的人，并耐心解释任何事与每件事。",
+        "在作出判断前，我总愿意倾听争论双方的观点。"
+      ]
+    },
+
+    "abilities": { "STR": 11, "DEX": 14, "CON": 14, "INT": 18, "WIS": 15, "CHA": 13 },
+    "proficiency_bonus": 2,
+
+    "saves": {
+      "proficient": ["智力", "感知"],
+      "mods": { "STR": 0, "DEX": 2, "CON": 2, "INT": 4, "WIS": 2, "CHA": 1 }
+    },
+
+    "skills": {
+      "proficient": ["调查", "奥秘", "历史", "自然", "宗教", "察觉", "洞悉"],
+      "expertise": [],
+      "overrides": []
+    },
+
+    "senses": { "passive_perception": 14 },
+    "size": "中型",
+    "speed": { "walk": 30 },
+    "ac": 12,
+    "hp": {
+      "max": 26,
+      "current": 26,
+      "hit_dice": [
+        { "class": "法师", "die": "d6", "levels": 4 }
+      ]
+    },
+    "initiative": {
+      "mod": 6,
+      "sources": ["敏捷+2", "现世感知（智力+4）"]
+    },
+
+    "languages": ["精灵语", "通用语"],
+    "proficiencies": {
+      "armor": [],
+      "weapons": ["匕首", "飞镖", "投石索", "长棍", "轻弩"],
+      "tools": ["书法工具"]
+    },
+
+    "features": [
+      {
+        "name": "施法（法师）",
+        "source": "职业",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "以智力施法；法术书记录法术；法术豁免DC=14，法术攻击加值=+6"
+      },
+      {
+        "name": "奥术回复",
+        "source": "职业",
+        "action": "其他",
+        "max_uses": 1,
+        "recharge": "长休",
+        "trigger": "完成一次短休后",
+        "effect_short": "恢复已消耗法术位，总等级≤2（等于法师等级的一半向上取整）"
+      },
+      {
+        "name": "时间变幻（Chronal Shift）",
+        "source": "职业",
+        "action": "反应",
+        "max_uses": 2,
+        "recharge": "长休",
+        "trigger": "你可见的生物完成一次d20检定后",
+        "effect_short": "迫使其重投并使用第二次结果"
+      },
+      {
+        "name": "现世感知（Temporal Awareness）",
+        "source": "职业",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "先攻检定获得等同智力调整值的加值"
+      },
+      {
+        "name": "先祖传承",
+        "source": "种族",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "保留原有技能/移动速度；若未保留则获得两项技能熟练"
+      },
+      {
+        "name": "不死本质（Deathless Nature）",
+        "source": "种族",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "对抗疾病/中毒豁免优势；毒素伤害抗性；死亡豁免优势；不需进食饮水呼吸；4小时静修即可长休"
+      },
+      {
+        "name": "往昔知识（Knowledge from a Past Life）",
+        "source": "种族",
+        "action": "被动",
+        "max_uses": 2,
+        "recharge": "长休",
+        "trigger": "进行一次使用技能的属性检定后（见到d20结果后）",
+        "effect_short": "额外掷1d6并加入检定结果"
+      },
+      {
+        "name": "不安存在（Unsettling Presence）",
+        "source": "其他",
+        "action": "动作",
+        "max_uses": 1,
+        "recharge": "长休",
+        "trigger": "以动作为15尺内可见生物为目标",
+        "effect_short": "目标下一次豁免骰具有劣势（构装体/不死/免疫恐慌者免疫）"
+      },
+      {
+        "name": "不老（Ageless）",
+        "source": "其他",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "不会变老；抗衰老效应对你无效"
+      },
+      {
+        "name": "紧拥生命（Cling to Life）",
+        "source": "其他",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "当你进行死亡豁免并掷出16或更高",
+        "effect_short": "恢复1点生命值"
+      },
+      {
+        "name": "还魂（Revenance）",
+        "source": "其他",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "侦测类效果将你视为不死生物"
+      },
+      {
+        "name": "图书馆使用权（Library Access）",
+        "source": "背景",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "可进入多数图书馆区域并获取资料；能联络学院相关人员与机构"
+      },
+      {
+        "name": "属性值提升：智力+2",
+        "source": "职业",
+        "action": "被动",
+        "max_uses": null,
+        "recharge": null,
+        "trigger": "",
+        "effect_short": "智力提高至18"
+      }
+    ],
+
+    "spellcasting": {
+      "class": "法师",
+      "ability": "智力",
+      "dc": 14,
+      "attack_bonus": 6,
+      "slots": { "1": 4, "2": 3 },
+      "spellbook": {
+        "cantrips": ["冷冻射线", "魔法伎俩", "法师之手"],
+        "level1": ["护盾术", "吉姆的魔法飞弹", "塔莎狂笑术", "睡眠术", "银光锐语", "弹射", "扩大重力", "灵敏之赐", "易容术"],
+        "level2": ["迷踪步", "灼热射线", "镜影术"]
+      },
+      "prepared": {
+        "level1": [],
+        "level2": []
+      }
+    },
+
+    "equipment": {
+      "armor": [],
+      "weapons": [
+        {
+          "name": "轻弩",
+          "attack_bonus": 4,
+          "damage": [
+            { "dice": "1d8+2", "type": "穿刺" }
+          ],
+          "properties": ["弹药(80/320)", "装填", "双手"],
+          "ammo": { "name": "弩矢", "qty": 0 }
+        },
+        {
+          "name": "匕首",
+          "attack_bonus": 4,
+          "damage": [
+            { "dice": "1d4+2", "type": "穿刺" }
+          ],
+          "properties": ["灵巧", "轻型", "投掷(20/60)"],
+          "ammo": { "name": "", "qty": 0 }
+        }
+      ],
+      "pack": ["探索套装", "材料包"],
+      "coins": { "pp": 5, "gp": 165, "sp": 0, "cp": 0 },
+      "others": [
+        "法术书",
+        "学者长袍",
+        "书写工具（羽毛笔、墨水、羊皮纸、小拆信刀）",
+        "学院借阅书籍",
+        "小钱袋（10gp）"
+      ]
+    },
+
+    "notes": ""
+  }
+}
