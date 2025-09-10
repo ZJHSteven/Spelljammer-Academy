@@ -1,0 +1,270 @@
+"version": "dnd5e-2014"
+"character":
+  "core":
+    "name": "小李子"
+    "level": 4
+    "classes":
+      -
+        "name": "法师"
+        "subclass": "拟态师"
+        "level": 4
+    "race":
+      "name": "流浆体"
+      "source": ""
+    "alignment": "CN"
+    "xp": null
+  "appearance":
+    "age": null
+    "height_cm": null
+    "weight_lb": 50
+    "hair": "荧光绿"
+    "eyes": "无明显瞳色"
+    "skin": "无肤色（半透明）"
+  "description": "黏糊糊、滑溜溜；脑袋里经常插着乱七八糟的东西；身高不定、无性别的流浆体法师。"
+  "backstory": "卟喽戈·咕叽咕叽·Duang，本是艘星界船上的清洁泥怪，被一名吸血骇盗法师当作“废料桶”。长期投喂实验残渣后诞生出自我意识，成为星界中罕见的流浆体。它暗中学会了操舟与施法，并和法师的宠物——自称“冯·马克西米利安·腓特烈二世”的迷你巨型太空仓鼠——成为挚友。一次海战中，诘弗人的炮击击毁甲板并夺走法师性命，仓鼠也身受重伤。惊惶之下，流浆体第一次施法，施展了“寻获魔宠”拯救同伴。战后，它与仓鼠被星界精灵打捞，自此“叽咕叽咕”与“奇迹的腓特烈二世”的冒险启程。"
+  "background":
+    "name": "荒宇人"
+    "feature": "免疫失重；太空老手"
+    "skills": []
+    "tools":
+      - "领航员工具"
+      - "载具（太空）"
+    "languages": []
+    "ideals": "遨游星海。"
+    "bonds": "奇迹的腓特烈二世！"
+    "flaws": "不太能理解类人生物的许多逻辑。"
+    "traits":
+      - "黏糊糊，滑溜溜"
+      - "脑袋里经常插着乱七八糟的东西"
+  "abilities":
+    "STR": 7
+    "DEX": 14
+    "CON": 15
+    "INT": 18
+    "WIS": 12
+    "CHA": 9
+  "proficiency_bonus": 2
+  "saves":
+    "proficient":
+      - "智力"
+      - "感知"
+    "mods":
+      "STR": -2
+      "DEX": 2
+      "CON": 2
+      "INT": 4
+      "WIS": 1
+      "CHA": -1
+  "skills":
+    "proficient":
+      - "运动"
+      - "奥秘"
+      - "历史"
+      - "调查"
+    "expertise": []
+    "overrides": []
+  "senses":
+    "passive_perception": 11
+  "size": "小型"
+  "speed":
+    "walk": 30
+  "ac": 12
+  "hp":
+    "max": 34
+    "current": 34
+    "hit_dice":
+      -
+        "class": "法师"
+        "die": "d6"
+        "levels": 4
+  "initiative":
+    "mod": 7
+    "sources":
+      - "敏捷+2"
+      - "警觉专长+5"
+  "languages":
+    - "通用语"
+  "proficiencies":
+    "armor": []
+    "weapons":
+      - "简易武器"
+      - "匕首"
+      - "飞镖"
+      - "投石索"
+      - "长棍"
+      - "轻弩"
+    "tools":
+      - "领航员工具"
+      - "载具（太空）"
+  "features":
+    -
+      "name": "奥术回复（奥术回想）"
+      "source": "职业"
+      "action": "被动"
+      "max_uses": 1
+      "recharge": "长休"
+      "trigger": ""
+      "effect_short": "短休时恢复法术位，总等级≤2（法师4级）。"
+    -
+      "name": "奥术传承：拟态师"
+      "source": "子职"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "获得拟态师特性。"
+    -
+      "name": "化形（Transmogrify）"
+      "source": "子职"
+      "action": "动作"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "消耗法术位触摸未被携带的非魔法物品→化为奥术拟身怪，持续1小时；120尺心灵感应；同一时间仅1只。"
+    -
+      "name": "奥术拟身怪（要点）"
+      "source": "子职"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "拟身怪AC=你的法术豁免DC；HP与攻击随法术位与体型变化；咬击附加每环阶1d4强酸。"
+    -
+      "name": "无定形体"
+      "source": "种族"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "可通过宽≥1寸缝隙移动。"
+    -
+      "name": "变化自身（重塑形体）"
+      "source": "种族"
+      "action": "动作"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "重塑身体（1个头、1~2臂、1~2腿等），可变回浆团。"
+    -
+      "name": "伪肢"
+      "source": "种族"
+      "action": "附赠动作"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "伸缩一条≤6寸宽、10尺长伪肢操纵物件；不可攻击/启动物品；举重≤10磅。"
+    -
+      "name": "黑暗视觉 60尺"
+      "source": "种族"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "在黑暗中具备60尺可见范围。"
+    -
+      "name": "屏息"
+      "source": "种族"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "可屏息1小时。"
+    -
+      "name": "天生坚韧"
+      "source": "种族"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "强酸与毒素抗性；对中毒状态的豁免检定具有优势。"
+    -
+      "name": "荒宇人：免疫失重"
+      "source": "背景"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "在失重环境下不受不利影响。"
+    -
+      "name": "健壮（专长）"
+      "source": "专长"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "每等级生命值+2（当前+8）。"
+    -
+      "name": "警觉（专长）"
+      "source": "专长"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "先攻+5；不会被突袭；看不见的敌人对你无优势。"
+  "spellcasting":
+    "class": "法师"
+    "ability": "智力"
+    "dc": 14
+    "attack_bonus": 6
+    "slots":
+      "1": 4
+      "2": 3
+      "3": 0
+    "spellbook":
+      "cantrips":
+        - "酸液飞溅"
+        - "修复术"
+        - "次级幻像"
+        - "火焰箭"
+      "level1":
+        - "通晓语言"
+        - "侦测魔法"
+        - "易容术"
+        - "护盾术"
+        - "寻获魔宠"
+        - "法师护甲"
+        - "油腻术"
+        - "巫术箭"
+      "level2":
+        - "蛛网术"
+        - "马友夫强酸箭"
+        - "变巨术"
+        - "粉碎音波"
+    "prepared":
+      "level1":
+        - "护盾术"
+        - "法师护甲"
+        - "油腻术"
+        - "巫术箭"
+      "level2":
+        - "蛛网术"
+        - "变巨术"
+        - "粉碎音波"
+  "equipment":
+    "armor": []
+    "weapons":
+      -
+        "name": "长棍"
+        "attack_bonus": 0
+        "damage":
+          -
+            "dice": "1d6-2"
+            "type": "钝击"
+        "properties":
+          - "多用(1d8)"
+        "ammo":
+          "name": ""
+          "qty": 0
+    "pack":
+      - "探索套组"
+    "coins":
+      "gp": 160.0
+    "others":
+      - "奥术法器"
+      - "法术书"
+      - "缠索栓（短棒）"
+      - "旅行者服装"
+      - "抓钩"
+      - "麻绳50尺"
+      - "装有10gp的小包"
+  "notes": "被动感知=11（感知12，未熟练）；先攻+7（敏捷+2，警觉+5）。技能当前修正示例：运动+0（熟练，力-2+熟练+2），奥秘+6（智+4+熟练+2），历史+6（智+4+熟练+2），调查+6（智+4+熟练+2），求生+1（未熟练，感知+1）。神祇信息口述含“无信仰/欧格玛”两说，按需由DM裁定；体型与血统为自定（小型的流浆体）。未来拟态师高阶特性（6/10级）未计入当前可用特性。"

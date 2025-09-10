@@ -1,0 +1,131 @@
+"version": "dnd5e-2014"
+"character":
+  "core":
+    "name": "<角色名>"
+    "level": 1
+    "classes":
+      -
+        "name": "<职业>"
+        "subclass": "<子职>（可空）"
+        "level": 1
+    "race":
+      "name": "<血统/种族>"
+      "source": "<书源，可空>"
+    "alignment": "NE"
+    "xp": null
+  "appearance":
+    "age": null
+    "height_cm": null
+    "weight_lb": null
+    "hair": "<发色/发型>"
+    "eyes": "<眼睛颜色>"
+    "skin": "<肤色>"
+  "description": "<外貌/性格的一句话描述>"
+  "backstory": "<背景故事长文>"
+  "background":
+    "name": "<背景名>"
+    "feature": "<背景特性名>"
+    "skills": []
+    "tools": []
+    "languages": []
+    "ideals": ""
+    "bonds": ""
+    "flaws": ""
+    "traits": []
+  "abilities":
+    "STR": 10
+    "DEX": 10
+    "CON": 10
+    "INT": 10
+    "WIS": 10
+    "CHA": 10
+  "proficiency_bonus": 2
+  "saves":
+    "proficient": []
+    "mods":
+      "STR": 0
+      "DEX": 0
+      "CON": 0
+      "INT": 0
+      "WIS": 0
+      "CHA": 0
+  "skills":
+    "proficient": []
+    "expertise":
+      - "<盗贼专精>"
+      - "<吟游专精>"
+    "overrides":
+      -
+        "name": "<可选：临时源（魔法/道具加值）技能名>"
+        "mod": 0
+        "source": "<来源>"
+  "senses":
+    "passive_perception": 10
+  "size": "中型"
+  "speed":
+    "walk": 30
+  "ac": 10
+  "hp":
+    "max": 0
+    "current": 0
+    "hit_dice":
+      -
+        "class": "<职业1>"
+        "die": "d10"
+        "levels": 1
+      -
+        "class": "<职业2>"
+        "die": "d6"
+        "levels": 2
+  "initiative":
+    "mod": 0
+    "sources": []
+  "languages": []
+  "proficiencies":
+    "armor": []
+    "weapons": []
+    "tools": []
+  "features":
+    -
+      "name": "<特性名>"
+      "source": "种族|职业|子职|背景|专长|其他"
+      "action": "被动|动作|附赠动作|反应"
+      "max_uses": null
+      "recharge": "短休|长休|其他|null"
+      "trigger": "<触发条件，可空>"
+      "effect_short": "<一句话效果；写数据关键词方便AI抓取>"
+  "spellcasting":
+    "class": "<施法职业>"
+    "ability": "<智力>"
+    "dc": 10
+    "attack_bonus": 0
+    "slots":
+      "1": 0
+      "2": 0
+      "3": 0
+    "spellbook":
+      "cantrips": []
+      "level1": []
+      "level2": []
+    "prepared":
+      "level1": []
+      "level2": []
+  "equipment":
+    "armor": []
+    "weapons":
+      -
+        "name": "<武器名>"
+        "attack_bonus": 0
+        "damage":
+          -
+            "dice": "XdY+Z"
+            "type": "<伤害类型>"
+        "properties": []
+        "ammo":
+          "name": "<弹药名>"
+          "qty": 0
+    "pack": []
+    "coins":
+      "gp": 0.0
+    "others": []
+  "notes": "<自由笔记：给DM/玩家/AI的补充>"

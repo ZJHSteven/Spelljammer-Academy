@@ -1,0 +1,292 @@
+"version": "dnd5e-2014"
+"character":
+  "core":
+    "name": "隆金"
+    "level": 4
+    "classes":
+      -
+        "name": "圣武士"
+        "subclass": "征服之誓"
+        "level": 4
+    "race":
+      "name": "牛头人（塞洛斯）"
+      "source": "塞洛斯"
+    "alignment": "绝对中立"
+    "xp": null
+  "appearance":
+    "age": null
+    "height_cm": 227
+    "weight_lb": 231
+    "hair": ""
+    "eyes": ""
+    "skin": ""
+  "description": "高大魁梧的牛头人圣武士，历经战争而沉默坚毅，作风直接。"
+  "backstory": "隆金没有家，或者说整个宇宙都是他的家。大罗罗族赢下了所有战役，却输掉了战争。它们将战火烧到整个宇宙，理所当然，战争结束后，没有一个星球愿意接纳这样的好战分子，大罗罗族只能在宇宙中流浪。这样的种族本应该被绝望中灭亡，隆金也是这么想的，就像当年大罗罗族毁灭其他种族那样。事情发生转机，一个陨石击中了飞船的侧舷，正在舱外维修的隆金收到波及，回过神来的时候，他就来到了另一个完全陌生的世界。这个世界既没有星际联盟的银轨，也没有大罗罗族的传言，在海上漂浮了一个月的隆金被陆地接纳，暂时回归了文明的怀抱。"
+  "background":
+    "name": "荒宇人（Wildspacer）"
+    "feature": "荒宇适性（Wildspace Adaptation）"
+    "skills":
+      - "运动"
+      - "生存"
+    "tools":
+      - "领航员工具"
+      - "载具（太空）"
+    "languages": []
+    "ideals": "我的城市、国家和人民是最重要的事。（任意）"
+    "bonds": "我永远不会忘记队伍曾遭受到的惨败，以及当时的敌人。"
+    "flaws": "除那些久经沙场的武士外，任何人都不值得我尊重。"
+    "traits":
+      - "我的心中总是萦绕着战争时的记忆，那些残暴的画面总是挥之不去。"
+      - "我迎难而上直面问题。一个简单直接的解决方案是通往成功的最佳路径。"
+  "abilities":
+    "STR": 20
+    "DEX": 12
+    "CON": 16
+    "INT": 7
+    "WIS": 10
+    "CHA": 15
+  "proficiency_bonus": 2
+  "saves":
+    "proficient":
+      - "感知"
+      - "魅力"
+    "mods":
+      "STR": 5
+      "DEX": 1
+      "CON": 3
+      "INT": -2
+      "WIS": 2
+      "CHA": 4
+  "skills":
+    "proficient":
+      - "运动"
+      - "求生"
+      - "威吓"
+      - "洞悉"
+    "expertise": []
+    "overrides": []
+  "senses":
+    "passive_perception": 10
+  "size": "中型"
+  "speed":
+    "walk": 30
+  "ac": 16
+  "hp":
+    "max": 46
+    "current": 46
+    "hit_dice":
+      -
+        "class": "圣武士"
+        "die": "d10"
+        "levels": 4
+  "initiative":
+    "mod": 1
+    "sources":
+      - "敏捷"
+  "languages": []
+  "proficiencies":
+    "armor":
+      - "所有护甲"
+      - "盾牌"
+    "weapons":
+      - "简易武器"
+      - "军用武器"
+    "tools":
+      - "领航员工具"
+      - "载具（太空）"
+  "features":
+    -
+      "name": "神圣感知"
+      "source": "职业"
+      "action": "动作"
+      "max_uses": 3
+      "recharge": "长休"
+      "trigger": ""
+      "effect_short": "在60尺内侦测天界/邪魔/不死与圣居；次数=1+魅力调整值。"
+    -
+      "name": "圣疗"
+      "source": "职业"
+      "action": "动作"
+      "max_uses": null
+      "recharge": "长休"
+      "trigger": ""
+      "effect_short": "治疗池20点；触及治疗或每5点治愈疾病/中毒。"
+    -
+      "name": "战斗风格：盲斗"
+      "source": "职业"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "盲视10尺。"
+    -
+      "name": "至圣斩"
+      "source": "职业"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": "以近战武器攻击命中时"
+      "effect_short": "消耗法术位追加2d8起光耀伤害；对不死/邪魔+1d8（至多6d8）。"
+    -
+      "name": "神圣誓言：征服之誓"
+      "source": "职业"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "获得引导神力选项：征服威压、导引打击。"
+    -
+      "name": "引导神力：征服威压"
+      "source": "职业"
+      "action": "动作"
+      "max_uses": 1
+      "recharge": "短休"
+      "trigger": ""
+      "effect_short": "30尺内自选目标感知豁免失败则恐慌1分钟（回合末可重掷）。"
+    -
+      "name": "引导神力：导引打击"
+      "source": "职业"
+      "action": "其他"
+      "max_uses": 1
+      "recharge": "短休"
+      "trigger": "你进行一次攻击检定时"
+      "effect_short": "该次攻击检定获得+10。"
+    -
+      "name": "圣武士施法"
+      "source": "职业"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "法术DC12，法术攻击+4；1环法术位3。"
+    -
+      "name": "角击"
+      "source": "种族"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "徒手攻击改为1d6+力量 穿刺伤害。"
+    -
+      "name": "冲撞"
+      "source": "种族"
+      "action": "附赠动作"
+      "max_uses": null
+      "recharge": null
+      "trigger": "本回合疾走且至少移动20尺后"
+      "effect_short": "以牛角进行一次近战武器攻击。"
+    -
+      "name": "迷宫追忆"
+      "source": "种族"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "总知北方；导航/追踪的感知（生存）检定具有优势。"
+    -
+      "name": "荒宇适性（Wildspace Adaptation）"
+      "source": "背景"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "获得专长“健壮”；在失重中近战攻击不受劣势。"
+    -
+      "name": "近距离遭遇（Close Encounter）"
+      "source": "背景"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "曾与宇宙恐怖近距接触而留疤或噩梦；具体生物未指定。"
+    -
+      "name": "巨武器大师"
+      "source": "专长"
+      "action": "其他"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "重击/击倒0时可用附赠动作再攻；宣言-5命中换+10伤害。"
+    -
+      "name": "健壮"
+      "source": "专长"
+      "action": "被动"
+      "max_uses": null
+      "recharge": null
+      "trigger": ""
+      "effect_short": "生命上限+8（当前4级×2），此后每级额外+2。"
+  "spellcasting":
+    "class": "圣武士"
+    "ability": "魅力"
+    "dc": 12
+    "attack_bonus": 4
+    "slots":
+      "1": 3
+      "2": 0
+      "3": 0
+    "spellbook":
+      "cantrips": []
+      "level1":
+        - "典礼术"
+        - "强令对决"
+        - "侦测善恶"
+      "level2": []
+    "prepared":
+      "level1":
+        - "典礼术"
+        - "强令对决"
+        - "侦测善恶"
+      "level2": []
+  "equipment":
+    "armor":
+      - "链甲"
+    "weapons":
+      -
+        "name": "巨剑"
+        "attack_bonus": 7
+        "damage":
+          -
+            "dice": "2d6+5"
+            "type": "挥砍"
+        "properties":
+          - "重型"
+          - "双手"
+        "ammo":
+          "name": ""
+          "qty": 0
+      -
+        "name": "手斧"
+        "attack_bonus": 7
+        "damage":
+          -
+            "dice": "1d6+5"
+            "type": "挥砍"
+        "properties":
+          - "轻型"
+          - "投掷(20/60)"
+        "ammo":
+          "name": ""
+          "qty": 0
+      -
+        "name": "标枪 ×5"
+        "attack_bonus": 7
+        "damage":
+          -
+            "dice": "1d6+5"
+            "type": "穿刺"
+        "properties":
+          - "投掷(30/120)"
+        "ammo":
+          "name": ""
+          "qty": 0
+    "pack":
+      - "探索套装：背包、铺盖、野炊工具、火绒盒、10支火把、10天口粮、水袋、50尺麻绳"
+    "coins":
+      "gp": 250.0
+    "others":
+      - "缠索栓（短棒）"
+      - "抓钩"
+      - "圣徽"
+      - "旅行者服装"
+      - "小钱袋（10gp）"
+  "notes": ""
