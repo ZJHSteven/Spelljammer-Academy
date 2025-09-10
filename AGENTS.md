@@ -35,6 +35,12 @@
   - 指定输出：`python tools/json2yaml.py "jason人物卡/罗兰.json" -o "jason人物卡/罗兰.yaml"`
   - 校验：生成后用编辑器预览 YAML 是否渲染正常；必要时对比字段完整性。
 
+#### 策略变更：硬币仅保留 gp
+- 自 2025-09-10 起，转换时将 `character.equipment.coins` 统一折算为仅含 `gp`：
+  - 换算：`1 pp = 10 gp`，`10 sp = 1 gp`，`100 cp = 1 gp`；结果保留两位小数。
+  - 模板 `dnd-character.template.yaml` 已仅保留 `gp` 字段。
+  - 历史 JSON 中若存在 `pp/sp/cp`，转换后不会保留这些键。
+
 ## 代码/文档风格与命名约定
 - Markdown：
   - 标题层级清晰：`#` 章节、`##` 小节、`###` 细节；列表使用 `-`。
