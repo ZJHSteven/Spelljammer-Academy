@@ -1,0 +1,150 @@
+# dnd 5e 人物卡模板（YAML）
+# 说明：本模板 1:1 对应仓库内的 JSON 模板字段，不增不减。
+# 用途：便于在 YAML 中添加注释，帮助后续回顾与协作。
+# 注意：保持键名与结构完全一致；仅值可按需要填写。
+
+version: "dnd5e-2014"  # 规则版本（勿改，保持与系统一致）
+
+character:
+  core:
+    name: "<角色名>"            # 角色姓名（必填）
+    level: 1                    # 角色总等级（整数 ≥1）
+    classes:                    # 多职业列表：每项为单一职业块
+      - name: "<职业>"         # 职业名（如 战士、法师）
+        subclass: "<子职>（可空）" # 子职业/分支（没有则留空字符串或删此行）
+        level: 1               # 此职业所占等级
+    race:
+      name: "<血统/种族>"       # 族裔或亚种名
+      source: "<书源，可空>"    # 规则来源（如 PHB、UA，未知可留空）
+    alignment: "NE"            # 阵营（示例：NE）
+    xp: null                    # 经验值（可为数字或 null）
+
+  appearance:
+    age: null                   # 年龄（数字或 null）
+    height_cm: null             # 身高（厘米，数字或 null）
+    weight_lb: null             # 体重（磅，数字或 null）
+    hair: "<发色/发型>"          # 头发特征
+    eyes: "<眼睛颜色>"          # 瞳色
+    skin: "<肤色>"              # 肤色/肤质
+
+  description: "<外貌/性格的一句话描述>" # 简要描述（单行）
+  backstory: "<背景故事长文>"          # 背景故事（可多行长文）
+
+  background:
+    name: "<背景名>"              # 背景（如 水手、学者）
+    feature: "<背景特性名>"        # 背景赋予的特性名
+    skills: []                  # 背景提供的技能（字符串列表）
+    tools: []                   # 工具熟练（字符串列表）
+    languages: []               # 语言（字符串列表）
+    ideals: ""                  # 理想（文本）
+    bonds: ""                   # 牵绊（文本）
+    flaws: ""                   # 缺陷（文本）
+    traits: []                  # 个性特质（字符串列表）
+
+  abilities:                    # 六维能力值（最终面板值）
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
+
+  proficiency_bonus: 2          # 熟练加值（按总等级推导，冗余存储）
+
+  saves:                        # 豁免
+    proficient: []              # 拥有熟练的豁免（如 ["STR","DEX"]）
+    mods:                       # 各项豁免修正（含熟练与其他来源）
+      STR: 0
+      DEX: 0
+      CON: 0
+      INT: 0
+      WIS: 0
+      CHA: 0
+
+  skills:                       # 技能
+    proficient: []              # 拥有熟练的技能名列表
+    expertise: ["<盗贼专精>", "<吟游专精>"]  # 专精技能（可为空列表）
+    overrides:                  # 临时/来源性修正（道具/法术等）
+      - name: "<可选：临时源（魔法/道具加值）技能名>"
+        mod: 0                  # 额外修正（正负整数）
+        source: "<来源>"         # 修正来源描述
+
+  senses:
+    passive_perception: 10      # 被动察觉（通常 = 10 + 感知察觉修正）
+
+  size: "中型"                   # 体型（微型/极小/小型/中型/大型/超大/庞然）
+  speed:
+    walk: 30                    # 行走速度（英尺）
+
+  ac: 10                        # 护甲等级（AC）
+
+  hp:
+    max: 0                      # 最大生命值
+    current: 0                  # 当前生命值
+    hit_dice:                   # 生命骰明细（按职业分项）
+      - class: "<职业1>"
+        die: "d10"
+        levels: 1
+      - class: "<职业2>"
+        die: "d6"
+        levels: 2
+
+  initiative:
+    mod: 0                      # 先攻修正总和
+    sources: []                  # 修正来源列表（字符串）
+
+  languages: []                 # 已掌握语言（与 background.languages 不冲突，可合并）
+
+  proficiencies:                # 熟练项汇总
+    armor: []                   # 护甲熟练
+    weapons: []                 # 武器熟练
+    tools: []                   # 工具熟练
+
+  features:                     # 特性/能力列表（任意来源）
+    - name: "<特性名>"
+      source: "种族|职业|子职|背景|专长|其他" # 归因标签
+      action: "被动|动作|附赠动作|反应"        # 施放/触发类型
+      max_uses: null            # 使用次数上限（数字或 null）
+      recharge: "短休|长休|其他|null"          # 回充规则（字符串或 "null"）
+      trigger: "<触发条件，可空>"              # 触发条件描述
+      effect_short: "<一句话效果；写数据关键词方便AI抓取>" # 简述
+
+  spellcasting:                 # 施法相关（若无施法可整体保留默认）
+    class: "<施法职业>"          # 施法来源职业/子职
+    ability: "<智力>"            # 施法主属性（智力/感知/魅力）
+    dc: 10                      # 法术豁免 DC（一般=8+熟练+主属修正）
+    attack_bonus: 0             # 法术攻击加值
+    slots:                      # 法术位（按环级）
+      "1": 0
+      "2": 0
+      "3": 0
+    spellbook:                  # 法术书/已知法术
+      cantrips: []              # 戏法
+      level1: []
+      level2: []
+    prepared:                   # 已准备法术（预备制职业使用）
+      level1: []
+      level2: []
+
+  equipment:                    # 装备与财物
+    armor: []                   # 护甲列表
+    weapons:
+      - name: "<武器名>"
+        attack_bonus: 0
+        damage:
+          - dice: "XdY+Z"
+            type: "<伤害类型>"
+        properties: []          # 武器特性（如 轻型/灵巧/投掷）
+        ammo:                   # 弹药（近战可忽略此块）
+          name: "<弹药名>"
+          qty: 0
+    pack: []                    # 冒险包与杂项（字符串或对象，建议统一为字符串）
+    coins:                      # 货币
+      pp: 0
+      gp: 0
+      sp: 0
+      cp: 0
+    others: []                  # 其他重要物品（可含自定义字段）
+
+  notes: "<自由笔记：给DM/玩家/AI的补充>"  # 任意补充说明
+
