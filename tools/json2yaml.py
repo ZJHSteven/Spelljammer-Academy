@@ -169,6 +169,42 @@ def dump_yaml(obj: Any, indent: int = 0) -> str:
 
 
 # =====================
+# 领域转换（可选策略）
+# =====================
+
+def _to_gp_only(coins: dict[str, Any]) -> dict[str, Any]:
+    """将硬币对象统一折算为 gp，仅保留键 "gp"。
+
+    约定换算：1 pp = 10 gp；1 gp = 10 sp = 100 cp。
+    结果保留两位小数（避免浮点展示过长）。
+    """
+    pp = float(coins.get("pp", 0) or 0)
+    gp = float(coins.get("gp", 0) or 0)
+    sp = float(coins.get("sp", 0) or 0)
+    cp = float(coins.get("cp", 0) or 0)
+    total_gp = pp * 10.0 + gp + sp / 10.0 + cp / 100.0
+    # 规避 -0.00 等表现
+    total_gp = round(total_gp + 0.0, 2)
+    if total_gp == 0:
+        total_gp = 0.0
+    return {"gp": total_gp}
+
+
+def transform_data(data: Any) -> Any:
+    """领域级转换：
+    - 将 character.equipment.coins 折算为仅含 'gp'；其他字段保持原样。
+    """
+    try:
+        equip = data.get("character", {}).get("equipment", {})
+        coins = equip.get("coins")
+        if isinstance(coins, dict):
+            equip["coins"] = _to_gp_only(coins)  # 就地替换
+    except Exception as e:  # 保守：转换失败不应中断导出
+        log_warn(f"硬币折算为 gp 失败，保持原样：{e}")
+    return data
+
+
+# =====================
 # CLI 入口
 # =====================
 
@@ -183,6 +219,7 @@ def main(argv: list[str]) -> int:
         die(f"输入文件不存在：{in_path}")
 
     data = load_json_with_fallback(in_path)
+    data = transform_data(data)
 
     out_path = args.output
     if not out_path:
@@ -201,4 +238,3 @@ def main(argv: list[str]) -> int:
 
 if __name__ == "__main__":
     sys.exit(main(sys.argv[1:]))
-
