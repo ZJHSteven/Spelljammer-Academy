@@ -1,23 +1,19 @@
 """
 “战利品大全” Markdown → YAML 转换器（面向当前自定义战利品 Schema）
 
-教学向设计：
-- 问题背景：历史“战利品大全”是 Markdown，名称后以“×N”标注数量（如“翡翠指环×2”）。
-- 目标：解析分组标题（类型大类）与条目，生成符合本仓库战利品 YAML 的最小可用数据；
-- 取舍：
-  - 不做币种转换与估值计算；
-  - 数量与重量二选一：解析到“×N”则填 quantity，weight_lb 留空（null）。
-  - 内容规整假设：
-    * 大类以二级或三级标题表示（## 或 ###），如“## 武器/Weapon”；
-    * 条目以列表行表示：以 “- ” 或 “* ” 开头，名称后可带“×N”；
-    * 其他描述暂存入 `appearance` 字段（无法可靠区分外观/效果时，全部归为外观，后续人工细化）。
+教学向设计（按你最新要求收敛类型）：
+- 仅允许 7 个大类：武器 / 护甲 / 奇物 / 药水 / 蓝图 / 赠礼 / 不稳定；
+- 以 Markdown 一级标题 `# 大类` 判定物品 `type`；忽略条目内“**类型**:”里的冗余标签；
+- 条目以二级标题 `## 名称` 开始；名称可在末尾携带数量标记：`xN` 或 `×N`（大小写不敏感、可含空格），未写则默认为 1；
+- 从条目下的列表行提取：`**外观**: ...` 与 `**效果**: ...`；
+- 可选：从 `**类型**:` 行中提取稀有度关键词（普通/非普通/稀有/罕见/传奇）；
+- 数量/重量二选一：本解析仅设置 `quantity`；`weight_lb` 固定为 `null`，以便后续人工补全。
 
-YAML 目标结构（无顶层 items 大帽子）：
-  - 顶层为序列（list）；每个元素是一个物品字典：
-    name, quantity|weight_lb（二选一）, rarity, type, appearance, effect
+YAML 输出（顶层为物品数组）：
+- 每个物品包含：name, quantity, weight_lb, rarity, type, appearance, effect。
 
 用法：
-  python tools/md_loot2yaml.py <loot.md> -o 戰利品/xxx.yaml
+  python tools/md_loot2yaml.py <战利品大全.md> -o 战利品/导出.yaml
 """
 
 from __future__ import annotations
@@ -31,71 +27,115 @@ from common.io_utils import write_text, read_text
 from common.logging import logger
 
 
-HEADER_RE = re.compile(r"^(#{2,3})\s+(?P<title>.+?)\s*$")
-ITEM_RE = re.compile(r"^[\-*]\s+(?P<name>.+?)(?:[×x](?P<count>\d+))?\s*$")
+# 一级大类（决定 type）与二级条目（决定 name）
+H1_RE = re.compile(r"^#\s+(?P<cat>.+?)\s*$")
+H2_RE = re.compile(r"^##\s+\*\*(?P<name>.+?)\*\*\s*(?P<qty>(?:[xX×]\s?\d+)?)\s*$")
+
+# 列表行属性抓取
+LINE_APPEAR = re.compile(r"^[\-*]\s*\*\*外观\*\*\s*[:：]\s*(?P<val>.+?)\s*$")
+LINE_EFFECT = re.compile(r"^[\-*]\s*\*\*效果\*\*\s*[:：]\s*(?P<val>.+?)\s*$")
+LINE_TYPE = re.compile(r"^[\-*]\s*\*\*类型\*\*\s*[:：]\s*(?P<val>.+?)\s*$")
 
 
-def normalize_type(title: str) -> str:
-    """根据标题粗略归一化类型。
+ALLOWED = ("武器", "护甲", "奇物", "药水", "蓝图", "赠礼", "不稳定")
 
-    说明：这里只做最小映射，后续可在此补充更多规则或维护映射表。
+
+def normalize_category(h1_title: str) -> str:
+    """将一级标题映射为 7 个允许的大类之一。
+
+    - 直接命中：返回原中文（严格匹配）；
+    - 常见变体映射：如“超自然赠礼”→“赠礼”；
+    - 其他任何未知标题：归为“不稳定”。
     """
 
-    t = title.strip().lower()
-    mapping = {
-        "武器": "weapon",
-        "weapon": "weapon",
-        "奇物": "wondrous_item",
-        "wondrous": "wondrous_item",
-        "药水": "potion",
-        "potion": "potion",
-        "其他": "other",
-        "杂项": "other",
-        "other": "other",
+    t = h1_title.strip()
+    if t in ALLOWED:
+        return t
+    variants = {
+        "超自然赠礼": "赠礼",
+        "魔法武器": "武器",
+        "武器/Weapon": "武器",
+        "法术卷轴": "奇物",
+        "材料": "奇物",
     }
-    for k, v in mapping.items():
-        if k in t:
-            return v
-    # 默认 other
-    return "other"
+    return variants.get(t, "不稳定")
 
 
 def parse_md(text: str) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
-    cur_type = "other"
+    cur_cat = "不稳定"
+    cur_item: dict[str, Any] | None = None
+
+    def close_item():
+        nonlocal cur_item
+        if cur_item is not None:
+            # 补默认值与清理
+            cur_item.setdefault("quantity", 1)
+            cur_item.setdefault("weight_lb", None)
+            cur_item.setdefault("rarity", None)
+            cur_item.setdefault("appearance", None)
+            cur_item.setdefault("effect", None)
+            items.append(cur_item)
+            cur_item = None
+
     for raw in text.splitlines():
-        line = raw.strip()
+        line = raw.rstrip()
         if not line:
             continue
 
-        # 标题：更新当前类型
-        m_h = HEADER_RE.match(line)
-        if m_h:
-            cur_type = normalize_type(m_h.group("title"))
+        # 一级标题：切换大类
+        m1 = H1_RE.match(line)
+        if m1:
+            close_item()
+            cur_cat = normalize_category(m1.group("cat"))
             continue
 
-        # 列表条目：解析名称与数量
-        m_i = ITEM_RE.match(line)
-        if m_i:
-            name = m_i.group("name").strip()
-            count = m_i.group("count")
-            quantity = int(count) if count else 1
-            item = {
+        # 二级标题：开始新条目
+        m2 = H2_RE.match(line)
+        if m2:
+            close_item()
+            name = m2.group("name").strip()
+            qty_str = (m2.group("qty") or "").lower().replace("×", "x").replace(" ", "")
+            qty = 1
+            if qty_str.startswith("x") and qty_str[1:].isdigit():
+                qty = int(qty_str[1:])
+            cur_item = {
                 "name": name,
-                # 二选一：数量有值，则重量为 null
-                "quantity": quantity,
+                "quantity": qty,
                 "weight_lb": None,
-                # 稀有度未知留空，后续人工补充
                 "rarity": None,
-                # 归一化的大类
-                "type": cur_type,
-                # 初版将行内文本作为外观描述；效果描述留空
+                "type": cur_cat,
                 "appearance": None,
                 "effect": None,
             }
-            items.append(item)
             continue
 
+        if cur_item is None:
+            continue
+
+        # 抓取外观/效果/类型（用于提取稀有度）
+        ma = LINE_APPEAR.match(line)
+        if ma:
+            cur_item["appearance"] = ma.group("val").strip()
+            continue
+
+        me = LINE_EFFECT.match(line)
+        if me:
+            cur_item["effect"] = me.group("val").strip()
+            continue
+
+        mt = LINE_TYPE.match(line)
+        if mt:
+            val = mt.group("val")
+            # 稀有度关键词
+            if any(k in val for k in ("传奇", "罕见", "稀有", "非普通", "普通")):
+                for k in ("传奇", "罕见", "稀有", "非普通", "普通"):
+                    if k in val:
+                        cur_item["rarity"] = k
+                        break
+            continue
+
+    close_item()
     return items
 
 
@@ -150,4 +190,3 @@ if __name__ == "__main__":  # pragma: no cover
     except Exception as _e:  # noqa: BLE001
         _logger.error(f"转换失败：{_e}")
         raise
-
