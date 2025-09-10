@@ -8,6 +8,13 @@
 - `jason*/` 与其他资料目录：角色卡与数据（JSON/MD）。保留 UTF‑8 与文件名中的中文。
   - 新增：`jason人物卡/dnd-character.template.yaml`——与 JSON 模板字段完全等价的 YAML 模板（含中文注释）。
 
+### 目录结构（补充，2025‑09‑10）
+- 面向“人写”的 YAML 与模板按“领域”分目录，不再设置 `yaml/`/`json/` 顶层聚合目录：
+  - `角色卡/`：后续可放置 `dnd-character.template.yaml` 与角色 YAML（按需迁移）。
+  - `战利品/`：新增 `战利品.template.yaml`（顶层即物品列表，无 `items` 大帽子）。
+- 模板就近存放在对应目录内（不再设单独 `templates/` 目录）。
+- 机器对接所需 JSON 由脚本按需生成到任何你指定的位置（不强制 `json/` 目录）。
+
 ## 构建、测试与本地开发
 - 本仓库以 Markdown/JSON 文档为主，无构建流程。
 - 常用命令：
@@ -34,6 +41,25 @@
     - 产物：`jason人物卡/隆金.yaml`
   - 指定输出：`python tools/json2yaml.py "jason人物卡/罗兰.json" -o "jason人物卡/罗兰.yaml"`
   - 校验：生成后用编辑器预览 YAML 是否渲染正常；必要时对比字段完整性。
+
+#### 新增脚本（YAML 主导工作流）
+- `tools/yaml2json.py`：通用 YAML→JSON 转换（无损、仅编码/顺序规范化，不做任何币种/单位计算）。
+  - 用法：`python tools/yaml2json.py 战利品/某次-战利品.yaml -o out/某次-战利品.json`
+- `tools/md_loot2yaml.py`：“战利品大全”Markdown → YAML（基于本仓库战利品 Schema 的最小解析器）。
+  - 假设：条目前缀 `- `，数量写作 `×N`；类型行形如 `**类型**: 奇物 材料`。
+  - 用法：`python tools/md_loot2yaml.py 战利品总结/战利品大全.md -o 战利品/某次-战利品.yaml`
+
+#### 策略更新：币种
+- 自 2025‑09‑10 起，统一仅使用 `gp`，仓库中不会再出现 `pp/sp/cp`；脚本不再做币种换算。
+
+#### 战利品 Schema 要点
+- 顶层即为“物品列表”，不要再套 `items:`。
+- 每个物品字段：
+  - `name`（必填）
+  - `quantity` 与 `weight_lb` 二选一（另一项设为 `null`）
+  - `rarity`（自由文本，示例：普通/非凡/稀有/罕见/传奇）
+  - `type`（大类，详见模板内中文注释，按“战利品大全.md”枚举：魔法武器/神器/智能武器/需要同调/奇物（含卷轴、材料）/药水/药剂（实验品）/食品/消耗品（草本/饮品/口含/饮品原料/口粮）/蓝图（已制作/未制作）/超自然赠礼/other）
+  - `appearance` / `effect`（可留空，后续补充）
 
 #### 策略变更：硬币仅保留 gp
 - 自 2025-09-10 起，转换时将 `character.equipment.coins` 统一折算为仅含 `gp`：
