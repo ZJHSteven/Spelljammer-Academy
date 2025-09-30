@@ -1,12 +1,4 @@
-# Gemini_好的，DM。没问题。这里是本次《Spel 对话导出 (scroll)
-
-导出时间：20250930_144648
-
-## 回合 1
-
-**用户**:
-
-好的，DM。没问题。这里是本次《Spelljammer Academy: Realmspace Sortie!》模组从头到现在的全面内容总结，方便您进行梳理和存档。
+# 暴君舰上岛前剧情提要
 
 第一部分：暴君陷阱！
 
@@ -76,78 +68,11 @@
 
 是继续任务，还是返回学院。
 
-
-
-
-啊，这是上一次的情情提要啊，这个值得注意的是两个事情啊。第一个这个我我我他有一个错误啊，我没打算让他们让让让让让兔子现在拿到那个废掉现弹枪。我打算是他们去布洛尔岩找找找酒馆啊，找商店啊，去交易之后才拿到这个东西呃，我先把描枪的描述发给你## **古灵精怪枪 Whim-Wham Gun**
-
-
-
-
-* **类型**: 魔法武器 神器 智能武器 需要同调
-
-* **来源**: “猎颅”在仓库废墟中找到
-
-* **外观**: 枪身由类似某种巨兽的苍白骸骨构成，线条粗犷而有机。枪口张开，如同某种尖啸的骸骨生物。六发弹巢的转轮如同黑洞一般，散发着淡淡的魔法灵光似乎能吞下任何形状的内容物。整把枪看起来更像一件粗野的死灵法器，而非精密的火器。当你与之同调，一缕翠绿色的灵能火焰会从枪的缝隙中幽幽燃起。
-
-* **效果**: “古灵精怪枪”的内在意识是斯札瑞丝。她通过心灵感应与同调者交流。她拥有20的智力、18的感知和22的魅力。她能以通用语和龙语进行沟通，并且拥有60尺的真实视觉。这把枪是+1的魔法武器，拥有一个六发弹巢。你可以在一次短休或长休后，将最多六种不同的、你已解锁的“专属弹药”填入弹巢。如果你试图填入两种相同的弹药，第二发会被枪械嫌弃地“吐”出来。在你的回合开始时，枪械会从弹巢中随机选择一发已填装的弹药，并立刻变形为对应的枪械形态。如果你和她关系足够好的话，你或许可以指定对应的形态。这把枪是传奇古代奇械师达·文西四大神器之一，脾气古怪，当你的攻击检定出目小于十时，子弹将会从枪膛后方射出命中使用者。同时任何未与此枪同调的生物试图使用它时，射出的方向永远会朝向使用者。    这把枪的真正力量需要由你来发掘。你需要通过研究、战斗和斯札瑞丝的引导，来“学习”并“改造”出新的枪械形态与专属弹药。
-
-
-
-
-## 怨骨速射枪
-
-
-
-
-* **类型**: 魔法武器
-
-* **来源**: “猎颅”在仓库废墟中找到
-
-* **外观**: 枪身由类似某种巨兽的苍白骸骨构成，枪口前端的骨骼裂开，形成一个类似食人鱼的、布满利齿的颚状结构。弹药并非装在传统的弹巢里，而是在枪身上方，一根类似脊椎骨的导轨自动生成，一枚枚“怨灵针”如同锋利的牙齿般排列其上。每当开火，那骨质的下颚便会配合着射击的节奏，做出“啃噬”和“吐出”的动作，将“牙齿”高速射出。整把枪看起来就像一个活过来的、渴望撕咬的凶猛骸骨生物。
-
-* **效果**: 发射的子弹是由怨灵驱动的**自动命中**无需进行攻击鉴定，**射程60尺**。你指定射程内的一个目标，投掷**1d12**，发射等同于该数值的怨灵骨刺，每枚造成**1点力场**伤害。子弹不**能绕过障碍物**。
-
-
-
-
-## 废料霰弹枪
-
-
-
-
-* **类型**: 魔法武器
-
-* **来源**:
-
-* **外观**: 枪托部分由几块巨大的、看似随意拼接的金属板构成，上面还残留着战斗造成的划痕和缺口。枪管向外扩张，形成一个巨大的、如同喇叭花的钟形枪口。枪口边缘是不规则的锯齿状，仿佛是用巨兽的头骨直接砸碎后强行拼合而成。几条发出翠绿色光芒的能量焊缝将这些粗糙的部件勉强固定在一起，让它充满了“废土朋克”式的暴力美学。
-
-* **效果**:
-
-
-
-
-呃，然后还有一件事情就是呃他们因为团里来了一个新人，所以说呢这个新人是个游吟诗人呃，他呢得去呃布瑞尔，他们打算在布瑞尔岩这个小行星据点相聚啊，然后呢我需要你规划一下这个冒险过程的这个短短短短遭遇掉，包括他们呃能不能在这个呃布瑞岩经历一些遭遇和事情，并且呢遇到这个新的队友，然后呢这个进行了补补充修养，对吧？对吧？因为现在现在船只属于是全面下线状态，对吧？他们需要找地方去修，以及拿到这个呃霰弹枪的蓝图呃，这个以及去改造找攻防去去改造他们的武器啊，这个这个呃以及说不定可以拿到新的剑法指南书和新的奖励啊。然后还有就是他们这个眼魔大炮，看你们办法有没有办法能够能够改变一下，就是说就是说就是说让让让让人去操纵，就他么全下线了嘛，对吧？这或者买一些什么什么投石机之类的其他的防身作品，然后去修养呃聊天聊写 npc 的过往，对吧？这个 npc 的内容对吧？呃，然后为为米肯埋下伏笔啊这些这些内容啊，呃呃然后然后呢就是我我我把模组内容发给你
-
- Spelljammer Academy: Realmspace Sortie!
-
-
-
-
-![](https://5enew.kagangtuya.top/img/adventure/SjA/024-02-001.sja03-splash.webp)
-
-
-
+# spelljammer-academy-realmspace-sortie模组原文
 
 ## Introduction
 
-
-
-
 This adventure, designed for **three to seven 3rd-level characters**, is the third in a series of four adventures. The adventure begins at Spelljammer Academy, which is located on the planet Toril (the world of the Forgotten Realms setting). From there, the characters enter Wildspace and travel to the distant planet H'Catha (the outermost world in the Wildspace system known as Realmspace) to retrieve an adamantine meteorite.
-
-
-
 
 >Playing in the Adventurers League
 
@@ -161,68 +86,29 @@ This adventure, designed for **three to seven 3rd-level characters**, is the thi
 
 >
 
-
-
-
 ### Background
-
-
-
 
 As basic training at Spelljammer Academy comes to its conclusion, the characters are required to complete their first mission aboard a spelljamming ship. As luck would have it, orders have come down for them to embark on a retrieval mission. While confidence in the cadets' abilities is high, the recent discovery of a spy in their midst has the academy's faculty on high alert. For this reason, a staff member is coming along to supervise and make sure nothing prevents the character-recruits from completing their mission. That staff member is Petty Officer Winston Ryeback. The spy is a recruit named Miken Haverstance, who waits until the opportune moment in the adventure to strike. Until that time, he acts no differently than any other young recruit.
 
-
-
-
 ### Overview
-
-
-
 
 This adventure takes approximately two hours to play and is split into three parts:
 
-
-
-
 Part 1: Tyrant Trap! The recruits are taken to a tyrant ship that has been divested of its original complement of beholders. Once aboard, the recruits must install a *spelljamming helm* on the tyrant ship's Command Deck, where a nefarious trap awaits them.
-
-
-
 
 Part 2: Like Clockwork! The recruits begin their trek across Wildspace, only to discover that their new ship has stowaways. A fight erupts between the recruits and some clockwork horrors hiding under some wreckage.
 
-
-
-
 Part 3: Fire in the Galley! The recruits must save the ship from a fire on the tyrant ship's Cargo Deck. Magma mephits hint at the presence of a potential saboteur, though further investigation may turn up conflicting evidence.
-
-
-
 
 ### Adventure Hooks
 
-
-
-
 *Spelljammer Academy: Realmspace Sortie*! follows directly after the events of *Spelljammer Academy: Trial by Fire*. In this adventure, the characters are given their first assignment: retrieving a meteorite of precious adamantine from H'Catha, a distant, disc-shaped world. The characters, having undergone training exercises, have been charged with commandeering a vacant tyrant ship for their first real mission. Others are either fresh recruits or freelancers hired by the faculty.
-
-
-
 
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/025-02-002.tyrant-splash.webp)
 
-
-
-
 ## Part 1: Tyrant Trap!
 
-
-
-
 The characters are roused from their slumber and given a mission: travel to the planet H'Catha and retrieve a meteor comprised of adamantine.
-
-
-
 
 >Spelljammer Academy
 
@@ -240,18 +126,9 @@ The characters are roused from their slumber and given a mission: travel to the 
 
 >
 
-
-
-
 ### Get Moving, People!
 
-
-
-
 Read or paraphrase the following to begin the adventure:
-
-
-
 
 >>The day began early at four bells as you were awakened by Boatswain Tarto in a most discourteous fashion. Dodging thrown garbage cans, you geared up, ate a hasty breakfast, and were immediately commanded to the deck of a hammerhead ship called the *Flighty Foundling*. As soon as you board the ship, it rises into the air toward Wildspace.
 
@@ -269,18 +146,9 @@ Read or paraphrase the following to begin the adventure:
 
 >>
 
-
-
-
 ### Tyrant Ship Features
 
-
-
-
 The tyrant ship has the following features:
-
-
-
 
 - **Dimensions and Terrain** Unless otherwise noted, the ceilings in the chambers within this vessel are 20 feet high. Since the entire ship was constructed using disintegration rays, the surfaces of the floors, walls, and ceilings are smooth and featureless. Climbing a vertical surfaces is difficult without climbing gear or magic, requiring a successful DC 25 Strength (Athletics) check.
 
@@ -288,43 +156,19 @@ The tyrant ship has the following features:
 
 - **Gravity Plane** The gravity plane for the tyrant ship runs midway through its roughly spherical mass. This means that where you're standing in any given room can change depending on which deck you happen to be on. For example, the floor of the Hollow Deck is the bowl-shaped surface nearest the Command Deck.
 
-
-
-
 ### Tyrant Ship Map
-
-
-
 
 More information regarding the tyrant ship can be found on the map below. Additionally, a second map of the ship is provided as player handout 1, with tips for navigating its interior and situating the *spelljamming helm*.
 
-
-
-
 ![Tyrant Ship Deck Plans](https://5enew.kagangtuya.top/img/adventure/SjA/026-02-011.tyrant-ship-without-notes.webp)
-
-
-
 
 ### NPC Information
 
-
-
-
 Petty Officer Winston Ryeback takes command of Miken, Krik'Lit, and Pffred and puts them to work unpacking gear (see "Equipment List" below), taking inventory, and setting up a makeshift galley in one of the Cargo Deck's chambers.
-
-
-
 
 Petty Officer Ryeback keeps a weather eye on the characters and serves mostly in an advisory role throughout the mission. Feel free to use him as a means of providing hints and guidance. If the characters get over their heads in a fight, Petty Officer Ryeback can back them up at range, using his musket. He uses the **giff** stat block (see "Creature Statistics" later in the adventure), though his Longsword attacks are made with a giant cleaver that deals the same amount of damage.
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/027-02-002.o-winston-ryeback.webp)
-
-
-
 
 >Petty Officer Winston Ryeback
 
@@ -342,18 +186,9 @@ Petty Officer Ryeback keeps a weather eye on the characters and serves mostly in
 
 >
 
-
-
-
 ### Equipment List
 
-
-
-
 The following equipment is transferred from the *Flighty Foundling* to the tyrant ship:
-
-
-
 
 - *Climber's kits* (1 per character)
 
@@ -369,9 +204,6 @@ The following equipment is transferred from the *Flighty Foundling* to the tyran
 
 - 2 *barrels* of water
 
-
-
-
 - 5 *flasks* of cooking oil
 
 - 2 *chests* containing fresh foodstuffs
@@ -386,33 +218,15 @@ The following equipment is transferred from the *Flighty Foundling* to the tyran
 
 - *Sending stone* (Boatswain Tarto has its mate)
 
-
-
-
 ### Installing the Helm
-
-
-
 
 Petty Officer Winston Ryeback instructs the characters to place the *spelljamming helm* on the tyrant ship's Command Deck (even though the helm can function anywhere on the ship). Getting the helm to the Command Deck will take a bit of work, given that the tyrant ship's access shafts are designed for hovering beholders.
 
-
-
-
 Characters can use the climbing kits, pitons, and ropes to create an anchored rope ladder that allows them to easily traverse an access shaft. Assuming they follow this course of action, no ability checks are required to climb the shaft. It simply takes time and effort. Roll 2d4 + 2 to determine how many hours it takes. Halve the time if the characters devise a clever way to accomplish the work more quickly.
-
-
-
 
 Regardless of how the characters get the *spelljamming helm* to the Command Deck, a nefarious trap awaits them upon their arrival there. This trap (described below) was left behind by the tyrant ship's beholder crew before they abandoned the vessel.
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/028-02-003.o-miken-haverstance.webp)
-
-
-
 
 >Miken Haverstance
 
@@ -430,28 +244,13 @@ Regardless of how the characters get the *spelljamming helm* to the Command Deck
 
 >
 
-
-
-
 ### Spin Cycle Trap
-
-
-
 
 The first time a creature enters any of the chambers on the Command Deck, a trap activates, causing the ship to rapidly spin end over end for 1 minute. When the ship starts to spin, have each character roll initiative.
 
-
-
-
 ***Effect.*** On initiative count 20, each character aboard the spinning ship must make a DC 15 Dexterity saving throw. On a failed save, the character takes 7 (2d6) bludgeoning damage and is knocked prone. On a successful save, the character takes half as much damage and isn't knocked prone.
 
-
-
-
 ***Countermeasures.*** Characters can contend with the trap in various ways, including the following:
-
-
-
 
 - **Brace, Brace, Brace!** As an action, a character can make a DC 15 Strength (Athletics) check to try to brace themself to keep from getting tossed about. If the check is a failure, no benefit is gained, and the action is wasted. If the check is successful, the character has advantage on their next Dexterity saving throw against the trap and takes no damage if the saving throw is successful.
 
@@ -463,13 +262,7 @@ The first time a creature enters any of the chambers on the Command Deck, a trap
 
 - **NPCs on Spin Cycle** As soon as the ship starts to spin, Petty Officer Winston Ryeback activates magic tattoo on his arm that allows him to cast the *feather fall* spell once. The tattoo then vanishes. If Miken, Krik'Lit, and Pffred are still with him, the spell affects them as well. If they're not with him, assume that when the spin cycle ends, they are all unconscious but stable at 0 hit points. They can each be fed a *potion of healing* from the equipment brought on board.
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/029-02-005.krik-lit.webp)
-
-
-
 
 >Krik'Lit
 
@@ -487,13 +280,7 @@ The first time a creature enters any of the chambers on the Command Deck, a trap
 
 >
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/030-02-006.pffred.webp)
-
-
-
 
 >Pffred
 
@@ -511,87 +298,39 @@ The first time a creature enters any of the chambers on the Command Deck, a trap
 
 >
 
-
-
-
 ### Wrapping Up
-
-
-
 
 Once the characters have disabled or survived the spin cycle trap, they can place the *spelljamming helm* in any of the Command Deck's chambers. A spellcasting character can then attune to the helm. If no character can attune to the helm, Miken Haverstance volunteers to serve as the ship's spelljammer. Otherwise, Miken keeps quiet and sticks with Petty Officer Ryeback.
 
-
-
-
 ## Part 2: Like Clockwork!
-
-
-
 
 This encounter begins when the characters investigate strange sounds coming from the tyrant ship's Hollow Deck. The sounds begin after the ship is well underway and millions of miles from home.
 
-
-
-
 Any character on the Command Deck who has a passive Wisdom (Perception) score of 13 or higher hears the clank of metal on stone coming from the hatch in the middle of the floor of deck. A character who is within 5 feet of the hatch hears the sound automatically.
-
-
-
 
 Any character who passes through the hatch experiences mild vertigo—the result of passing through the tyrant ship's gravity plane.
 
-
-
-
 ### Hollow Deck Havoc
 
-
-
-
 Describe the Hollow Deck as follows:
-
-
-
 
 >>This deck is one large, bowl-shaped chamber containing several large piles of mechanical parts, with many more parts strewn across the floor. Several partially disassembled autognomes are among the wreckage, and picking them apart are three insectile creatures made of gleaming metal.
 
 >>
 
-
-
-
 Three **clockwork horrors** are methodically salvaging pieces and parts from dead autognomes to construct a fourth clockwork horror, which is only half assembled. Once these creatures notice the characters, read or paraphrase the following:
-
-
-
 
 >>The insectile automatons menace you with rotating saws that extend from their forelimbs. They appear to speak to each other using clicking noises that seem oddly familiar.
 
 >>
 
-
-
-
 The clockwork horrors are speaking Thri-kreen to one another, so thri-kreen characters understand what they say as they attack. The creatures mockingly praise the characters for bringing a *spelljammer helm* onto the tyrant ship, so the horrors can take command of the vessel once the characters are all dead.
-
-
-
 
 ### Autognome Survivor
 
-
-
-
 Once the clockwork horrors have been defeated, the characters can search the wreckage scattered throughout the Hollow Deck. Any character who does so can make a DC 11 Wisdom (Perception) check. On a successful check, the character finds a survivor buried under one of the debris piles: an autognome named Wizpop (see the accompanying sidebar).
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/031-02-007.wizpop.webp)
-
-
-
 
 >Wizpop
 
@@ -615,142 +354,61 @@ Once the clockwork horrors have been defeated, the characters can search the wre
 
 >- **Quote:** " Hsssssshhh....pop..whirrr.. shsss...pop!" [shudders in fear]"
 
-
-
-
 #### Treasure
-
-
-
 
 Lying next to Wizpop is a small iron coffer, latched but not locked, that contains five pearls (100 gp each) and a case that contains a *spell scroll* of *rope trick*.
 
-
-
-
 ### Wrapping Up
-
-
-
 
 Once the characters have had enough fun on the Hollow Deck, proceed to Part 3 of this adventure.
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/032-02-008.clockwork-horror.webp)
-
-
-
 
 ## Part 3: Fire in the Galley!
 
-
-
-
 A fire has erupted on the Cargo Deck where Petty Officer Ryeback has set up his galley. Smoke from the fire spreads from the Cargo Deck to the Hollow Deck, but it doesn't cross the ship's gravity plane and can't be detected on the Command Deck or Meditation Deck.
-
-
-
 
 ### Fire Alarm
 
-
-
-
 None of the characters should be on the Cargo Deck when this scene begins.
-
-
-
 
 >>Everything has settled into relative peace and quiet. Then, without warning, Miken climbs out of the access shaft you've been using to move between decks. His hair is disheveled, and his clothes reek of smoke. He's breathing hard from his climb and appears to be having difficulty speaking between labored gasps of air.
 
 >>
 
-
-
-
 Though winded and fatigued, Miken is unharmed. When one or more characters approach him, he croaks out, "Fire... in the galley... out of control. Must... save others."
-
-
-
 
 ### Cargo Deck Conflagration
 
-
-
-
 Miken follows the characters as they head to the Cargo Deck to combat the fire, as does Wizpop if the characters found and repaired the autognome. The characters arrive to find the Cargo Deck filled with thick smoke. Rules for the smoke are as follows:
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/033-02-009.magma-mephit.webp)
-
-
-
 
 - **Smoke Inhalation** Any creature that needs to breathe must make a DC 10 Constitution saving throw whenever it starts its turn on the Cargo Deck. The saving throw is made with advantage if the creature's nose and mouth is covered with damp cloth. If the saving throw is a failure, the creature gains 1 level of exhaustion.
 
 - **Visibility** Visibility on the Cargo Deck is reduced to 10 feet. Creatures and objects beyond that range are heavily obscured.
 
-
-
-
 #### Elemental Meddling
-
-
-
 
 The chamber containing the galley is the source of the fire, which Miken set using two *spell scrolls* (*glyph of warding* cast at 4th level and *conjure minor elementals*). The *glyph of warding* was triggered when Petty Officer Ryeback activated his portable cooking surface. The fire spread with the help of four magma mephits. The giff Petty Officer managed to slay one of the mephits before succumbing to fire damage and smoke inhalation.
 
-
-
-
 When the characters reach Petty Officer Ryeback's dead body, three **magma mephits** attack them. Due to their elemental nature, the mephits aren't as hindered by the smoke. They can see clearly out to 20 feet, and creatures and objects beyond that range are only lightly obscured.
-
-
-
 
 #### Running the NPCs
 
-
-
-
 As the characters defeat the last of the mephits, Krik'Lit and Pffred get the fire under control by expending half the group's water supply. Each of them has 3 levels of exhaustion from smoke inhalation.
-
-
-
 
 While Krik'Lit and Pffred focus on putting out the fire, Miken passes out water-soaked cloths that everyone can wrap around their noses and mouths, giving them advantage on saving throws to resist the effect of smoke inhalation.
 
-
-
-
 If Wizpop is present, the traumatized autognome watches the scene unfold but takes no actions unless it is given a direct order from a character. Smoke inhalation isn't a problem for Wizpop, who doesn't breathe.
-
-
-
 
 ### Aftermath
 
-
-
-
 The smoke begins to clear once the fire is extinguished, allowing characters to survey the damage without having to worry about smoke inhalation. The *potions of healing* and the *sending stone* survived the fire and can be easily retrieved, as can the chest of rations.
-
-
-
 
 #### Depleted Supplies
 
-
-
-
 The following equipment was consumed by the fire or expended putting out the flames:
-
-
-
 
 - Portable cooking surface
 
@@ -762,50 +420,23 @@ The following equipment was consumed by the fire or expended putting out the fla
 
 - 1/2 cord of precut firewood
 
-
-
-
 #### Sifting through the Ashes
 
-
-
-
 Any character who searches the Cargo Deck for clues can make a DC 13 Intelligence (Investigation) check. If the check is a failure, the character knows only that the fire started near Petty Officer Ryeback's portable cooking surface. If the check succeeds, the character ascertains the following:
-
-
-
 
 - **Cause of the Fire** Although the fire originated from Petty Officer Ryeback's portable cooking surface, the surface is incapable of producing an explosion big enough to cause such a conflagration, nor could it summon the magma mephits.
 
 - **Magical Origin** The fire was likely started by a magic spell—perhaps a spell cast on or near Petty Officer Ryeback's portable cooking surface. The mephits were either summoned by the same spell or by another spell.
 
-
-
-
 #### Questioning the NPCs
-
-
-
 
 Krik'Lit and Pffred have no clue how the fire started. They remember hearing an explosion in the galley, followed by Petty Officer Ryeback screaming in pain and barking orders at them. Krik'Lit and Pffred did as they were told and opened the barrels of water while Petty Officer Ryeback battled the mephits.
 
-
-
-
 Miken denies knowing who or what started the fire, but he's the only NPC cadet who has any magical talent, making him the most likely suspect. A *detect thoughts* spell or similar magic can reveal his guilt. A character can try to force a confession from Miken, doing so with a successful DC 13 Charisma (Intimidation) check. If the truth comes out, Miken explains that he was recruited by a mercane to set a trap for Petty Officer Ryeback. The mercane gave Miken two *spell scrolls* to set the trap. Miken expected Petty Office Ryeback would be hurt, but not killed. Although he doesn't know the mercane's name, Miken reveals that he was promised enough money to set him and his equally young fiancé up for life. Miken surrenders to the characters at this point, throwing himself on their mercy.
-
-
-
 
 ### Wrapping Up
 
-
-
-
 The characters have a few decisions to make:
-
-
-
 
 - Do they turn back or press on?
 
@@ -815,23 +446,11 @@ The characters have a few decisions to make:
 
 - Do they use the *sending stone* to contact Boatswain Tarto with news of Miken's treachery and Petty Officer Ryeback's death?
 
-
-
-
 If the characters use the *sending stone* to contact Tarto, she commands them to wait for backup. If the characters heed this command, Tarto arrives a day later aboard the *Flighty Foundling*.
-
-
-
 
 The Spelljammer Academy adventure series concludes in *Behold... H'Catha*!
 
-
-
-
 ## Creature Statistics
-
-
-
 
 - **Apprentice Wizard**
 
@@ -841,23 +460,11 @@ The Spelljammer Academy adventure series concludes in *Behold... H'Catha*!
 
 - **Magma Mephit**
 
-
-
-
 ## Appendix A: Realmspace
-
-
-
 
 Realmspace is a system made up of eight worlds orbiting a yellow sun, as shown on the accompanying map. The distances on the map and in the Realmspace table assume the use of a ship equipped with a *spelljamming helm* (see "How Spelljamming Works" in chapter 2 of *Astral Adventurer's Guide*).
 
-
-
-
 All the worlds of Realmspace have creatures and plants of one sort or another living on them. Toril is the most Earthlike, while the outer worlds (Glyth, Garden, and H'catha) are on the other end of the spectrum.
-
-
-
 
 ##### Realmspace
 
@@ -881,123 +488,51 @@ All the worlds of Realmspace have creatures and plants of one sort or another li
 
 | H'catha | Disk-shaped water body orbited by two moons                                                 | 1,600 million miles (16 days travel)  |
 
-
-
-
 ### Locations in Realmspace
-
-
-
 
 The following locations are depicted on the map of Realmspace.
 
-
-
-
 ![Realmspace Map](https://5enew.kagangtuya.top/img/adventure/SjA/034-02-012.realmspace.webp)
-
-
-
 
 #### Anadia
 
-
-
-
 The surface of Anadia is an expanse of badlands and dry washes except at its poles, where the land flattens out into gently rolling, fertile hills dotted with forests and patches of grassland. Communities of halflings occupy the polar areas, while the barren wastes are populated by monstrous predators and scavengers.
-
-
-
 
 #### Coliar
 
-
-
-
 This gas giant has a multitude of earth and water islands swirling around in its turbulent winds. These islands are occupied mostly by aarakocra, lizardfolk, and dragons. The lizardfolk, in particular, are accustomed to trading with spacefaring folk.
-
-
-
 
 #### Toril
 
-
-
-
 Toril, the locale of the Forgotten Realms setting, is the most populous world in Realmspace and home to some of the most powerful individuals in this system. It has regular and prosperous ties with the various nations and factions of Wildspace.
-
-
-
 
 Toril's single large moon, Selune, has a breathable atmosphere and is occupied by isolated groups of inhabitants. Toril's space-dwelling communities generally congregate in a cluster of asteroids that trails behind Selune in the same orbit. This cluster, called the Tears of Selune, has numerous settlements. The Rock of Bral (described in the *Astral Adventurer's Guide*) could be one of the many asteroids that form the cluster.
 
-
-
-
 #### Karpri
-
-
-
 
 This water world has icecaps at its poles and vegetation-choked waters in its equatorial region. In between, on either side of the equatorial zone, are bands of featureless ocean—nothing but water as far as the eye can see. Most of the planet's indigenous creatures are aquatic and dwell in the tropical sargasso, since the planet has no land masses that can support life.
 
-
-
-
 #### Chandos
-
-
-
 
 Chandos is a large water world with thousands of floating islands that often collide with one another, making these locations less than ideal for permanent settlements. Beneath the islands, in the depths of Chandos, live all sorts of bioluminescent aquatic creatures.
 
-
-
-
 #### Glyth
-
-
-
 
 Spelljamming ships known as nautiloids (described in the *Astral Adventurer's Guide*) patrol the space within 100 million miles of Glyth and hide behind the planet's three moons. This is not surprising because **mind flayers** are the undisputed masters of Glyth. The planet's air smells like it came from a charnel house, but it is not poisonous. The surface of the planet is a desolate wasteland, but beneath the crust is a labyrinth of subterranean caves inhabited by mind flayer colonies.
 
-
-
-
 #### Garden
-
-
-
 
 Garden is a cluster of seven planetoids inside a common air envelope, each of them linked to the others by the roots of an unimaginably large plant sometimes referred to as Yggdrasil's Child. Wildspace travelers sometimes come to Garden to restock their food, water, and air.
 
-
-
-
 Garden is a refuge for spacefaring pirates, who hide their spelljamming ships in the maze of passageways that run between Yggdrasil's Child and the planetoids, and might do the same in the craters and canyons on any of Garden's eleven moons.
-
-
-
 
 #### H'catha
 
-
-
-
 H'catha is a disk of water floating in space, with a single large mountain called the Spindle jutting from its center. The water disk tapers at the edge to form a rim. The Spindle is 200 miles across at its base, and tapers to a peak 1,000 miles above the surface of the water. The caverns inside the Spindle are home to five warring subspecies of beholders.
-
-
-
 
 ## Handout 1: Tyrant Ship Map
 
-
-
-
 ![](https://5enew.kagangtuya.top/img/adventure/SjA/035-02-010.tyrant-ship-with-notes.webp)
-
-
-
 
 >> ##### Command Deck
 
@@ -1007,18 +542,9 @@ H'catha is a disk of water floating in space, with a single large mountain calle
 
 >>- Mind the Shift!
 
-
-
-
 >>- We're not sure what these are for... resting? With beholders, who knows?
 
-
-
-
 ------
-
-
-
 
 这是这一章的完全模组，你也能看到啊，咱们现在等于跑到一半了，对吧？前两章结束了，进入第三章之间，咱们插入的一个步骤，语言的章节。然骺线在我再把关于设定书中部瑞布瑞尔言这个地方的设定发给你
 
@@ -1036,15 +562,9 @@ asteroid city, which can serve as a hub for campaigns set in Wildspace.
 
 The accompanying poster map shows the topside and underside of the Rock of Bral, which are described later in this chapter.
 
-
-
-
 There's only one rule on the Rock of Bral: leave your vendettas at the docks
 
 Past and Present p59
-
-
-
 
 The
 
@@ -1136,9 +656,6 @@ Cozar, in this regard—and he isn't easily intimidated.
 
 Life on the Rock p59
 
-
-
-
 Bral
 
 is populated by an outlandish collection of traders, rogues,
@@ -1151,13 +668,7 @@ Most folks who call the Rock home adhere to two principles: mind your
 
 own business whenever possible, and enough gold can fix anything.
 
-
-
-
 Keeping Order p59
-
-
-
 
 General
 
@@ -1197,9 +708,6 @@ much of their time.
 
 Who's Who p60
 
-
-
-
 Part
 
 of the trick to making the most of a visit to the Rock is knowing whom
@@ -1208,13 +716,7 @@ to approach and whom to avoid, so here's a helpful guide to who does
 
 what.
 
-
-
-
 Prince Andru and His Court p60
-
-
-
 
 The
 
@@ -1230,13 +732,7 @@ the years since.
 
 Prince Andru surrounds himself with a small group of advisors, two of whom are described below.
 
-
-
-
 Proconsul Gadaric Main p60
-
-
-
 
 Gadaric
 
@@ -1244,13 +740,7 @@ is Andru's chief advisor. His appearance is that of the stereotypical
 
 elderly court wizard. He is hot-headed and a bit unreliable.
 
-
-
-
 Captain Mahaxara Khal p60
-
-
-
 
 Mahaxara,
 
@@ -1260,13 +750,7 @@ snake tattoos adorning her arms. She is unflinchingly loyal to House
 
 Cozar, though she has no appetite for courtly politics.
 
-
-
-
 Underbarons p60
-
-
-
 
 Four
 
@@ -1294,9 +778,6 @@ of a rival guild's actions.
 
 The four current underbarons are as follows:
 
-
-
-
 Ozamata. This lawful evil human controls the docks and most of the Low City.
 
 Meredin Sandyfoot. This neutral good halfling, headquartered in a neighborhood known as the Burrows, holds sway over craftspeople.
@@ -1306,9 +787,6 @@ The Juggler. This chaotic good elf oversees a network of swindlers and minstrels
 The Unknowable One. Within the cavernous interior of the Rock dwells a mysterious underbaron who specializes in smuggling. This underbaron—a mind flayer—breeds intellect devourers and uses them to turn Bralian citizens into spies.
 
 Getting Your Bearings p60
-
-
-
 
 The
 
@@ -1356,13 +834,7 @@ contains a network of caverns and tunnels. Built by pirates and
 
 smugglers, this dungeon is home to one of the city's underbarons (see Underbarons above) and is frequently used for clandestine meetings.
 
-
-
-
 High City p60
-
-
-
 
 Rising
 
@@ -1372,13 +844,7 @@ City is a green, spacious expanse that holds Prince Andru's palace,
 
 called Starhaven, and various noble estates.
 
-
-
-
 Starhaven p60
-
-
-
 
 Standing
 
@@ -1397,9 +863,6 @@ in impeccable livery see to the needs of the palace's occupants, while
 armored guards stand vigilant around the grounds.
 
 Lake Bral p60
-
-
-
 
 Lake
 
@@ -1427,9 +890,6 @@ A natural stone formation, called the Stonebridge, spans a narrow part of the la
 
 Festival Grounds and Arena of Frun p61
 
-
-
-
 The
 
 Festival Grounds is a broad parkland used for public gatherings on
@@ -1440,13 +900,7 @@ of Frun is the site of a series of athletic games, though it is seldom
 
 used for organized events otherwise.
 
-
-
-
 Library of the Spheres p61
-
-
-
 
 The
 
@@ -1456,13 +910,7 @@ other manuscripts. The library doesn't contain any books or scrolls of a
 
 magical nature, and none of its contents can be taken off the premises.
 
-
-
-
 The Man-o'-War p61
-
-
-
 
 For
 
@@ -1478,9 +926,6 @@ Shrii Hallek, a respectful female hadozee, manages the Man-o'-War for its myster
 
 Royal Theater Company p61
 
-
-
-
 The
 
 Royal Theater has been in operation for over sixty years. The company's
@@ -1489,13 +934,7 @@ lavish stage productions often feature magical illusions and
 
 pyrotechnical special effects.
 
-
-
-
 Temple District p61
-
-
-
 
 The
 
@@ -1511,9 +950,6 @@ Helpful SpellsSpellDonationCommune1,000 gpLegend lore1,500 gpLesser restoration1
 
 Middle City p62
 
-
-
-
 The
 
 financial and mercantile center of Bral, the Middle City is home to
@@ -1524,9 +960,6 @@ don't have the privilege or means to dwell behind the walls of the High
 
 City.
 
-
-
-
 Elmandar's
 
 Star Charts is run by a retired elf adventurer who once served as the
@@ -1536,9 +969,6 @@ spelljammer aboard a space galleon called the Eclipse (shown here as a
 model)
 
 The Donjon p62
-
-
-
 
 The
 
@@ -1552,13 +982,7 @@ where those judged too dangerous to serve sentences working the fields
 
 on the underside are imprisoned. The Warden of the Donjon is a plasmoid boss (see Boo's Astral Menagerie) named Ux.
 
-
-
-
 The Edge p62
-
-
-
 
 One
 
@@ -1568,13 +992,7 @@ establishment that's popular among space travelers visiting the Rock. A
 
 chatty, philosophical thri-kreen mystic (see Boo's Astral Menagerie) named Vikka tends bar.
 
-
-
-
 Elmandar's Star Charts p62
-
-
-
 
 Elmandar,
 
@@ -1588,13 +1006,7 @@ between 300 and 800 gold pieces, but the owner of an Elmandar map can
 
 bring it back to the shop at any time for an update at no charge.
 
-
-
-
 Gaspar's Reclamations p62
-
-
-
 
 Gaspar's
 
@@ -1608,13 +1020,7 @@ More important in the short term is the boost to its reputation that the
 
 business receives with every successful recovery.
 
-
-
-
 Great Market p62
-
-
-
 
 A
 
@@ -1626,13 +1032,7 @@ hub of the Middle City. During business hours, throngs of people swarm
 
 the area, and pickpockets dart among them to ply their own trade.
 
-
-
-
 Juggler's Folk Guildhouse p62
-
-
-
 
 Operating
 
@@ -1646,13 +1046,7 @@ the Juggler operates out of the theater, occasionally performing before
 
 audiences unaware of her identity.
 
-
-
-
 Red Masks Guildhouse p62
-
-
-
 
 The
 
@@ -1680,9 +1074,6 @@ group's leaders.
 
 Mages' Guildhall p62
 
-
-
-
 A
 
 sturdy three-story tower, the Mages' Guildhall is the headquarters and
@@ -1699,13 +1090,7 @@ the guild's research facilities, and the prospect of professional
 
 discourse with others of a similar mind.
 
-
-
-
 The Sindiath Line p62
-
-
-
 
 A
 
@@ -1719,13 +1104,7 @@ other Wildspace systems. The captains who work for the Sindiath Line are
 
 capable and dependable.
 
-
-
-
 The Smith's Coster p62
-
-
-
 
 The
 
@@ -1741,13 +1120,7 @@ exchange for furs and other valuable merchandise, or making firearms
 
 available to a culture in which they were previously unknown.
 
-
-
-
 Valkan's Legion p62
-
-
-
 
 The
 
@@ -1773,9 +1146,6 @@ security on a temporary basis.
 
 Low City p63
 
-
-
-
 The
 
 beating heart of the Rock lies in the warren of streets and crowded
@@ -1792,13 +1162,7 @@ alehouses, shops, and crafting establishments and an equally staggering
 
 number of vacant buildings.
 
-
-
-
 Docks p63
-
-
-
 
 Most
 
@@ -1812,13 +1176,7 @@ turned into storage areas. Many of them are fitted with hoists used to
 
 transport cargo to the warehouses topside.
 
-
-
-
 The Drydock p63
-
-
-
 
 Referred
 
@@ -1826,13 +1184,7 @@ to as the drydock, the shipyards, or simply the yards, this large, flat
 
 area along the leading edge is where ships are built and repaired.
 
-
-
-
 The Happy Beholder p63
-
-
-
 
 This prosperous tavern is owned and run by Large Luigi, a locally famous, lawful neutral beholder.
 
@@ -1844,15 +1196,9 @@ civic-minded, well-liked citizen who has no political ambitions. His
 
 tavern is rarely troubled by bullies or thieves.
 
-
-
-
 Large Luigi, the proprietor of the Happy Beholder, is delighted to meet new patrons
 
 Lesser Market p63
-
-
-
 
 The
 
@@ -1868,13 +1214,7 @@ attracts new arrivals, fresh from the docks, who are looking for a
 
 bargain or perhaps for something more sinister.
 
-
-
-
 Mercane Agency p63
-
-
-
 
 Mercanes (see Boo's Astral Menagerie)
 
@@ -1898,9 +1238,6 @@ business with a particularly wealthy or influential client.
 
 The Rockrat p64
 
-
-
-
 Of
 
 all the taverns on Bral, the Rockrat has the reputation of being the
@@ -1911,13 +1248,7 @@ hanging pieces of damaged nautical gear. Its owner and proprietor is a
 
 friendly, foul-mouthed wererat named Maya.
 
-
-
-
 Xenotermination, Ltd. p64
-
-
-
 
 This
 
@@ -1943,9 +1274,6 @@ welcome to visit the building where the present members of the group
 
 house themselves.
 
-
-
-
 Historic Enclaves
 
 p64
@@ -1963,9 +1291,6 @@ though the name and a bit of the character of each remains. Three of
 these neighborhoods took root in areas immediately adjacent to the
 
 docks:
-
-
-
 
 The Burrows.
 
@@ -1986,9 +1311,6 @@ taverns to swap stories of their accomplishments. Gunshots ring out from
 time to time as giff challenge one another to games of marksmanship.
 
 Underside p64
-
-
-
 
 The
 
@@ -2012,13 +1334,7 @@ visitors who get themselves apprehended are generally assumed to be
 
 either spies or prisoners trying to escape.
 
-
-
-
 The Citadel p64
-
-
-
 
 The
 
@@ -2036,13 +1352,7 @@ maintain surveillance of the asteroid's immediate environs, and they are
 
 equipped with ballistae and mangonels to defend against an invasion.
 
-
-
-
 Fields p64
-
-
-
 
 The
 
@@ -2057,9 +1367,6 @@ produce are performed by convicts working off their sentences.
 The work of the prisoners is loosely supervised by bands of army regulars.
 
 Naval Base p64
-
-
-
 
 Along
 
@@ -2081,9 +1388,6 @@ captains and crews.
 
 Prisoner Barracks p64
 
-
-
-
 Convicts
 
 who have been sentenced to hard labor on the underside are housed in
@@ -2094,13 +1398,7 @@ walkways. When they're not out working the fields, prisoners are kept
 
 behind locked doors in the barracks and left to their own devices.
 
-
-
-
 The Vanes p64
-
-
-
 
 The
 
@@ -2118,13 +1416,7 @@ in good operating condition.
 
 Additional Spelljammer Tables
 
-
-
-
 Shipboard Tasks
-
-
-
 
 During
 
@@ -2144,9 +1436,6 @@ Shipboard Tasksd12Task1Scrape barnacles off the hull.2Scrub pots and dishes in t
 
 Ship Quirks
 
-
-
-
 Roll on the Ship Quirks table if you want to add a bit of "personality" to a ship.
 
 Ship Quirksd10Quirk1A chatty but harmless spirit haunts the cargo hold.2The excessive creaking of the hull echoes throughout the ship.3Any creature that removes itself from the ship's spelljamming helm receives a startling but harmless magical shock.4The ship's companionways are smaller than those found in most other similar vessels.5The ship makes a groaning sound in what seems like defiance whenever it comes to a stop.6The
@@ -2158,9 +1447,6 @@ mysterious star chart that pulsates occasionally with scintillating
 colors.7The ship's air envelope has a salty, briny smell.8Bulkheads throughout the ship have lines of poetry scrawled on them.9Unattended tools often go missing, only to reappear 1d4 hours later in another part of the ship.10A creature seated in the ship's spelljamming helm hears faint spacefaring chanteys in its mind except when the ship is under attack.
 
 Ship Cargo
-
-
-
 
 To randomly determine what's in the cargo hold of a spelljamming ship, roll 1d6 times on the Cheap Cargo table and 1d4–1 times on the Expensive Cargo table. A duplicate result indicates that the ship has more of the same cargo.
 
@@ -2174,15 +1460,9 @@ using thieves' tools, doing so with a successful DC 20 Dexterity check.
 
 Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp each)2Crate containing one hundred bars of soap (2 cp each)3Twenty ballista bolts (5 gp each)4Coop containing fifty live chickens (2 cp each)5Crate containing twenty wheels of cheese (5 sp each)6Locked cage containing one friendly Beast of your choice7Ten 40-gallon barrels of fresh water8Ten crates, each containing fifty days of rations (25 gp per crate)9Locked cage containing one hostile Beast of your choice10Chest containing fifty vials of perfume (2 gp each)11Crate containing fifty loaves of bread (2 cp each)12Ten 40-gallon barrels of ale (4 gp each)Expensive Cargod12Cargo1Crate containing fifty blank spellbooks (50 gp each)2Crate containing one hundred 1-ounce bottles of ink (10 gp each) and one thousand sheets of parchment (1 sp each)3Crate containing twenty potions of healing, flasks of alchemist's fire, or vials of antitoxin (50 gp each)4Crate containing one hundred bottles of exquisite wine (25 gp each)5Set of exquisitely crafted furniture (2,500 gp)6Locked trunk containing five unloaded pistols (250 gp each) and a box of 100 bullets7Locked case containing an exquisite Dragonchess set made of crystal or ivory (2,500 gp)8Locked trunk containing ten bombs (150 gp each; see "Explosives" in the Dungeon Master's Guide)9Crate containing one hundred fireworks (25 gp each)10Crate containing five unloaded muskets (500 gp each) and a box of 100 bullets11Locked case containing five spyglasses (1,000 gp each)12Ten 20-pound kegs of gunpowder (250 gp each; see "Explosives" in the Dungeon Master's Guide)
 
-
-
-
 然后就是我让 jpd 生成了一个呃短的概要式的提纲，呃，稍微提纲可以看看呃有没有价值
 
 没问题！我先把你们当前战局和诉求揉到一起，给你一份可直接开跑的 2 小时短模组，默认舞台在布瑞尔之岩（Rock of Bral），承接你贴的战斗日志：你们刚在“暴君舰”中层和钟表怪打完一轮、飞船被夺控过、船体与系统严重受损、队伍里还有米肯等学院线 NPC。此模组重点解决三件事：
-
-
-
 
 把新角色“鱿鱼诗人（雄辩学院）”平滑补入队伍；
 
@@ -2193,9 +1473,6 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 模组标题
 
 《边缘之城·热修时刻（Hot Fix on the Rock）》
-
-
-
 
 （Spelljammer·布瑞尔之岩 2 小时短模组）
 
@@ -2243,9 +1520,6 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 
 新 PC 入队（鱿鱼诗人·雄辩学院）
 
-
-
-
 身份钩子：他是皇家剧团（Royal Theater Company）外访团的说书/长笛演员，和**“杂耍者（The Juggler）”的戏班保持松动合作，今天受邀在“快乐眼魔（Happy Beholder）”**做一场“花船曲艺”。
 
 学院关联：他是**“法术追逐学院·布瑞尔联络处”的见习外勤**（可设在中城·法师公会附近的一间小屋，作为校友会与招募点；这是合理私设，官方未写死），持有学院介绍信与米肯的讲习记录抄件。
@@ -2266,9 +1540,6 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 
 2A 干船坞（The Drydock）——硬件零件
 
-
-
-
 任务：拿到“反向引力稳定器（Inverted Grav-Stabilizer）”与“舱壁补片套件”。
 
 难点：排队与船坞承包商（多由**奥扎马塔（Ozamata）**地盘的人运作）漫天要价。
@@ -2283,9 +1554,6 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 
 2B 快乐眼魔（Happy Beholder）——密钥情报
 
-
-
-
 任务：从大卢安（Large Luigi）处打听如何绕过“暴君舰眼魔炮”的生体识别/奇物认证。
 
 进程：
@@ -2295,9 +1563,6 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 大卢安可免费给一张布瑞尔之岩下层“地窖走廊草图”（简图 3 节点）。
 
 2C 杂耍者剧场（Juggler’s Folk Guildhouse）——密钥实物
-
-
-
 
 任务：拿到“耦合晶片（Coupler Shard）”或旧王宫密钥片之一。
 
@@ -2314,9 +1579,6 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 你根据台上节奏选其一；都能把新 PC 与队伍技能长处打出来。
 
 选项 A：干船坞“偷装”小队战
-
-
-
 
 前提：你们“砍价成功但被记仇”或“拒绝交保护费”。
 
@@ -2338,9 +1600,6 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 
 选项 B：边缘酒馆（Edge）巷战 & 追逐
 
-
-
-
 前提：你们答应“杂耍者”的请托去**“敲打红面具”**。
 
 流程：
@@ -2359,17 +1618,11 @@ Cheap Cargod12Cargo1Trunk containing ten outfits of traveler's clothes (2 gp eac
 
 A. 船体修理（本次）
 
-
-
-
 反向引力稳定器：安装后，暴君舰的“重力突发”故障消失；飞行检定相关（驾驶/工具/奥秘）+1。
 
 舱壁补片：恢复1 阶段结构（或由你自定为“最大生命阈值 +10%”）。
 
 B. “眼魔棱镜炮”适配（实验型）
-
-
-
 
 组成：耦合晶片 + 旧王宫密钥片 + 大卢安提供的旧制图。
 
@@ -2388,9 +1641,6 @@ B. “眼魔棱镜炮”适配（实验型）
 微调加成：若你们在选项 A 完成“偷装”，或在选项 B 拿“上品耦合晶片”，试射+1d4 伤害并将副作用阈值上移 1 档（更安全）。
 
 C. 购物与蓝图（可挑 1–2 件）
-
-
-
 
 Mercane Agency：
 
@@ -2468,15 +1718,9 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
 
 “沿着码头‘领航帆’的阴影，你们的暴君舰像一条伤鲸，拖着冒火的尾迹被硬生生拽进泊位。风里全是热金属的味道，吊车叮当，码头守则用巨字写着——把宿仇留在码头。
 
-
-
-
 这时，一个身披亮银披肩、头顶柔软触须的小个子诗人从拥挤人群里挤了出来，他扬起长笛一声清亮的滑音，向港务会计抱拳行礼：‘各位，何必动火？坏消息够多了……不如先听我讲一个只要三句话的好消息。’”
 
 如果你点头，这个模组就能直接上桌跑。需要的话我还能给你：
-
-
-
 
 “眼魔棱镜炮适配”的检定卡（一张内含步骤与副作用表）；
 
@@ -2484,18 +1728,9 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
 
 鱿鱼诗人角色小卡（背景钩子 + “雄辩后门”1/场的触发文案）。
 
-
-
-
 告诉我你们当前等级/队伍构成和偏好的基调（更黑色还是更轻快），我把这些补件一次性发你。
 
-
-
-
 然后这个的问题是什么呢？就是他的非常简要，而且不太符合我们团的，呃，不一定符合我们的内容，对吧？那可他可能他可能有些问题在里面，对吧？而且实际上我也不是特别认可啊，我要是第11啊，你去给我提供更多的选择，然后同时把这个呃模模遭遭遇的给它渲他渲染出来。好吧，你现在给我这个完成这个任务，就是说你给我一个直接我可以拿来用的，就是正正经模组一样啊。呃这个玩家对吧？从从从现在这一时刻开始算起啊呃之后呢这个呃要要怎么去做啊，这个一步一步的对吧？我我 dm 的准备准到什么环境啊，什么什么数值啊、遭遇啊，都给弄好了，对吧？能有什么有意思的事情来进行一个支线，但最好这支线能和咱们的这个模组内容主线是只有支线吻吻吻合起来，对吧？你别跑偏，然后呢怎么样去遭遇到新的队友，对吧？一步步说清楚了啊，呃计划选择多样，对吧？这是我目前在想法啊
-
-
-
 
 {
 
@@ -2523,9 +1758,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
 
     },
 
-
-
-
     "appearance": {
 
       "age": 24,
@@ -2545,9 +1777,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
     "description": "乌木般的高马尾与澄澈如河水的蓝眸，眼角一颗小痣为其冷傲的半精灵诗人气质添上一丝多情。",
 
     "backstory": "在奈成年后的第二十个春天，怀揣着对世界的好奇，她告别了永远欢腾的溪流，离开了费伦，跟随一个热情的表演团前往星界，他们欢笑着吟唱诗歌，他们肃穆地高唱史诗，他们咏叹地传颂传奇。在一次表演中，奈一如既往地使用着华丽到堪称夸张的遣词，将一个令人面红耳赤的画面描绘得波澜壮阔，不曾想误打误撞与某位当地强大头目的发家史雷同，表演团迅速撇清关系，可怜的吟游诗人不得不狼狈逃窜躲避其爪牙，恰巧遇上来此维修船只的星舰。为了旅行的理想和自己的小命都能继续维持下去，遂顺势提出登船同行的请求。",
-
-
-
 
     "background": {
 
@@ -2571,15 +1800,9 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
 
     },
 
-
-
-
     "abilities": { "STR": 12, "DEX": 16, "CON": 14, "INT": 12, "WIS": 12, "CHA": 20 },
 
     "proficiency_bonus": 2,
-
-
-
 
     "saves": {
 
@@ -2588,9 +1811,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
       "mods": { "STR": 1, "DEX": 5, "CON": 2, "INT": 1, "WIS": 1, "CHA": 7 }
 
     },
-
-
-
 
     "skills": {
 
@@ -2601,9 +1821,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
       "overrides": []
 
     },
-
-
-
 
     "senses": { "passive_perception": 13 },
 
@@ -2635,9 +1852,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
 
     },
 
-
-
-
     "languages": ["通用语", "精灵语", "吉斯洋基语"],
 
     "proficiencies": {
@@ -2649,9 +1863,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
       "tools": ["易容工具", "手鼓", "鸟箫", "亚婷琴", "鲁特琴"]
 
     },
-
-
-
 
     "features": [
 
@@ -2873,9 +2084,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
 
     ],
 
-
-
-
     "spellcasting": {
 
       "class": "吟游诗人",
@@ -2907,9 +2115,6 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
       }
 
     },
-
-
-
 
     "equipment": {
 
@@ -2945,20 +2150,11 @@ Doomspace 招兵：杂耍者介绍你见吉夫军官 Krux的朋友，补充船�
 
     },
 
-
-
-
     "notes": "演艺方向（Entertainer Routines）可选：1演员 2舞者 3吞火艺人 4小丑 5魔术师 6乐师 7诗人 8歌手 9说书人 10杂技演员（未明确选择）。职业熟练：豁免（敏捷、魅力）；技能（自选三项）。本卡技能标记：O=熟练，❂=专精，X=未熟练。先攻+4源于敏捷+3与万事通+1。法术豁免DC基础为15（8+熟练2+魅力5），因狂宴手风琴同调+2，当前DC=17。"
 
   }
 
-
-
-
 }
-
-
-
 
 然后这个是新加入的角色的卡啊，你可以做参考
 好的，DM。没问题。这里是本次《Spelljammer Academy: Realmspace Sortie!》模组从头到现在的全面内容总结，方便您进行梳理和存档。
@@ -4571,594 +3767,11 @@ C计划 (本地英雄): 队伍在布莱尔岩的行动彻底激怒了红面具�
 
 我了个逗快乐眼魔酒馆的老居全是眼膜，那一会有的搞搞笑了。好吧，记住咱们的这个之前的规则，两条规则对吧？这个呃呃这个宗主经常说话，然后呢每次完成之后，呃，一定要呃给我提供后续的安排。好吧，记住记住这两条啊，然后咱们现在正式开团，好吧，我把上次开团的内容发给你，直接介上
 
-# [阿芙娜]:新的故事开始了，祝旅途愉快！
 
-# [阿芙娜]:记录已经开启
-
-[布瑞尔岩招生办主任]:====开团====
-
-[布瑞尔岩招生办主任]:上次说道你们一行人经过了九死一生的洗剪吹陷阱和神秘钟表怪物的战斗之后筋疲力尽，船舱内一片狼藉，大家刚刚活了下来
-
-[布瑞尔岩招生办主任]:在猎颅的抢救下，这艘船只能说不会临时散架了
-
-[布瑞尔岩招生办主任]:但是防御系统全面下线操作性能勉勉强强，一旦遇到任何敌人，你们都是毫无束手之力
-
-[布瑞尔岩招生办主任]:然后，值得注意的是，只有罗兰听到了，在废墟下传来那些稀稀疏疏的声音。在上次跑团结束的时候
-
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:“废墟下有什么东西在动！”
-
-[猎颅 ac18 hp31/31 dc14]:#面对困难 竭尽全力维修它 试着维护武器系统 更改系统识别把我们识别为权限许可人员
-
-[猎颅 ac18 hp31/31 dc14]:“嗯？什么东西”
-
-[猎颅 ac18 hp31/31 dc14]:#下意识往后跳了两步后看下废墟之下的区域
-
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃拿着🗡️导出戳戳
-
-[猎颅 ac18 hp31/31 dc14]:#闲来无事拍个导
-
-[猎颅 ac18 hp31/31 dc14]:“小心点哦罗兰”
-
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃翻看废墟下的是什么东西
-
-[布瑞尔岩招生办主任]:罗兰小心翼翼地挖开了那堆废料，发现一个自动侏儒正被压在下面。他的一条腿被压断了，胸口的护甲也已破碎，露出内部闪烁着电火花的精密齿轮。他还“活”着，一双机械眼惊恐地看着你们。
-
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:“哈！一个自动侏儒”
-
-[布瑞尔岩招生办主任]:嘶嘶嘶...噗...嗡嗡...嘶嘶...噗！ [因恐惧而颤抖]
-
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃戳戳
-
-[猎颅 ac18 hp31/31 dc14]:“自动侏儒 这里怎么会有这种东西”
-
-[猎颅 ac18 hp31/31 dc14]:“你的造物主是谁”
-
-[猎颅 ac18 hp31/31 dc14]:#上前检查
-
-[布瑞尔岩招生办主任]:他无法说话，似乎是发声器也已损坏，只能用仅剩的一只手指向你们，然后又指了指自己的胸口。那里有一块黄铜铭牌，上面用侏儒文刻着他的名字：“维兹波普”。
-
-[隆金 AC17 HP 46/46 DC12]:“能看出是不是眼魔造物吗？”
-
-[猎颅 ac18 hp31/31 dc14]:“自动侏儒一般而言是岩侏儒打造的产物”
-
-[隆金 AC17 HP 46/46 DC12]:“那，被眼魔控制的岩侏儒呢？”
-
-[猎颅 ac18 hp31/31 dc14]:“这点我并不知道 但通常意义上来讲的自动侏儒都会自动保护未成年及生物幼崽”
-
-[猎颅 ac18 hp31/31 dc14]:#上前检查这个自动侏儒有什么特点么
-
-[布瑞尔岩招生办主任]:听到“眼魔”这个词，那个小小的自动侏儒仿佛受到了巨大的惊吓，他拼命地摇头，仅剩的一只手胡乱地挥舞着，似乎在表达强烈的否定。他无法说话，只能焦急地指了指自己的胸口。那里有一块黄铜铭牌，上面用侏儒文刻着他的名字：“维兹波普”。
-
-[猎颅 ac18 hp31/31 dc14]:“等会”
-
-[猎颅 ac18 hp31/31 dc14]:#一个修复术拍了过去
-
-[布瑞尔岩招生办主任]:“哦，一个会动的废铁堆。”斯札瑞絲的声音在你脑中懒洋洋地响起，“小工匠，你该不会是想收集这些‘兄弟’，组建一支废品大军吧？咯咯咯……这倒是个挺有……‘创意’的想法。”
-
-[猎颅 ac18 hp31/31 dc14]:“好了 你可以说话了”
-
-[猎颅 ac18 hp31/31 dc14]:“什 我倒不是这样想的 我更喜欢自己研发一个衷心的陪伴造物”
-
-[布瑞尔岩招生办主任]:法术的光芒一闪而过。他胸口狂乱的电火花平息了下来，那阵“嘶嘶噗噗”的漏气声也停止了。片刻的沉默后，维兹波普的嘴里发出了一个清晰的、但却单一的机械音节：“维——”。他似乎想继续说下去，但无论怎么努力，都只能重复这一个声音：“维——维——维——”。
-
-[布瑞尔岩招生办主任]:他感激地看了你一眼，但眼中随即又充满了沮丧。他指了指自己的喉咙，又指了指自己断掉的腿，最后再次指向了你腰间的修补工具，让你明白，他的问题远比一个简单的“修复术”要复杂得多。
-
-[猎颅 ac18 hp31/31 dc14]:“好吧 看来还需要之后专门维护一下”#抓了抓耳朵
-
-[猎颅 ac18 hp31/31 dc14]:“总而言之 你不是眼魔这边的是吧”
-
-[猎颅 ac18 hp31/31 dc14]:#挠了挠头
-
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:“这是比较罕见的自动侏儒呀”
-
-[猎颅 ac18 hp31/31 dc14]:“落单的自动侏儒确实挺罕见的”
-
-[猎颅 ac18 hp31/31 dc14]:“先把甲板清理一下吧”
-
-[布瑞尔岩招生办主任]:听到猎颅的问题，维兹波普那只完好的机械眼中闪过一丝深深的恐惧和……憎恨。@猎颅 ac18 hp31/31 dc14
-
-[布瑞尔岩招生办主任]:立刻用尽全身力气，将小小的脑袋摇得像个拨浪鼓。接着，他用那只还能动的手，指向了不远处恐怖钟表的残骸，然后又指了指自己破碎的身体，最后做出一个被撕裂的、充满痛苦的动作。
-
-[猎颅 ac18 hp31/31 dc14]:#点了点头
-
-[猎颅 ac18 hp31/31 dc14]:“他们看起来确实也不是善茬”
-
-[猎颅 ac18 hp31/31 dc14]:“我先给你维修一下吧 之后等恢复了再详细谈谈”
-
-[猎颅 ac18 hp31/31 dc14]:#一边说着一边看去米肯他们在干嘛呢
-
-[猎颅 ac18 hp31/31 dc14]:“大伙先清理下甲板吧 罗兰接下来的路程可能需要你替我去开船了 我要去专心维修一些物件”
-
-[猎颅 ac18 hp31/31 dc14]:#先给自动侏儒扶起来带出废墟区安置个干净点的地方
-
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃一屁股坐上星舵
-
-[猎颅 ac18 hp31/31 dc14]:“抬头我看看哪里损坏了”#先开始看看维兹波普喉咙部位是什么损坏了去维修下
-
-[布瑞尔岩招生办主任]:你扫视了一圈指挥甲板说那也奇怪，甲板上就你们4个人，再加上厨师长螳螂人和刘江体
-
-[布瑞尔岩招生办主任]:你好像并没有看到米肯的身影，会不会是他的地下被火球柱炸翻了？
-
-[布瑞尔岩招生办主任]:角色可以尝试使用备用自动侏儒零件和工匠工具来修复 Wizpop。为了找到合适的零件，角色必须花费 10 分钟在空旷甲板上搜索，并成功通过 DC 15 的智力（神秘学）检定。找到零件后，擅长工匠工具的角色可以使用这些零件和工具进行修理。每小时的修理结束时，Wizpop 会恢复 1d6 点生命值。
-
-[猎颅 ac18 hp31/31 dc14]:“咿 米肯呢？”
-
-[隆金 AC17 HP 46/46 DC12]:“我去找找那个小子，那一发火球把我炸的不轻。”
-
-[猎颅 ac18 hp31/31 dc14]:“隆金你去吧 路上小心点 给药水带上”
-
-[猎颅 ac18 hp31/31 dc14]:#丢两瓶治疗药水给隆金
-
-[布瑞尔岩招生办主任]:对了，澄清一下啊，这个你们现在在的是指挥甲板，往下走，一层是中空甲板，就是你们要找备用零件的那个地方，也是米肯放火球术的地方
-
-[布瑞尔岩招生办主任]:然后再往下第三层就是货舱甲板，就是你们被扔到飞船里的地方
-
-[布瑞尔岩招生办主任]:所以你们找东西的话，也得下去找
-
-[猎颅 ac18 hp31/31 dc14]:“我也在下面那个甲板找点零件先”
-
-[猎颅 ac18 hp31/31 dc14]:“罗兰你开船顺便看下这群伤员哦 全员昏迷的”
-
-[隆金 AC17 HP 46/46 DC12]:隆金拿好药水，往下层甲板走过去
-
-[猎颅 ac18 hp31/31 dc14]:#也去甲板找找零件
-
-[猎颅 ac18 hp31/31 dc14]:#顺便找找机械部件准备打造蓝图装备
-
-[布瑞尔岩招生办主任]:指挥甲板上，罗兰坐上了冰冷的魔舵座椅，开始尝试熟悉这艘船的基本操控。三名受伤的船员则在隆金的治疗下恢复了些许气力，开始默默地将还能用的物资归拢到一起。
-
-[布瑞尔岩招生办主任]:而猎颅和隆金一前一后地通过中央通道向下。首先抵达的是中空甲板，这里依旧一片狼藉。米肯之前施放的、现已残破不堪的蛛网挂在通道边缘，散发着魔法的余味。被摧毁的钟表怪物残骸散落一地，空气中充满了臭氧和金属烧焦的气味。
-
-[布瑞尔岩招生办主任]:这里似乎并没有米肯的身影，只有遗体的残骸
-
-[猎颅 ac18 hp31/31 dc14]:“米肯不会被夺心魔什么的吃了吧”#路上吐槽着
-
-[猎颅 ac18 hp31/31 dc14]:“一来就是对我们的杀招”
-
-[布瑞尔岩招生办主任]:现在请猎颅进行一次智力【奥秘】检定，来决定你是否能在中空甲板的自动侏儒残骸中，找到修复维兹波普所需的精密零件。
-
-# [阿芙娜]:由于 奥秘，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+6+1d4=3[D20]+6+4[1d4]=13&lt;dice>:(猎颅 ac18 hp31/31 dc14的d+6+1d4,4,NA,13)
-
-[布瑞尔岩招生办主任]:谁知道呢？也许他只是太害怕了
-
-[猎颅 ac18 hp31/31 dc14]:#亚音速起子进行辅助翻找翻找
-
-[隆金 AC17 HP 46/46 DC12]:“米肯，你在吗？”隆金扯着嗓子大喊
-
-[布瑞尔岩招生办主任]:然而，你找到的都是恐怖钟表的残骸，这些恐怖钟表的构造与自动侏儒的工艺相去甚远。它们的零件充满了粗暴和不详的异域风格，你找不到任何一个能与维兹波普体内那些精巧的齿轮和线路相匹配的部件。你最终只能无奈地站起身，手里空空如也。
-
-[布瑞尔岩招生办主任]:“我以为奇械师都该有点石成金的本事，看来你只是块石头。” 斯札瑞絲在你脑中用她一贯的讽刺腔调说道，“用这些被污染的废料去修补一个侏儒造物？你还不如直接往他脑袋里塞一把沙子。”
-
-[猎颅 ac18 hp31/31 dc14]:“很有说法”
-
-[猎颅 ac18 hp31/31 dc14]:“不过沙子或许要先烧成玻璃再塞进去”
-
-[布瑞尔岩招生办主任]:就在你一筹莫展之际，从通往上层指挥甲板的通道口，传来了厨师长莱贝克有些虚弱但依旧洪亮的声音：
-
-[猎颅 ac18 hp31/31 dc14]:#一边翻找接话
-
-[布瑞尔岩招生办主任]:“嘿！小子们！你们在找零件吗？”
-
-[布瑞尔岩招生办主任]:他正靠在通道边缘，看着你们这边的动静。
-
-[猎颅 ac18 hp31/31 dc14]:“当然是了”
-
-[布瑞尔岩招生办主任]:“别白费力气了！这层都是些战斗机器的破烂。咱们的备用物资、标准工具箱还有医疗包，都在咱们刚被扔进来的地方——最底下的货舱里！想修东西，得去那儿找材料！”他顿了顿，似乎想起了什么，“说起来……米肯那小子……他会不会也是跑去那里找什么东西了？”
-
-[猎颅 ac18 hp31/31 dc14]:“怎么说 那边有么”
-
-[猎颅 ac18 hp31/31 dc14]:“我们带来的物资里有啊 不错”
-
-[猎颅 ac18 hp31/31 dc14]:“免去了翻找的时间了”
-
-[布瑞尔岩招生办主任]:@隆金 AC17 HP 46/46 DC12 正说着，下面的货物区好像传来了咚的一声似乎回应了你的呼喊
-
-[猎颅 ac18 hp31/31 dc14]:“隆金走吧”
-
-[猎颅 ac18 hp31/31 dc14]:#拍了拍手就继续朝着下方走去
-
-[隆金 AC17 HP 46/46 DC12]:“怎么跑到下面去了。”
-
-[猎颅 ac18 hp31/31 dc14]:“不知道哦 去拿什么了么”
-
-[隆金 AC17 HP 46/46 DC12]:隆金嘟囔几句，拍拍手也跟着到下面去
-
-[布瑞尔岩招生办主任]:那么你们两个人一前一后地顺着通道继续向下。
-
-[布瑞尔岩招生办主任]:你们离开了中空甲板那片充满了战斗痕迹的废墟，进入了更深、更寂静的区域。空气变得有些沉闷，带着一丝储存物资的干货和金属箱的味道。光线在这里几乎完全消失，只能依靠你们自己的光源来照亮前路
-
-[猎颅 ac18 hp31/31 dc14]:#提灯启动
-
-[布瑞尔岩招生办主任]:很快，你们抵达了这艘船的最底层——货舱甲板。这里是一个巨大的、洞窟般的空间，你们刚登舰时带来的那些补给箱被随意地堆放在各处，形成了一座座如同小山般的障碍物，在你们的灯光下投下幢幢的、扭曲的阴影。刚才那声闷响，就是从这片箱子构成的“迷宫”深处传来的。
-
-[布瑞尔岩招生办主任]:你们已经抵达了货舱甲板的入口。这里光线昏暗，充满了可供藏身的阴影。
-
-[布瑞尔岩招生办主任]:你们是打算一起行动，谨慎地探索这个区域，还是分头寻找，一人负责寻找米肯和噪音的来源，另一人负责搜集维修物资？
-
-[猎颅 ac18 hp31/31 dc14]:#先翻翻找找自己需要的零件
-
-[猎颅 ac18 hp31/31 dc14]:“我上了”
-
-[猎颅 ac18 hp31/31 dc14]:“隆金一起不”
-
-[隆金 AC17 HP 46/46 DC12]:“我去找找米肯，兔子你在这里搜索一下零件吧。”
-
-[猎颅 ac18 hp31/31 dc14]:“行”
-
-[隆金 AC17 HP 46/46 DC12]:“哼哼，等我找到他，一定要他好看！”
-
-[布瑞尔岩招生办主任]:那么猎颅，你留在货舱入口附近，开始翻找你们登舰时带来的那些补给箱。
-
-[布瑞尔岩招生办主任]:再做一次鉴定吧，调查或者察觉都行
-
-[布瑞尔岩招生办主任]:与此同时，隆金则握紧武器，独自一人向着那片由集装箱构成的黑暗迷宫深处走去。你的脚步声在寂静的船舱中回响，光源在高耸的箱壁上投下摇曳的影子。空气冰冷而沉闷
-
-# [阿芙娜]:由于调查，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+6+d4=9[D20]+6+3[d4]=18&lt;dice>:(猎颅 ac18 hp31/31 dc14的d+6+d4,4,NA,18)
-
-[布瑞尔岩招生办主任]:那么你很快就找到了目标——一个印有星界航海学院徽记的大号金属箱。打开它，里面正是厨师长所说的标准工具箱和备用物资：成卷的能量导线、备用的水晶聚能器、以及一整套精密的侏儒工匠工具。现在，你拥有了修复维兹波普和飞船所需的一切材料。
-
-[布瑞尔岩招生办主任]:呃，隆金可以过一个有优势的求生
-
-[布瑞尔岩招生办主任]:@隆金 AC17 HP 46/46 DC12
-
-[猎颅 ac18 hp31/31 dc14]:#再去找找有没有多余的材料给自己之后制造蓝图物品用
-
-[猎颅 ac18 hp31/31 dc14]:#或者看看材料够不够
-
-# [阿芙娜]:由于。求生，&lt;隆金 AC17 HP 46/46 DC12>掷出了 d优势=14[d优势={14 | 14}]=14&lt;dice>:(隆金 AC17 HP 46/46 DC12的d优势,100,NA,14)
-
-[布瑞尔岩招生办主任]:那么龙金你作为一个米诺陶牛头人，你对 jelly 的迷宫有天生的方向感，如有神助，很轻松的就找到了声音的来源
-
-[布瑞尔岩招生办主任]:一个补给箱倒在了地上，里面的口粮和物资洒了一地。而在那倒下的箱子后面，一个瘦小的身影正蜷缩在角落里，瑟瑟发抖。
-
-[布瑞尔岩招生办主任]:是米肯。
-
-[布瑞尔岩招生办主任]:你终于找到了米肯。他看起来吓坏了，身上还有一些轻微的划伤和灼伤。当你走近时，他猛地抬起头，眼中充满了惊恐。
-
-[隆金 AC17 HP 46/46 DC12]:“嘿，小家伙，过来让我看看。”隆金单手从后面把米肯提溜出来
-
-[隆金 AC17 HP 46/46 DC12]:“你怎么跑到下面来了？”
-
-[布瑞尔岩招生办主任]:他像一个找到了父母的走失孩童，连滚带爬地从箱子后面冲出来，一把抱住了你的腿，嚎啕大哭。
-
-[布瑞尔岩招生办主任]:“隆……隆金大人！我还以为……我以为你们都……呜呜呜……那……那爆炸……我什么都看不见了，到处都是光……我只能跑……我好害怕……我以为我再也见不到你们了……”
-
-[布瑞尔岩招生办主任]:你看到他身上布满了黑色的烟灰，手臂上有一道浅浅的、还在渗血的伤口。
-
-[隆金 AC17 HP 46/46 DC12]:“你说的没错，我们差一点就都死了。”隆金把米肯放下来，拍拍他的肩膀：“不过好运一直都眷顾着我们，现在收起你的眼泪，士兵，跟我们回去，处理一下你的伤口。”
-
-[布瑞尔岩招生办主任]:@猎颅 ac18 hp31/31 dc14 （绷
-
-[布瑞尔岩招生办主任]:那么听到你的话，米肯那夸张的哭声渐渐平息了下来。他用袖子擦了擦眼泪和脸上的烟灰，抬起头，用一种混合着崇拜和感激的眼神看着你，用力地点了点头，不再多言，只是默默地跟在了你的身后。
-
-[布瑞尔岩招生办主任]:你们准备离开了这个箱子围成的临时厨房
-
-[布瑞尔岩招生办主任]:与此同时，决定再去找找有没有多余的材料用来制作物品
-
-[布瑞尔岩招生办主任]:在下层甲板都是一些常规的学院备用件，没有什么特殊有用的东西
-
-[布瑞尔岩招生办主任]:于是呢你可以回到上层中控甲板进行一次更彻底的搜寻
-
-[布瑞尔岩招生办主任]:再做一个调查吧
-
-# [阿芙娜]:由于 调查，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+4+d4=13[D20]+4+2[d4]=19&lt;dice>:(猎颅 ac18 hp31/31 dc14的d+4+d4,4,NA,19)
-
-[布瑞尔岩招生办主任]:你的专业眼光没有让你失望。在别人看来只是一堆废铜烂铁的地方，你却能识别出那些构造独特、能量迥异的珍贵部件。你成功地搜集到了一整箱有用的材料
-
-[猎颅 ac18 hp31/31 dc14]:“咿 爽了”
-
-[猎颅 ac18 hp31/31 dc14]:“这下可以用好了”
-
-[猎颅 ac18 hp31/31 dc14]:#带走回去找其他人去
-
-[布瑞尔岩招生办主任]:首先是你从另一个恐怖钟表的残骸中，拿到了一个还算完整的恐怖核心
-
-[猎颅 ac18 hp31/31 dc14]:#查询恐怖核心
-
-[布瑞尔岩招生办主任]:然后你又找到了一些完好的动力线圈，未损坏的齿轮组等等等等
-
-[布瑞尔岩招生办主任]:总共大概收集到了差不多六磅的金属材料和两磅的精密材料
-
-[猎颅 ac18 hp31/31 dc14]:“瑞丝这有什么用不 可以造自己的造物么”
-
-[猎颅 ac18 hp31/31 dc14]:#指核心
-
-[布瑞尔岩招生办主任]:@猎颅 ac18 hp31/31 dc14 ：就是上次你用于升级枪的一种核心，不过这次已经不需要了，因为它已经升级过一次了，同类的作品不能再升级第二次
-
-[布瑞尔岩招生办主任]:“哼，拾荒者。” 斯札瑞絲的声音在你脑中响起，“对我来说，已经没什么用了，我不喜欢吃重复的东西，不过……我承认，垃圾堆里偶尔也能翻出些有趣的‘玩具’。别把它们浪费在平庸的设计上，小工匠。”
-
-[布瑞尔岩招生办主任]:那么现在你们所有人都回到了指挥甲板
-
-[猎颅 ac18 hp31/31 dc14]:#短暂的思考 点了点头
-
-[布瑞尔岩招生办主任]:隆金从厨师长的厨房里捉回了到处乱跑的米肯
-
-[布瑞尔岩招生办主任]:猎颅捡到了合适的维修材料和自己的私藏
-
-[猎颅 ac18 hp31/31 dc14]:#回去给自动侏儒维修一下
-
-[布瑞尔岩招生办主任]:你们终于可以开始进行修整了
-
-[布瑞尔岩招生办主任]:找到零件后，擅长工匠工具的角色可以使用这些零件和工具进行修理。每小时的修理结束时，Wizpop 会恢复 1d6 点生命值。
-
-[隆金 AC17 HP 46/46 DC12]:“为这个可怜的小家伙包扎一下吧。”
-
-[猎颅 ac18 hp31/31 dc14]:#维修自动侏儒维修船只维修动力爪修改飞船操作系统制造蓝图物件 任务进行中
-
-[猎颅 ac18 hp31/31 dc14]:#loading
-
-[布瑞尔岩招生办主任]:在你们休整的同时，你们需要做出最终决定：下一个目的地，是充满未知的“布莱尔岩”，还是停在这里等待学校支援，又或者抛弃一切，径直前往行星完成任务？
-
-[布瑞尔岩招生办主任]:注意的是你这一个小时只能干一件事情
-
-[布瑞尔岩招生办主任]:第一个去维修这个机器人，看看能恢复多少血
-
-[猎颅 ac18 hp31/31 dc14]:#先维修自动侏儒吧
-
-[布瑞尔岩招生办主任]:第2个，去造东西，或者去恢复生命头
-
-# [阿芙娜]:&lt;隆金 AC17 HP 46/46 DC12>掷出了 3d10+9=16[3d10=5+3+8]+9=25&lt;dice>:(隆金 AC17 HP 46/46 DC12的3d10+9,10,NA,25)
-
-# [阿芙娜]:&lt;猎颅 ac18 hp31/31 dc14>掷出了 d6=1&lt;dice>:(猎颅 ac18 hp31/31 dc14的d6,6,NA,1)
-
-[布瑞尔岩招生办主任]:第3个修维修飞船画图什么的
-
-[布瑞尔岩招生办主任]:那么看来....你这个维修收效甚微呀
-
-[猎颅 ac18 hp31/31 dc14]:“慢慢修了”
-
-[猎颅 ac18 hp31/31 dc14]:#看看能不能先恢复语言功能了
-
-[布瑞尔岩招生办主任]:那么一小时的短休在紧张的维修和包扎中结束了。
-
-[布瑞尔岩招生办主任]:甲板上，隆金看起来恢复如初，他消耗了3个生命骰，恢复了25点生命值，重新变得龙精虎猛（当前HP: 44/46）。其他人也利用这段时间处理了伤口，除了米肯的那点小伤已经完全恢复了，其他人状态好了许多。但是勉勉强强
-
-[隆金 AC17 HP 46/46 DC12]:于是一边休息，一边和大伙商量：“现在我们可以说是弹尽粮绝，摆在我们面前有两条路，要么留在原地等学院的支援，要么前往星图上标注的布莱尔岩，在那里修好飞船。”
-
-[布瑞尔岩招生办主任]:而你（猎颅），则将全部心神投入到了对维兹波普的修复中。但或许是材料不对口，又或许是他的损伤实在太过复杂，你这一个小时的工作收效甚微。
-
-[隆金 AC17 HP 46/46 DC12]:“或者抛弃这艘飞船，这等同于自杀。”
-
-[布瑞尔岩招生办主任]:你只成功地为他恢复了1点生命值。当你完成最后一个部件的调试，满怀期待地看着他时，维兹波普尝试着开口。这一次，他不再是发出单一的音节，而是用尽全力、带着强烈的电流杂音，断断续续地挤出了自己的名字：“维……滋……波……普……”
-
-[布瑞尔岩招生办主任]:说完这三个字，他的发声器就再次熄火，只能用那双机械眼感激又无奈地看着你。语言功能，并未能完全恢复。
-
-[猎颅 ac18 hp31/31 dc14]:#摸索着下巴
-
-[猎颅 ac18 hp31/31 dc14]:“再修吧”
-
-[布瑞尔岩招生办主任]:“一个小时，就为了让他能多发出一个音节？小工匠，按照这个效率，等你能和他正常对话时，这艘船恐怕早就锈成宇宙尘埃了。” 斯札瑞絲在你脑中评价道。
-
-[猎颅 ac18 hp31/31 dc14]:#挠了挠头
-
-[猎颅 ac18 hp31/31 dc14]:“没有图纸———”
-
-[猎颅 ac18 hp31/31 dc14]:“要是有设计图纸就好办多了”
-
-[布瑞尔岩招生办主任]:这次收效甚微的维修让情况变得很明显：你们手头的材料和工具，不足以应付维兹波普和这艘飞船的严重损伤。你们无法在这里解决所有问题
-
-[布瑞尔岩招生办主任]:@隆金 AC17 HP 46/46 DC12 你们明白,隆金说的很对
-
-[布瑞尔岩招生办主任]:你们只有3个选择
-
-[猎颅 ac18 hp31/31 dc14]:“先找个地方落脚补给维修吧”
-
-[猎颅 ac18 hp31/31 dc14]:“我先去打造个东西”
-
-[猎颅 ac18 hp31/31 dc14]:#回去造装备
-
-[布瑞尔岩招生办主任]:听从斯札瑞絲的建议……布莱尔岩。一个无法无天的海盗窝，但那里有你们修复飞船所需的一切。你们或许能在那找到强大的盟友或装备，但也可能遇到更大的麻烦。
-
-[布瑞尔岩招生办主任]:或者，你们留在这里。你们有求救石，可以联系学院。这是最安全的选择，但你们将彻底失去任务的主动权，而且……谁也不知道在这片空域里漂流多久才算安全
-
-[布瑞尔岩招生办主任]:最后……说不定也可以不管这艘破船，直接开往H'Catha。这很疯狂，飞船可能在半路散架，但这是完成任务最快的路径。
-
-[布瑞尔岩招生办主任]:你们。。。下一个目的地是哪里？
-
-[布瑞尔岩招生办主任]:====SAVE====
-我了个逗快乐眼魔酒馆的老居全是眼膜，那一会有的搞搞笑了。好吧，记住咱们的这个之前的规则，两条规则对吧？这个呃呃这个宗主经常说话，然后呢每次完成之后，呃，一定要呃给我提供后续的安排。好吧，记住记住这两条啊，然后咱们现在正式开团，好吧，我把上次开团的内容发给你，直接介上
-# [阿芙娜]:新的故事开始了，祝旅途愉快！
-# [阿芙娜]:记录已经开启
-[布瑞尔岩招生办主任]:====开团====
-[布瑞尔岩招生办主任]:上次说道你们一行人经过了九死一生的洗剪吹陷阱和神秘钟表怪物的战斗之后筋疲力尽，船舱内一片狼藉，大家刚刚活了下来
-[布瑞尔岩招生办主任]:在猎颅的抢救下，这艘船只能说不会临时散架了
-[布瑞尔岩招生办主任]:但是防御系统全面下线操作性能勉勉强强，一旦遇到任何敌人，你们都是毫无束手之力
-[布瑞尔岩招生办主任]:然后，值得注意的是，只有罗兰听到了，在废墟下传来那些稀稀疏疏的声音。在上次跑团结束的时候
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:“废墟下有什么东西在动！”
-[猎颅 ac18 hp31/31 dc14]:#面对困难 竭尽全力维修它 试着维护武器系统 更改系统识别把我们识别为权限许可人员
-[猎颅 ac18 hp31/31 dc14]:“嗯？什么东西”
-[猎颅 ac18 hp31/31 dc14]:#下意识往后跳了两步后看下废墟之下的区域
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃拿着🗡️导出戳戳
-[猎颅 ac18 hp31/31 dc14]:#闲来无事拍个导
-[猎颅 ac18 hp31/31 dc14]:“小心点哦罗兰”
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃翻看废墟下的是什么东西
-[布瑞尔岩招生办主任]:罗兰小心翼翼地挖开了那堆废料，发现一个自动侏儒正被压在下面。他的一条腿被压断了，胸口的护甲也已破碎，露出内部闪烁着电火花的精密齿轮。他还“活”着，一双机械眼惊恐地看着你们。
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:“哈！一个自动侏儒”
-[布瑞尔岩招生办主任]:嘶嘶嘶...噗...嗡嗡...嘶嘶...噗！ [因恐惧而颤抖]
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃戳戳
-[猎颅 ac18 hp31/31 dc14]:“自动侏儒 这里怎么会有这种东西”
-[猎颅 ac18 hp31/31 dc14]:“你的造物主是谁”
-[猎颅 ac18 hp31/31 dc14]:#上前检查
-[布瑞尔岩招生办主任]:他无法说话，似乎是发声器也已损坏，只能用仅剩的一只手指向你们，然后又指了指自己的胸口。那里有一块黄铜铭牌，上面用侏儒文刻着他的名字：“维兹波普”。
-[隆金 AC17 HP 46/46 DC12]:“能看出是不是眼魔造物吗？”
-[猎颅 ac18 hp31/31 dc14]:“自动侏儒一般而言是岩侏儒打造的产物”
-[隆金 AC17 HP 46/46 DC12]:“那，被眼魔控制的岩侏儒呢？”
-[猎颅 ac18 hp31/31 dc14]:“这点我并不知道 但通常意义上来讲的自动侏儒都会自动保护未成年及生物幼崽”
-[猎颅 ac18 hp31/31 dc14]:#上前检查这个自动侏儒有什么特点么
-[布瑞尔岩招生办主任]:听到“眼魔”这个词，那个小小的自动侏儒仿佛受到了巨大的惊吓，他拼命地摇头，仅剩的一只手胡乱地挥舞着，似乎在表达强烈的否定。他无法说话，只能焦急地指了指自己的胸口。那里有一块黄铜铭牌，上面用侏儒文刻着他的名字：“维兹波普”。
-[猎颅 ac18 hp31/31 dc14]:“等会”
-[猎颅 ac18 hp31/31 dc14]:#一个修复术拍了过去
-[布瑞尔岩招生办主任]:“哦，一个会动的废铁堆。”斯札瑞絲的声音在你脑中懒洋洋地响起，“小工匠，你该不会是想收集这些‘兄弟’，组建一支废品大军吧？咯咯咯……这倒是个挺有……‘创意’的想法。”
-[猎颅 ac18 hp31/31 dc14]:“好了 你可以说话了”
-[猎颅 ac18 hp31/31 dc14]:“什 我倒不是这样想的 我更喜欢自己研发一个衷心的陪伴造物”
-[布瑞尔岩招生办主任]:法术的光芒一闪而过。他胸口狂乱的电火花平息了下来，那阵“嘶嘶噗噗”的漏气声也停止了。片刻的沉默后，维兹波普的嘴里发出了一个清晰的、但却单一的机械音节：“维——”。他似乎想继续说下去，但无论怎么努力，都只能重复这一个声音：“维——维——维——”。
-[布瑞尔岩招生办主任]:他感激地看了你一眼，但眼中随即又充满了沮丧。他指了指自己的喉咙，又指了指自己断掉的腿，最后再次指向了你腰间的修补工具，让你明白，他的问题远比一个简单的“修复术”要复杂得多。
-[猎颅 ac18 hp31/31 dc14]:“好吧 看来还需要之后专门维护一下”#抓了抓耳朵
-[猎颅 ac18 hp31/31 dc14]:“总而言之 你不是眼魔这边的是吧”
-[猎颅 ac18 hp31/31 dc14]:#挠了挠头
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:“这是比较罕见的自动侏儒呀”
-[猎颅 ac18 hp31/31 dc14]:“落单的自动侏儒确实挺罕见的”
-[猎颅 ac18 hp31/31 dc14]:“先把甲板清理一下吧”
-[布瑞尔岩招生办主任]:听到猎颅的问题，维兹波普那只完好的机械眼中闪过一丝深深的恐惧和……憎恨。@猎颅 ac18 hp31/31 dc14
-[布瑞尔岩招生办主任]:立刻用尽全身力气，将小小的脑袋摇得像个拨浪鼓。接着，他用那只还能动的手，指向了不远处恐怖钟表的残骸，然后又指了指自己破碎的身体，最后做出一个被撕裂的、充满痛苦的动作。
-[猎颅 ac18 hp31/31 dc14]:#点了点头
-[猎颅 ac18 hp31/31 dc14]:“他们看起来确实也不是善茬”
-[猎颅 ac18 hp31/31 dc14]:“我先给你维修一下吧 之后等恢复了再详细谈谈”
-[猎颅 ac18 hp31/31 dc14]:#一边说着一边看去米肯他们在干嘛呢
-[猎颅 ac18 hp31/31 dc14]:“大伙先清理下甲板吧 罗兰接下来的路程可能需要你替我去开船了 我要去专心维修一些物件”
-[猎颅 ac18 hp31/31 dc14]:#先给自动侏儒扶起来带出废墟区安置个干净点的地方
-[罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2]:＃一屁股坐上星舵
-[猎颅 ac18 hp31/31 dc14]:“抬头我看看哪里损坏了”#先开始看看维兹波普喉咙部位是什么损坏了去维修下
-[布瑞尔岩招生办主任]:你扫视了一圈指挥甲板说那也奇怪，甲板上就你们4个人，再加上厨师长螳螂人和刘江体
-[布瑞尔岩招生办主任]:你好像并没有看到米肯的身影，会不会是他的地下被火球柱炸翻了？
-[布瑞尔岩招生办主任]:角色可以尝试使用备用自动侏儒零件和工匠工具来修复 Wizpop。为了找到合适的零件，角色必须花费 10 分钟在空旷甲板上搜索，并成功通过 DC 15 的智力（神秘学）检定。找到零件后，擅长工匠工具的角色可以使用这些零件和工具进行修理。每小时的修理结束时，Wizpop 会恢复 1d6 点生命值。
-[猎颅 ac18 hp31/31 dc14]:“咿 米肯呢？”
-[隆金 AC17 HP 46/46 DC12]:“我去找找那个小子，那一发火球把我炸的不轻。”
-[猎颅 ac18 hp31/31 dc14]:“隆金你去吧 路上小心点 给药水带上”
-[猎颅 ac18 hp31/31 dc14]:#丢两瓶治疗药水给隆金
-[布瑞尔岩招生办主任]:对了，澄清一下啊，这个你们现在在的是指挥甲板，往下走，一层是中空甲板，就是你们要找备用零件的那个地方，也是米肯放火球术的地方
-[布瑞尔岩招生办主任]:然后再往下第三层就是货舱甲板，就是你们被扔到飞船里的地方
-[布瑞尔岩招生办主任]:所以你们找东西的话，也得下去找
-[猎颅 ac18 hp31/31 dc14]:“我也在下面那个甲板找点零件先”
-[猎颅 ac18 hp31/31 dc14]:“罗兰你开船顺便看下这群伤员哦 全员昏迷的”
-[隆金 AC17 HP 46/46 DC12]:隆金拿好药水，往下层甲板走过去
-[猎颅 ac18 hp31/31 dc14]:#也去甲板找找零件
-[猎颅 ac18 hp31/31 dc14]:#顺便找找机械部件准备打造蓝图装备
-[布瑞尔岩招生办主任]:指挥甲板上，罗兰坐上了冰冷的魔舵座椅，开始尝试熟悉这艘船的基本操控。三名受伤的船员则在隆金的治疗下恢复了些许气力，开始默默地将还能用的物资归拢到一起。
-[布瑞尔岩招生办主任]:而猎颅和隆金一前一后地通过中央通道向下。首先抵达的是中空甲板，这里依旧一片狼藉。米肯之前施放的、现已残破不堪的蛛网挂在通道边缘，散发着魔法的余味。被摧毁的钟表怪物残骸散落一地，空气中充满了臭氧和金属烧焦的气味。
-[布瑞尔岩招生办主任]:这里似乎并没有米肯的身影，只有遗体的残骸
-[猎颅 ac18 hp31/31 dc14]:“米肯不会被夺心魔什么的吃了吧”#路上吐槽着
-[猎颅 ac18 hp31/31 dc14]:“一来就是对我们的杀招”
-[布瑞尔岩招生办主任]:现在请猎颅进行一次智力【奥秘】检定，来决定你是否能在中空甲板的自动侏儒残骸中，找到修复维兹波普所需的精密零件。
-# [阿芙娜]:由于 奥秘，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+6+1d4=3[D20]+6+4[1d4]=13&lt;dice>:(猎颅 ac18 hp31/31 dc14的d+6+1d4,4,NA,13)
-[布瑞尔岩招生办主任]:谁知道呢？也许他只是太害怕了
-[猎颅 ac18 hp31/31 dc14]:#亚音速起子进行辅助翻找翻找
-[隆金 AC17 HP 46/46 DC12]:“米肯，你在吗？”隆金扯着嗓子大喊
-[布瑞尔岩招生办主任]:然而，你找到的都是恐怖钟表的残骸，这些恐怖钟表的构造与自动侏儒的工艺相去甚远。它们的零件充满了粗暴和不详的异域风格，你找不到任何一个能与维兹波普体内那些精巧的齿轮和线路相匹配的部件。你最终只能无奈地站起身，手里空空如也。
-[布瑞尔岩招生办主任]:“我以为奇械师都该有点石成金的本事，看来你只是块石头。” 斯札瑞絲在你脑中用她一贯的讽刺腔调说道，“用这些被污染的废料去修补一个侏儒造物？你还不如直接往他脑袋里塞一把沙子。”
-[猎颅 ac18 hp31/31 dc14]:“很有说法”
-[猎颅 ac18 hp31/31 dc14]:“不过沙子或许要先烧成玻璃再塞进去”
-[布瑞尔岩招生办主任]:就在你一筹莫展之际，从通往上层指挥甲板的通道口，传来了厨师长莱贝克有些虚弱但依旧洪亮的声音：
-[猎颅 ac18 hp31/31 dc14]:#一边翻找接话
-[布瑞尔岩招生办主任]:“嘿！小子们！你们在找零件吗？”
-[布瑞尔岩招生办主任]:他正靠在通道边缘，看着你们这边的动静。
-[猎颅 ac18 hp31/31 dc14]:“当然是了”
-[布瑞尔岩招生办主任]:“别白费力气了！这层都是些战斗机器的破烂。咱们的备用物资、标准工具箱还有医疗包，都在咱们刚被扔进来的地方——最底下的货舱里！想修东西，得去那儿找材料！”他顿了顿，似乎想起了什么，“说起来……米肯那小子……他会不会也是跑去那里找什么东西了？”
-[猎颅 ac18 hp31/31 dc14]:“怎么说 那边有么”
-[猎颅 ac18 hp31/31 dc14]:“我们带来的物资里有啊 不错”
-[猎颅 ac18 hp31/31 dc14]:“免去了翻找的时间了”
-[布瑞尔岩招生办主任]:@隆金 AC17 HP 46/46 DC12 正说着，下面的货物区好像传来了咚的一声似乎回应了你的呼喊
-[猎颅 ac18 hp31/31 dc14]:“隆金走吧”
-[猎颅 ac18 hp31/31 dc14]:#拍了拍手就继续朝着下方走去
-[隆金 AC17 HP 46/46 DC12]:“怎么跑到下面去了。”
-[猎颅 ac18 hp31/31 dc14]:“不知道哦 去拿什么了么”
-[隆金 AC17 HP 46/46 DC12]:隆金嘟囔几句，拍拍手也跟着到下面去
-[布瑞尔岩招生办主任]:那么你们两个人一前一后地顺着通道继续向下。
-[布瑞尔岩招生办主任]:你们离开了中空甲板那片充满了战斗痕迹的废墟，进入了更深、更寂静的区域。空气变得有些沉闷，带着一丝储存物资的干货和金属箱的味道。光线在这里几乎完全消失，只能依靠你们自己的光源来照亮前路
-[猎颅 ac18 hp31/31 dc14]:#提灯启动
-[布瑞尔岩招生办主任]:很快，你们抵达了这艘船的最底层——货舱甲板。这里是一个巨大的、洞窟般的空间，你们刚登舰时带来的那些补给箱被随意地堆放在各处，形成了一座座如同小山般的障碍物，在你们的灯光下投下幢幢的、扭曲的阴影。刚才那声闷响，就是从这片箱子构成的“迷宫”深处传来的。
-[布瑞尔岩招生办主任]:你们已经抵达了货舱甲板的入口。这里光线昏暗，充满了可供藏身的阴影。
-[布瑞尔岩招生办主任]:你们是打算一起行动，谨慎地探索这个区域，还是分头寻找，一人负责寻找米肯和噪音的来源，另一人负责搜集维修物资？
-[猎颅 ac18 hp31/31 dc14]:#先翻翻找找自己需要的零件
-[猎颅 ac18 hp31/31 dc14]:“我上了”
-[猎颅 ac18 hp31/31 dc14]:“隆金一起不”
-[隆金 AC17 HP 46/46 DC12]:“我去找找米肯，兔子你在这里搜索一下零件吧。”
-[猎颅 ac18 hp31/31 dc14]:“行”
-[隆金 AC17 HP 46/46 DC12]:“哼哼，等我找到他，一定要他好看！”
-[布瑞尔岩招生办主任]:那么猎颅，你留在货舱入口附近，开始翻找你们登舰时带来的那些补给箱。
-[布瑞尔岩招生办主任]:再做一次鉴定吧，调查或者察觉都行
-[布瑞尔岩招生办主任]:与此同时，隆金则握紧武器，独自一人向着那片由集装箱构成的黑暗迷宫深处走去。你的脚步声在寂静的船舱中回响，光源在高耸的箱壁上投下摇曳的影子。空气冰冷而沉闷
-# [阿芙娜]:由于调查，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+6+d4=9[D20]+6+3[d4]=18&lt;dice>:(猎颅 ac18 hp31/31 dc14的d+6+d4,4,NA,18)
-[布瑞尔岩招生办主任]:那么你很快就找到了目标——一个印有星界航海学院徽记的大号金属箱。打开它，里面正是厨师长所说的标准工具箱和备用物资：成卷的能量导线、备用的水晶聚能器、以及一整套精密的侏儒工匠工具。现在，你拥有了修复维兹波普和飞船所需的一切材料。
-[布瑞尔岩招生办主任]:呃，隆金可以过一个有优势的求生
-[布瑞尔岩招生办主任]:@隆金 AC17 HP 46/46 DC12
-[猎颅 ac18 hp31/31 dc14]:#再去找找有没有多余的材料给自己之后制造蓝图物品用
-[猎颅 ac18 hp31/31 dc14]:#或者看看材料够不够
-# [阿芙娜]:由于。求生，&lt;隆金 AC17 HP 46/46 DC12>掷出了 d优势=14[d优势={14 | 14}]=14&lt;dice>:(隆金 AC17 HP 46/46 DC12的d优势,100,NA,14)
-[布瑞尔岩招生办主任]:那么龙金你作为一个米诺陶牛头人，你对 jelly 的迷宫有天生的方向感，如有神助，很轻松的就找到了声音的来源
-[布瑞尔岩招生办主任]:一个补给箱倒在了地上，里面的口粮和物资洒了一地。而在那倒下的箱子后面，一个瘦小的身影正蜷缩在角落里，瑟瑟发抖。
-[布瑞尔岩招生办主任]:是米肯。
-[布瑞尔岩招生办主任]:你终于找到了米肯。他看起来吓坏了，身上还有一些轻微的划伤和灼伤。当你走近时，他猛地抬起头，眼中充满了惊恐。
-[隆金 AC17 HP 46/46 DC12]:“嘿，小家伙，过来让我看看。”隆金单手从后面把米肯提溜出来
-[隆金 AC17 HP 46/46 DC12]:“你怎么跑到下面来了？”
-[布瑞尔岩招生办主任]:他像一个找到了父母的走失孩童，连滚带爬地从箱子后面冲出来，一把抱住了你的腿，嚎啕大哭。
-[布瑞尔岩招生办主任]:“隆……隆金大人！我还以为……我以为你们都……呜呜呜……那……那爆炸……我什么都看不见了，到处都是光……我只能跑……我好害怕……我以为我再也见不到你们了……”
-[布瑞尔岩招生办主任]:你看到他身上布满了黑色的烟灰，手臂上有一道浅浅的、还在渗血的伤口。
-[隆金 AC17 HP 46/46 DC12]:“你说的没错，我们差一点就都死了。”隆金把米肯放下来，拍拍他的肩膀：“不过好运一直都眷顾着我们，现在收起你的眼泪，士兵，跟我们回去，处理一下你的伤口。”
-[布瑞尔岩招生办主任]:@猎颅 ac18 hp31/31 dc14 （绷
-[布瑞尔岩招生办主任]:那么听到你的话，米肯那夸张的哭声渐渐平息了下来。他用袖子擦了擦眼泪和脸上的烟灰，抬起头，用一种混合着崇拜和感激的眼神看着你，用力地点了点头，不再多言，只是默默地跟在了你的身后。
-[布瑞尔岩招生办主任]:你们准备离开了这个箱子围成的临时厨房
-[布瑞尔岩招生办主任]:与此同时，决定再去找找有没有多余的材料用来制作物品
-[布瑞尔岩招生办主任]:在下层甲板都是一些常规的学院备用件，没有什么特殊有用的东西
-[布瑞尔岩招生办主任]:于是呢你可以回到上层中控甲板进行一次更彻底的搜寻
-[布瑞尔岩招生办主任]:再做一个调查吧
-# [阿芙娜]:由于 调查，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+4+d4=13[D20]+4+2[d4]=19&lt;dice>:(猎颅 ac18 hp31/31 dc14的d+4+d4,4,NA,19)
-[布瑞尔岩招生办主任]:你的专业眼光没有让你失望。在别人看来只是一堆废铜烂铁的地方，你却能识别出那些构造独特、能量迥异的珍贵部件。你成功地搜集到了一整箱有用的材料
-[猎颅 ac18 hp31/31 dc14]:“咿 爽了”
-[猎颅 ac18 hp31/31 dc14]:“这下可以用好了”
-[猎颅 ac18 hp31/31 dc14]:#带走回去找其他人去
-[布瑞尔岩招生办主任]:首先是你从另一个恐怖钟表的残骸中，拿到了一个还算完整的恐怖核心
-[猎颅 ac18 hp31/31 dc14]:#查询恐怖核心
-[布瑞尔岩招生办主任]:然后你又找到了一些完好的动力线圈，未损坏的齿轮组等等等等
-[布瑞尔岩招生办主任]:总共大概收集到了差不多六磅的金属材料和两磅的精密材料
-[猎颅 ac18 hp31/31 dc14]:“瑞丝这有什么用不 可以造自己的造物么”
-[猎颅 ac18 hp31/31 dc14]:#指核心
-[布瑞尔岩招生办主任]:@猎颅 ac18 hp31/31 dc14 ：就是上次你用于升级枪的一种核心，不过这次已经不需要了，因为它已经升级过一次了，同类的作品不能再升级第二次
-[布瑞尔岩招生办主任]:“哼，拾荒者。” 斯札瑞絲的声音在你脑中响起，“对我来说，已经没什么用了，我不喜欢吃重复的东西，不过……我承认，垃圾堆里偶尔也能翻出些有趣的‘玩具’。别把它们浪费在平庸的设计上，小工匠。”
-[布瑞尔岩招生办主任]:那么现在你们所有人都回到了指挥甲板
-[猎颅 ac18 hp31/31 dc14]:#短暂的思考 点了点头
-[布瑞尔岩招生办主任]:隆金从厨师长的厨房里捉回了到处乱跑的米肯
-[布瑞尔岩招生办主任]:猎颅捡到了合适的维修材料和自己的私藏
-[猎颅 ac18 hp31/31 dc14]:#回去给自动侏儒维修一下
-[布瑞尔岩招生办主任]:你们终于可以开始进行修整了
-[布瑞尔岩招生办主任]:找到零件后，擅长工匠工具的角色可以使用这些零件和工具进行修理。每小时的修理结束时，Wizpop 会恢复 1d6 点生命值。
-[隆金 AC17 HP 46/46 DC12]:“为这个可怜的小家伙包扎一下吧。”
-[猎颅 ac18 hp31/31 dc14]:#维修自动侏儒维修船只维修动力爪修改飞船操作系统制造蓝图物件 任务进行中
-[猎颅 ac18 hp31/31 dc14]:#loading
-[布瑞尔岩招生办主任]:在你们休整的同时，你们需要做出最终决定：下一个目的地，是充满未知的“布莱尔岩”，还是停在这里等待学校支援，又或者抛弃一切，径直前往行星完成任务？
-[布瑞尔岩招生办主任]:注意的是你这一个小时只能干一件事情
-[布瑞尔岩招生办主任]:第一个去维修这个机器人，看看能恢复多少血
-[猎颅 ac18 hp31/31 dc14]:#先维修自动侏儒吧
-[布瑞尔岩招生办主任]:第2个，去造东西，或者去恢复生命头
-# [阿芙娜]:&lt;隆金 AC17 HP 46/46 DC12>掷出了 3d10+9=16[3d10=5+3+8]+9=25&lt;dice>:(隆金 AC17 HP 46/46 DC12的3d10+9,10,NA,25)
-# [阿芙娜]:&lt;猎颅 ac18 hp31/31 dc14>掷出了 d6=1&lt;dice>:(猎颅 ac18 hp31/31 dc14的d6,6,NA,1)
-[布瑞尔岩招生办主任]:第3个修维修飞船画图什么的
-[布瑞尔岩招生办主任]:那么看来....你这个维修收效甚微呀
-[猎颅 ac18 hp31/31 dc14]:“慢慢修了”
-[猎颅 ac18 hp31/31 dc14]:#看看能不能先恢复语言功能了
-[布瑞尔岩招生办主任]:那么一小时的短休在紧张的维修和包扎中结束了。
-[布瑞尔岩招生办主任]:甲板上，隆金看起来恢复如初，他消耗了3个生命骰，恢复了25点生命值，重新变得龙精虎猛（当前HP: 44/46）。其他人也利用这段时间处理了伤口，除了米肯的那点小伤已经完全恢复了，其他人状态好了许多。但是勉勉强强
-[隆金 AC17 HP 46/46 DC12]:于是一边休息，一边和大伙商量：“现在我们可以说是弹尽粮绝，摆在我们面前有两条路，要么留在原地等学院的支援，要么前往星图上标注的布莱尔岩，在那里修好飞船。”
-[布瑞尔岩招生办主任]:而你（猎颅），则将全部心神投入到了对维兹波普的修复中。但或许是材料不对口，又或许是他的损伤实在太过复杂，你这一个小时的工作收效甚微。
-[隆金 AC17 HP 46/46 DC12]:“或者抛弃这艘飞船，这等同于自杀。”
-[布瑞尔岩招生办主任]:你只成功地为他恢复了1点生命值。当你完成最后一个部件的调试，满怀期待地看着他时，维兹波普尝试着开口。这一次，他不再是发出单一的音节，而是用尽全力、带着强烈的电流杂音，断断续续地挤出了自己的名字：“维……滋……波……普……”
-[布瑞尔岩招生办主任]:说完这三个字，他的发声器就再次熄火，只能用那双机械眼感激又无奈地看着你。语言功能，并未能完全恢复。
-[猎颅 ac18 hp31/31 dc14]:#摸索着下巴
-[猎颅 ac18 hp31/31 dc14]:“再修吧”
-[布瑞尔岩招生办主任]:“一个小时，就为了让他能多发出一个音节？小工匠，按照这个效率，等你能和他正常对话时，这艘船恐怕早就锈成宇宙尘埃了。” 斯札瑞絲在你脑中评价道。
-[猎颅 ac18 hp31/31 dc14]:#挠了挠头
-[猎颅 ac18 hp31/31 dc14]:“没有图纸———”
-[猎颅 ac18 hp31/31 dc14]:“要是有设计图纸就好办多了”
-[布瑞尔岩招生办主任]:这次收效甚微的维修让情况变得很明显：你们手头的材料和工具，不足以应付维兹波普和这艘飞船的严重损伤。你们无法在这里解决所有问题
-[布瑞尔岩招生办主任]:@隆金 AC17 HP 46/46 DC12 你们明白,隆金说的很对
-[布瑞尔岩招生办主任]:你们只有3个选择
-[猎颅 ac18 hp31/31 dc14]:“先找个地方落脚补给维修吧”
-[猎颅 ac18 hp31/31 dc14]:“我先去打造个东西”
-[猎颅 ac18 hp31/31 dc14]:#回去造装备
-[布瑞尔岩招生办主任]:听从斯札瑞絲的建议……布莱尔岩。一个无法无天的海盗窝，但那里有你们修复飞船所需的一切。你们或许能在那找到强大的盟友或装备，但也可能遇到更大的麻烦。
-[布瑞尔岩招生办主任]:或者，你们留在这里。你们有求救石，可以联系学院。这是最安全的选择，但你们将彻底失去任务的主动权，而且……谁也不知道在这片空域里漂流多久才算安全
-[布瑞尔岩招生办主任]:最后……说不定也可以不管这艘破船，直接开往H'Catha。这很疯狂，飞船可能在半路散架，但这是完成任务最快的路径。
-[布瑞尔岩招生办主任]:你们。。。下一个目的地是哪里？
-[布瑞尔岩招生办主任]:====SAVE====
-
-<details><summary>AI 思维链</summary>
-
-(思维链未展开)
 
 </details>
 
-**AI 回答**:
-
+**AI 回答**
 好的，DM，收到。所有规则都已牢记在心。我们现在正式承接上次的存档点，开始今天的冒险。
 
 开场状态栏 (截至短休结束)
@@ -5277,43 +3890,25 @@ B线 (混乱路线): 如果队伍失败，飞船坠毁在下城。他们将直�
 
 （猎颅可不可以造一个投影仪）
 
-
-
-
 :D: 09-16 21:03:18
 
 ＃强行操控星舵转向
-
-
-
 
 咸鱼之提督: 09-16 21:04:54
 
 （投影仪么）
 
-
-
-
 木夕儿: 09-16 21:05:20
 
 （把我们的徽章投影到天空之上，表明我们并非眼魔）
-
-
-
 
 咸鱼之提督: 09-16 21:05:37
 
 （只要是微型非魔法的物品就行）
 
-
-
-
 咸鱼之提督: 09-16 21:05:48
 
 （一块长布或许在这个判定内）
-
-
-
 
 对我觉得为了增加他们紧迫感，可以在每个人开始的时候描述一下咱们距离大地到底还有多远，对吧？然后呢，这个这个地面上是什么景象，飞船上是什么景象？对吧？
 
@@ -5323,74 +3918,41 @@ Steven: 09-16 21:02:26
 
 那么紧张刺激的第一轮就开始了！
 
-
-
-
 Steven: 09-16 21:02:52
 
 猎颅、隆金、罗兰、叽咕叽咕——警报声震耳欲聋，炮口闪烁着致命的光芒，飞船正在你们脚下分崩离析。你们要怎么做？
-
-
-
 
 木夕儿: 09-16 21:02:53
 
 （猎颅可不可以造一个投影仪）
 
-
-
-
 :D: 09-16 21:03:18
 
 ＃强行操控星舵转向
-
-
-
 
 咸鱼之提督: 09-16 21:04:54
 
 （投影仪么）
 
-
-
-
 木夕儿: 09-16 21:05:20
 
 （把我们的徽章投影到天空之上，表明我们并非眼魔）
-
-
-
 
 咸鱼之提督: 09-16 21:05:37
 
 （只要是微型非魔法的物品就行）
 
-
-
-
 咸鱼之提督: 09-16 21:05:48
 
 （一块长布或许在这个判定内）
-
-
-
 
 咸鱼之提督: 09-16 21:06:05
 
 （我可以用魔法工艺投影上去一张图片什么）
 
-
-
-
 Steven: 09-16 21:06:18
 
 。find魔法工艺
-
-
-
-
-
-
 
 词条: TCE职业:奇械师:魔法工艺
 
@@ -5404,76 +3966,43 @@ Steven: 09-16 21:08:38
 
 （微小的魔法物品。。。
 
-
-
-
 Steven: 09-16 21:08:43
 
 （这个地面上你真能看到吗？
-
-
-
 
 咸鱼之提督: 09-16 21:09:07
 
 （希腊奶捏）
 
-
-
-
 咸鱼之提督: 09-16 21:09:15
 
 （就国旗那种）
-
-
-
 
 咸鱼之提督: 09-16 21:09:18
 
 （后面一块布）
 
-
-
-
 咸鱼之提督: 09-16 21:09:31
 
 （投影一下我挂个长杆上去）
 
-
-
-
 咸鱼之提督: 09-16 21:09:37
-
-
-
 
 Steven: 09-16 21:10:01
 
 （没听明白你要干什么？
 
-
-
-
 咸鱼之提督: 09-16 21:10:52
 
 （简单来讲就是整三个2.5尺*2.5尺的SOS图案 再挂个学校徽章）
-
-
-
 
 修林: 09-16 21:10:54
 
 （他的意思是，他要举白旗🏳️→制造带有勋章的旗子）
 
-
-
-
 咸鱼之提督: 09-16 21:11:21
 
 （虽然说微型不过也有一米左右）
-
-
-
 
 咸鱼之提督: 09-16 21:11:44
 
@@ -5619,202 +4148,115 @@ Steven: 09-16 21:17:56
 
 @罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往1/2 @隆金 AC17 HP 46/46 DC12
 
-
-
-
 Steven: 09-16 21:18:06
 
 @猎颅 ac18 hp31/31 dc14 （所以你是打算怎么做？
 
-
-
-
 :D: 09-16 21:18:06
-
-
-
 
 咸鱼之提督: 09-16 21:18:08
 
 “垃圾堆 这下样衰了”
 
-
-
-
 木夕儿: 09-16 21:18:24
 
 （那我来强行驾驶船）
-
-
-
 
 木夕儿: 09-16 21:18:34
 
 （我有太空船载具的熟练）
 
-
-
-
 Steven: 09-16 21:18:45
 
 @罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往1/2 那你通过一次奥数鉴定
-
-
-
 
 :D: 09-16 21:18:57
 
 .rd+6
 
-
-
-
 阿芙娜: 09-16 21:18:59
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+6=4[D20]+6=10
-
-
-
 
 Steven: 09-16 21:19:02
 
 罗兰，你死死抓住不断震颤的魔舵，试图从失控的旋转中夺回一丝控制权。船体发出刺耳的金属悲鸣，仿佛下一秒就要解体。透过你面前的舷窗，布莱尔岩的码头区正在飞速放大，你能清晰地看到下方惊慌失-措、四散奔逃的人群，以及那些已经完成充能、闪烁着致命魔法光芒的防御弩炮。
 
-
-
-
 :D: 09-16 21:19:15
 
 往昔+1d6
-
-
-
 
 :D: 09-16 21:19:19
 
 .r1d6
 
-
-
-
 阿芙娜: 09-16 21:19:21
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 1d6=2
-
-
-
 
 Steven: 09-16 21:19:23
 
 但是你的操作很显然，没有带来什么改善
 
-
-
-
 :D: 09-16 21:19:37
 
 （我是不是还有兔子的一个导来着）
-
-
-
 
 咸鱼之提督: 09-16 21:19:44
 
 （是这样说）
 
-
-
-
 Steven: 09-16 21:19:49
 
 与此同时，龙金，你感觉你的脚下猛地一沉，飞船又一次失速下坠了至少五十尺！船舱内，那些未固定的补给箱如同攻城槌一般撞向舱壁，发出震天的巨响。厨师长和另外几名学员发出了惊恐的尖叫，死死抓住身边的一切。一股浓烈的、电线烧焦的味道从你身旁的控制台里冒了出来。
-
-
-
 
 :D: 09-16 21:19:49
 
 .r1d4
 
-
-
-
 咸鱼之提督: 09-16 21:19:50
 
 （虽然是在前面拍的）
-
-
-
 
 阿芙娜: 09-16 21:19:50
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 1d4=2
 
-
-
-
 Steven: 09-16 21:20:03
 
 很不幸啊，依然没有啊，你在多方处理下还是呃。。。
-
-
-
 
 :D: 09-16 21:20:14
 
 （不赖）
 
-
-
-
 :D: 09-16 21:20:18
 
 （赫赫）
-
-
-
 
 Steven: 09-16 21:20:23
 
 罗兰着急的眼珠子都快瞪下来了，在你的大力出奇迹下，你成功掰断了一个操纵杆
 
-
-
-
 咸鱼之提督: 09-16 21:20:44
 
 #用无敌的器械师小技巧去整个小投影机在前面摆个大布去投影信息 整个学院徽章和求救信号
-
-
-
 
 :D: 09-16 21:20:45
 
 “好耶！准备跳船吧”
 
-
-
-
 Steven: 09-16 21:21:18
 
 @猎颅 ac18 hp31/31 dc14 那么猎颅，指挥甲板的警报灯在你脸上投下疯狂闪烁的红光。布莱尔岩的警告通讯震耳欲聋，现在需要你进行一次工具巧手鉴定
-
-
-
 
 咸鱼之提督: 09-16 21:21:31
 
 #亚音速起子启动
 
-
-
-
 咸鱼之提督: 09-16 21:21:44
 
 .rd+4+2+d4
-
-
-
 
 阿芙娜: 09-16 21:21:45
 
@@ -5942,85 +4384,49 @@ DM专属前瞻 (DM's Lookahead)
 
 “你们开船开稳点啊”
 
-
-
-
 Steven: 09-16 21:24:22
 
 布莱尔岩那些锁定你们的致命弩炮依然对准着你们。但是通讯频道里传来一个带着惊讶但冷静得多的新声音：“……收到信号。不明船只，重复，不明船只，立刻在指定安全区（Zone-7）停泊。我们将派遣队伍登船检查。不要做出任何可疑举动。”
-
-
-
 
 Steven: 09-16 21:25:07
 
 现在进入了第2个回合
 
-
-
-
 Steven: 09-16 21:25:16
 
 外部的军事威胁已经有所好转
-
-
-
 
 Steven: 09-16 21:25:21
 
 但内部的物理危机达到了顶点！
 
-
-
-
 咸鱼之提督: 09-16 21:25:22
 
 #忙着去修船了
-
-
-
 
 Steven: 09-16 21:25:25
 
 你们的飞船正在进行自由落体运动，离地面已不足千尺。
 
-
-
-
 咸鱼之提督: 09-16 21:25:32
 
 “哇 要散架了散架了”
-
-
-
 
 咸鱼之提督: 09-16 21:25:34
 
 #吐槽
 
-
-
-
 木夕儿: 09-16 21:25:46
 
 “紧——急——制——动——”
-
-
-
 
 咸鱼之提督: 09-16 21:26:05
 
 “我们的船只下不了水啊得缓缓 别自由落体啦”
 
-
-
-
 咸鱼之提督: 09-16 21:26:15
 
 #紧急修船人
-
-
-
 
 Steven: 09-16 21:26:44
 
@@ -6030,158 +4436,89 @@ Steven: 09-16 21:26:44
 
 .rd+6
 
-
-
-
 阿芙娜: 09-16 21:27:38
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+6=16[D20]+6=22
-
-
-
 
 Steven: 09-16 21:27:52
 
 （哇这次罗兰居然站起来了[汪汪]
 
-
-
-
 木夕儿: 09-16 21:28:00
 
 （居然是敏捷）
-
-
-
 
 Steven: 09-16 21:28:01
 
 （洗澡先人不洗澡的就是强[汪汪]
 
-
-
-
 木夕儿: 09-16 21:28:05
 
 （可以力量吗）
-
-
-
 
 咸鱼之提督: 09-16 21:28:11
 
 .rd+4+2+d4 修船人
 
-
-
-
 阿芙娜: 09-16 21:28:12
 
 由于 修船人，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+4+2+d4=4[D20]+4+2+2[d4]=12
 
-
-
-
 咸鱼之提督: 09-16 21:28:15
-
-
-
 
 Steven: 09-16 21:28:22
 
 （大力出奇迹是吧？
 
-
-
-
 :D: 09-16 21:28:23
 
 （说的好，我去洗澡了）
-
-
-
 
 咸鱼之提督: 09-16 21:28:32
 
 #给其他人拍导去
 
-
-
-
 Steven: 09-16 21:28:35
 
 （我觉得力量不太行
-
-
-
 
 咸鱼之提督: 09-16 21:28:47
 
 （不如来给我个协助）
 
-
-
-
 Steven: 09-16 21:28:50
 
 （开飞船应该不是靠大力出奇迹的，我不让你用智力已经不错
-
-
-
 
 咸鱼之提督: 09-16 21:28:51
 
 （让我吃个优势）
 
-
-
-
 咸鱼之提督: 09-16 21:29:02
 
 （协助我维修让我吃个优势頭——）
 
-
-
-
 咸鱼之提督: 09-16 21:29:04
-
-
-
 
 木夕儿: 09-16 21:29:12
 
 （彳亍）
 
-
-
-
 木夕儿: 09-16 21:29:18
 
 （那我协助猎颅维修）
-
-
-
 
 木夕儿: 09-16 21:29:25
 
 （表现为在一边给他递工具（）
 
-
-
-
 :D: 09-16 21:30:00
 
 （不就是飞船吗看我用牛头人给推回去！）
 
-
-
-
 咸鱼之提督: 09-16 21:30:22
 
 .rd+4+2+d4 优势頭
-
-
-
 
 阿芙娜: 09-16 21:30:23
 
@@ -6373,321 +4710,183 @@ Steven: 09-16 21:36:59
 
 你们的暴君舰以一往无前的姿态，撞穿了一座巨大仓库的屋顶和外墙，在无数货箱的爆裂声中，一路向前犁出了近百尺，最终在一片狼藉的尘埃与黑暗中，伴随着最后一声痛苦的呻吟，停了下来。
 
-
-
-
 Steven: 09-16 21:37:10
 
 （我要去喝口水
-
-
-
 
 咸鱼之提督: 09-16 21:37:13
 
 #瘫软在地
 
-
-
-
 :D: 09-16 21:37:21
 
 .rd+6+1d4
-
-
-
 
 阿芙娜: 09-16 21:37:23
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+6+1d4=18[D20]+6+2[1d4]=26
 
-
-
-
 咸鱼之提督: 09-16 21:37:25
 
 （吃了几点撞击啊 我感觉我倒了）
-
-
-
 
 Steven: 09-16 21:37:41
 
 （你们都成功了，所以没人受到伤害
 
-
-
-
 咸鱼之提督: 09-16 21:37:45
 
 （3血人）
-
-
-
 
 咸鱼之提督: 09-16 21:37:48
 
 （问题不大）
 
-
-
-
 咸鱼之提督: 09-16 21:39:15
 
 #瘫软在地
-
-
-
 
 咸鱼之提督: 09-16 21:39:25
 
 “什么情况”
 
-
-
-
 咸鱼之提督: 09-16 21:39:39
 
 #一顿翻滚后停下
-
-
-
 
 咸鱼之提督: 09-16 21:39:46
 
 #看看其他人滚哪里去了
 
-
-
-
 Steven: 09-16 21:40:01
 
 （回来了渴死我了，跑了一个小时团没喝水
-
-
-
 
 Steven: 09-16 21:40:28
 
 感谢各位船员的努力，以及兔子在最后一刻尽力的安全车架里面没有人受到伤害，甚至衣服都没有损坏
 
-
-
-
 Steven: 09-16 21:40:37
 
 死一般的寂静笼罩了船舱，只有尘埃在从破口射入的光柱中缓缓飘落。
-
-
-
 
 Steven: 09-16 21:40:43
 
 但这寂静只持续了片刻。
 
-
-
-
 Steven: 09-16 21:40:56
 
 从你们撞出的巨大破口外，传来了布莱尔岩低城区特有的喧嚣——惊慌的尖叫、愤怒的咒骂，以及……
-
-
-
 
 Steven: 09-16 21:41:05
 
 一阵急促而混乱的、由远及近的脚步声和卫兵的呵斥声。
 
-
-
-
 Steven: 09-16 21:41:18
 
 “站住！别跑！”
-
-
-
 
 咸鱼之提督: 09-16 21:41:30
 
 #捂着头起来 看看什么情况
 
-
-
-
 咸鱼之提督: 09-16 21:41:36
 
 “我们好像就没动过”
-
-
-
 
 Steven: 09-16 21:41:40
 
 斯札瑞丝“咯咯咯……看见没，我的小工匠？这就叫‘闪亮登场’！虽然方式有点……嗯，‘解构主义’。我开始喜欢这个地方了，充满了混沌的芬芳。”
 
-
-
-
 咸鱼之提督: 09-16 21:41:53
 
 “我觉得是一群瞎子”#小声bb
-
-
-
 
 木夕儿: 09-16 21:42:26
 
 “冷静，冷静兄弟们。”隆金朝对方喊
 
-
-
-
 Steven: 09-16 21:42:37
 
 “以王子之名，你被逮捕了！”
-
-
-
 
 木夕儿: 09-16 21:42:43
 
 “我们不是入侵者，也不是眼魔，我们需要帮助！”
 
-
-
-
 Steven: 09-16 21:42:44
 
 值得注意的是，你们发现他的这个用词是单人称，而不是你们
-
-
-
 
 Steven: 09-16 21:42:53
 
 像他们的目标，原本就不是你们
 
-
-
-
 木夕儿: 09-16 21:42:56
 
 “等等，怎么会是呢？”
-
-
-
 
 咸鱼之提督: 09-16 21:43:03
 
 “怎么会事呢”
 
-
-
-
 Steven: 09-16 21:43:07
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13
-
-
-
 
 Steven: 09-16 21:43:11
 
 快快快，你出场了！
 
-
-
-
 咸鱼之提督: 09-16 21:43:14
 
 #先看看周边是什么情况
-
-
-
 
 Steven: 09-16 21:43:16
 
 紧接着，一个灵活的身影冲进了你们的视野。
 
-
-
-
 Steven: 09-16 21:43:21
 
 那是一位身着精致但已沾染上污渍的表演服、扎着高马尾的半精灵女士。她跑得气喘吁吁，脸上却还带着一丝不羁的微笑，仿佛这不是一场追捕，而是一出戏剧的高潮。
-
-
-
 
 咸鱼之提督: 09-16 21:43:24
 
 （哇 yin游诗人）
 
-
-
-
 :D: 09-16 21:43:29
 
 “哈，来人扶我起来，我还能战”
-
-
-
 
 Steven: 09-16 21:43:43
 
 她一边跑，一边还不忘回头用华丽的辞藻嘲讽追兵，结果脚下一滑，正好摔倒在你们那艘“亲吻”地面的暴君舰的阴影之下。
 
-
-
-
 Steven: 09-16 21:43:59
 
 她身后，一队全副武装的城市卫兵正步步紧逼，封锁了所有退路
-
-
-
 
 咸鱼之提督: 09-16 21:44:08
 
 #给罗兰拉起来
 
-
-
-
 Steven: 09-16 21:44:14
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 奈瓦拉，你身后是步步紧逼的卫兵，眼前是这个充满了未知与残骸，但或许是唯一生机的“避难所”。你，要怎么做？
-
-
-
 
 咸鱼之提督: 09-16 21:44:17
 
 “怎么样罗兰 还能活起来不”
 
-
-
-
 修林: 09-16 21:44:52
-
-
-
 
 :D: 09-16 21:45:00
 
 “还能丢几个戏法，赫赫”
 
-
-
-
 咸鱼之提督: 09-16 21:45:21
 
 “看起来还元气满满的”
-
-
-
 
 修林: 09-16 21:45:37
 
@@ -6695,22 +4894,13 @@ Steven: 09-16 21:44:14
 
 “哈！我的好伙计！那个...可以和解吗？”
 
-
-
-
 咸鱼之提督: 09-16 21:45:47
 
 “你看那个在逃窜的 好像那个什么”
 
-
-
-
 咸鱼之提督: 09-16 21:45:57
 
 #在一边吃瓜不时指指点点吐槽
-
-
-
 
 :D: 09-16 21:46:05
 
@@ -6906,15 +5096,9 @@ Steven: 09-16 21:44:14
 
 （嚯）
 
-
-
-
 咸鱼之提督: 09-16 21:48:57
 
 #吼
-
-
-
 
 咸鱼之提督: 09-16 21:49:00
 
@@ -6924,43 +5108,25 @@ Steven: 09-16 21:44:14
 
 “这波啊这波是迫降你懂吗？”＃打个响指在自己头上显现出白旗
 
-
-
-
 木夕儿: 09-16 21:49:19
 
 （这下）
-
-
-
 
 Steven: 09-16 21:49:24
 
 （所以这其实也不怪人家，这太合理了[汪汪]
 
-
-
-
 咸鱼之提督: 09-16 21:49:41
 
 “队长救救 杀人啦”
-
-
-
 
 木夕儿: 09-16 21:49:41
 
 “不能被抓住，被抓住的话，我们个根本没钱赔。”
 
-
-
-
 咸鱼之提督: 09-16 21:49:45
 
 #唏嘘
-
-
-
 
 木夕儿: 09-16 21:50:00
 
@@ -7045,36 +5211,21 @@ NPC 反应
 
 （什）
 
-
-
-
 Steven: 09-16 21:52:09
 
 （这就是人家的地盘，我觉得打起来不好收场的，你们还怎么做补给呀？难道立马逃跑吗？
-
-
-
 
 木夕儿: 09-16 21:52:09
 
 （也是，但是不能被抓住）
 
-
-
-
 木夕儿: 09-16 21:52:16
 
 （有没有办法溜走）
 
-
-
-
 咸鱼之提督: 09-16 21:52:48
 
 “冷静点都冷静点嘛 有什么事情好好聊”
-
-
-
 
 修林: 09-16 21:52:50
 
@@ -7185,106 +5336,61 @@ DM专属前瞻
 
 “我们也不是故意下来的是不是 被眼魔袭击的”
 
-
-
-
 Steven: 09-16 21:54:39
 
 你们可以通过一个成功的游说鉴定
-
-
-
 
 Steven: 09-16 21:54:48
 
 但是你们先要找出一个合理的解释办法
 
-
-
-
 咸鱼之提督: 09-16 21:54:53
 
 #给隆金拍个导先
-
-
-
 
 咸鱼之提督: 09-16 21:55:00
 
 #眼神示意
 
-
-
-
 Steven: 09-16 21:55:04
 
 或者比如说你们找机会制造足够的混乱，然后趁乱逃跑
-
-
-
 
 咸鱼之提督: 09-16 21:55:12
 
 （魅力人上场时刻）
 
-
-
-
 修林: 09-16 21:55:28
 
 “队长大人，劳烦您听在下一句，我并非有意损害那位大人的名誉，我以我的神明起誓，还请您唤回您的手下，并且阻止即将发生的混乱，我愿意跟您一起去见那位大人”
-
-
-
 
 Steven: 09-16 21:55:32
 
 下下策，你们可以直接抛出官方身份，自己可是学院的人用外交身份强压，然后被学院的人接走
 
-
-
-
 修林: 09-16 21:55:33
 
 .ra游说
-
-
-
 
 阿芙娜: 09-16 21:55:35
 
 &lt;奈瓦拉-阿玛斯塔夏>的"游说"检定（DND5E）结果为: 6[d20] + 14[魅力调整值5+游说9] = 20
 
-
-
-
 木夕儿: 09-16 21:55:39
 
 。rd+2+d4 游说
-
-
-
 
 Steven: 09-16 21:55:40
 
 但是这样的话会让局势更为紧张，你们可能就没有办法在城里自由行动了
 
-
-
-
 阿芙娜: 09-16 21:55:42
 
 由于 游说，&lt;隆金 AC17 HP 46/46 DC12>掷出了 d+2+d4=5[D20]+2+4[d4]=11
 
-
-
-
 咸鱼之提督: 09-16 21:55:54
 
 #张口就来
-
-
-
 
 觉得你的这种呃声望关系对吧？局这个这个各种流派系的这个组织关系，我觉得很不错啊，咱可以咱可以直接使用接下来
 咸鱼之提督: 09-16 21:53:22
@@ -7387,9 +5493,6 @@ Steven: 09-16 21:55:40
 猎颅“有话好好说 诶 我们这边呢是在太空击破了眼魔飞船的防御和内部潜在的敌人的 你们可以自己去里面搜下有一堆可恶的异域机械残骸 我们拼尽全力才操控这艘飞船没掉落到城市中心而是飘来港口的 怎么说没有功劳也有苦劳啊”#张口就来咸鱼之提督: 09-16 21:59:08
 
 .rd+3+d4游说
-
-
-
 
 阿芙娜: 09-16 21:59:10
 
@@ -7557,50 +5660,29 @@ B. 追踪与审问: 可能会发现米肯与某个代理人的接头记录，或
 
 “好机会，先溜！”
 
-
-
-
 修林: 09-17 20:43:53
 
 “慷慨的阿曼纳塔！我本只是祈求这糟心的天气能稍许好转，未曾想祂竟为远在星界的半精灵驱散了阴霾！”脚步轻快地上前，吐露着优雅的咏叹调
 
 “天赐良机！我们快跑吧！”
 
-
-
-
 咸鱼之提督: 09-17 20:44:04
 
 （问题来到了如果先润的话我们的飞船和物资怎么办）
-
-
-
 
 咸鱼之提督: 09-17 20:44:10
 
 （我的物资啊———）
 
-
-
-
 咸鱼之提督: 09-17 20:44:27
 
 （还有路上捡的自动侏儒）
 
-
-
-
 咸鱼之提督: 09-17 20:44:30
-
-
-
 
 Steven: 09-17 20:44:31
 
 (那....这可不好说
-
-
-
 
 木夕儿: 09-17 20:44:57
 
@@ -7703,64 +5785,37 @@ DM，你和猎颅的玩家都提出了一个至关重要的问题，这正是让
 
 （嘛 问题不大 船到桥头自然直（）
 
-
-
-
 咸鱼之提督: 09-17 20:46:02
 
 #抓起自动侏儒丢次元袋看看大伙情况
-
-
-
 
 :D: 09-17 20:46:20
 
 ＃打手势——润——
 
-
-
-
 咸鱼之提督: 09-17 20:46:28
 
 #说得道理
-
-
-
 
 咸鱼之提督: 09-17 20:47:01
 
 #给米肯和厨师长螳螂人他们比了比手势作个唇语的动作 润润
 
-
-
-
 木夕儿: 09-17 20:48:44
 
 “走！”隆金压低身体，和大家一起走
-
-
-
 
 Steven: 09-17 20:48:48
 
 。rd决定这场流血冲突，最后会怎么解决？决定着你们飞船的去向
 
-
-
-
 阿芙娜: 09-17 20:48:49
 
 由于决定这场流血冲突，最后会怎么解决？决定着你们飞船的去向，&lt;布瑞尔岩招生办主任>掷出了 d=5[D20]=5
 
-
-
-
 Steven: 09-17 20:49:22
 
 所以你们要去哪里呢？这里边啊就有一个奈瓦拉是当地人，他应该知道去哪里
-
-
-
 
 咸鱼之提督: 09-17 20:49:25
 
@@ -7993,36 +6048,21 @@ Steven: 09-17 20:51:29
 
 你们……暂时安全了
 
-
-
-
 咸鱼之提督: 09-17 20:51:46
 
 “唉 我的飞船 唉 我的飞船”#一路三叹
-
-
-
 
 咸鱼之提督: 09-17 20:52:05
 
 “虽然经手还没超过一天但依然是我的好战友”
 
-
-
-
 Steven: 09-17 20:52:07
 
 但新的问题也随之而来：你们身无分文，与飞船和所有物资失去了联系，并且在这座陌生的城市里同时得罪了官方和黑帮
 
-
-
-
 咸鱼之提督: 09-17 20:52:10
 
 “就这样离我而去了”
-
-
-
 
 修林: 09-17 20:52:16
 
@@ -8030,111 +6070,63 @@ Steven: 09-17 20:52:07
 
 “我听说过那个学校！欢迎来到布莱尔岩，相信我，在一场紧张刺激的冒险后，这里的酒馆绝对值得光顾”#给众人带路到熟悉的酒馆
 
-
-
-
 木夕儿: 09-17 20:52:16
 
 “好了好了，我们之后就想办法把它开走。”
-
-
-
 
 Steven: 09-17 20:52:17
 
 所有人的目光，都集中在了唯一熟悉这里的奈瓦拉身上。
 
-
-
-
 :D: 09-17 20:52:22
 
 “居然没有爆炸——居然没有爆炸——”
-
-
-
 
 Steven: 09-17 20:52:24
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13
 
-
-
-
 :D: 09-17 20:52:34
 
 ＃碎碎念
-
-
-
 
 木夕儿: 09-17 20:52:37
 
 “对了这位，呃，生理性别应该为女性的精灵？”
 
-
-
-
 咸鱼之提督: 09-17 20:52:41
 
 （没事 我需要的物资我都带在次元袋里#嘘）
-
-
-
 
 Steven: 09-17 20:52:48
 
 奈瓦拉，身后是你的新同伴，眼前是三条岔路——一条通往恶臭的下水道入口，一条通往人声鼎沸的次级市场，还有一条是通往更为僻静的、堆满废弃物的后巷。你要带他们去哪里躲藏？
 
-
-
-
 木夕儿: 09-17 20:52:56
 
 “请问你怎么称呼？”隆金姑且客气的打了下招呼
-
-
-
 
 咸鱼之提督: 09-17 20:52:59
 
 “奈兄弟啊 不错不错”
 
-
-
-
 木夕儿: 09-17 20:53:15
 
 （呜呜呜，我打字好慢）
-
-
-
 
 咸鱼之提督: 09-17 20:53:23
 
 “叫我斯瑞就好了”
 
-
-
-
 咸鱼之提督: 09-17 20:53:28
-
-
-
 
 咸鱼之提督: 09-17 20:53:34
 
 #张口就是假名
 
-
-
-
 修林: 09-17 20:53:36
 
 #当然是人多的地方！人群才是吟游诗人最好的掩护
-
-
-
 
 呃，那么他选择的次新市场，我觉得你前后两版都挺好，可以结合一下。就是咱们虽然说最终要到达酒馆，酒馆可以作为一个休息地。但是我觉得你第一版那些创业的非常不错，对吧？在市场里各种各样的遭遇有有有好好几种目的和这个环境可以增加，很增加玩家沉淀感，值得鼓励。我觉得非常不错，咱都可以融合，咱都可以都干，对吧？
 Steven: 09-17 20:51:29
@@ -8257,29 +6249,17 @@ C. 绕道小巷：拐进旁边一条更狭窄、更黑暗的小巷，但这可�
 
 “咳，表演的时候出了点意外，不小心得罪了这里的头目”#略显尴尬地收起叉腰的手，把注意力放在眼前
 
-
-
-
 咸鱼之提督: 09-17 20:56:47
 
 #短暂的思考好像想起来什么不过又放下
-
-
-
 
 咸鱼之提督: 09-17 20:57:00
 
 “如此如此”
 
-
-
-
 咸鱼之提督: 09-17 20:57:17
 
 “这边有什么安全的地方躲着么”
-
-
-
 
 咸鱼之提督: 09-17 20:57:33
 
@@ -8364,146 +6344,83 @@ Steven: 09-17 21:01:24
 
 就在这时，前方传来一阵骚动，人群纷纷向两旁避让。一队城市卫兵正排成一线，挨个盘查着路人，显然是在搜捕你们。
 
-
-
-
 咸鱼之提督: 09-17 21:01:53
 
 “这样”#点了点头
-
-
-
 
 咸鱼之提督: 09-17 21:02:01
 
 （呱）
 
-
-
-
 咸鱼之提督: 09-17 21:02:09
 
 （变装）
-
-
-
 
 木夕儿: 09-17 21:02:16
 
 “坏了，我们没有易容用的面具。”
 
-
-
-
 咸鱼之提督: 09-17 21:02:21
 
 #看看周边有什么躲藏的地方么
-
-
-
 
 修林: 09-17 21:02:50
 
 #拉着队友趁着巡逻队注意之前，走到无人在意的角落掏出易容工具进行易容
 
-
-
-
 Steven: 09-17 21:03:15
 
 @猎颅 ac18 hp31/31 dc14 你这样想着你一眼相中了，在隔着几条街的对面，有一家10分兴盛的酒馆
-
-
-
 
 Steven: 09-17 21:03:33
 
 招牌看起来很奇特，像是很多眼饼和眼睛构成的有一扇厚重的岩石做的带有球形弧度的门
 
-
-
-
 咸鱼之提督: 09-17 21:03:35
 
 #抓起一行人就跑路
-
-
-
 
 咸鱼之提督: 09-17 21:03:50
 
 “走了 阿奈 现在变装来不及了”
 
-
-
-
 :D: 09-17 21:03:53
 
 ＃跑路！
-
-
-
 
 修林: 09-17 21:04:00
 
 #正好在酒馆有足够的场地和工具，加速前进！
 
-
-
-
 Steven: 09-17 21:04:23
 
 那么如果你们不去别处或其他方法的话，那么你们需要进行一次团队的隐匿鉴定
-
-
-
 
 Steven: 09-17 21:04:32
 
 如果有任何一个人失败，那么至少他自己会暴露
 
-
-
-
 咸鱼之提督: 09-17 21:04:51
-
-
-
 
 咸鱼之提督: 09-17 21:05:39
 
 （其他办法）
 
-
-
-
 咸鱼之提督: 09-17 21:05:42
 
 （让我想想）
-
-
-
 
 咸鱼之提督: 09-17 21:05:50
 
 （#看法术）
 
-
-
-
 Steven: 09-17 21:05:55
 
 （这下子就想起来，之前斯麦尔在行动无踪了#楽
 
-
-
-
 木夕儿: 09-17 21:06:21
 
 （那要不先离开这里？）
-
-
-
 
 修林: 09-17 21:06:28
 
@@ -8513,64 +6430,37 @@ Steven: 09-17 21:05:55
 
 （但是我随身有一瓶变身术药水）
 
-
-
-
 咸鱼之提督: 09-17 21:07:09
 
 （好兄弟）
-
-
-
 
 Steven: 09-17 21:07:13
 
 （绷
 
-
-
-
 Steven: 09-17 21:07:23
 
 （还真是你们还没长修呢，你的药水还没失效
-
-
-
 
 咸鱼之提督: 09-17 21:07:40
 
 “好兄弟 这瓶药你先拿着 看情况不对偷偷喝了”
 
-
-
-
 咸鱼之提督: 09-17 21:07:53
 
 #看阿奈要去整点风头把药水递给她
-
-
-
 
 修林: 09-17 21:08:30
 
 #轻快地打了个OK的手势，示意对方赶紧离开
 
-
-
-
 修林: 09-17 21:08:38
 
 .ra表演
 
-
-
-
 阿芙娜: 09-17 21:08:41
 
 &lt;奈瓦拉-阿玛斯塔夏>的"表演"检定（DND5E）结果为: 7[d20] + 12[魅力调整值5+表演7] = 19
-
-
-
 
 修林: 09-17 21:10:49
 
@@ -8578,22 +6468,13 @@ Steven: 09-17 21:07:23
 
 热情的商旅献上精巧的玩物~我们高声歌唱~赞美伟大的王子~”
 
-
-
-
 Steven: 09-17 21:10:59
 
 这个察觉是单独奈瓦拉的
 
-
-
-
 修林: 09-17 21:11:04
 
 .ra察觉+1d4
-
-
-
 
 阿芙娜: 09-17 21:11:06
 
@@ -8601,22 +6482,13 @@ Steven: 09-17 21:10:59
 
 哎，我突然在想一件事情啊，我之前一直是在想这个，我当时就想效仿这个堡垒这款游戏的这个神明系统，就是说你可以给宗主祈祷，对吧？他他剥夺你一些能力，或者给你一些惩罚，对吧？让你获得一些额外的能力，比如说给你一额外的额外的药水，对吧？我之前就给就给这个谁那个毒，他不是炼炼些术士嘛，它的不稳定药剂比二个替代了很多有有更强大效果的药水配方，对吧？这样的话，而而如果我这个情况呢，它就等于是有好有坏的对吧？这样话抽签更加更增加这个刺激感。如果是宗主给他的话，就是给他额外的惩罚。那他这个药水就是很强大的好的药水。然后想到了正好他们要去眼膜，酒馆遇到了眼膜，这个这个宗族一定是很气愤，心生妒忌和气愤的。他已经他正好可以接出来给他一些这个这些这些选项，对吧？你多给我几个方案，都是给他一些选选项。比如说我想到那些什么，比如说零能药水，对吧？可以让他这个获得获得一定的零能点数，对吧？灵利点就是参考秘术师 ua 的秘术师职业，然后让他选择11种11种灵术对吧？或者然后呢呃代价就是可能比如说随时随地召唤出一个梦魇生物来，比如说眼魔对吧？这是这是宗旨的梦魇生物。当然这是一个比较强力的药水啊，还有比如说其他的想法啊，比如说这么一忘忧药水，对吧？喝完给忘掉一种药水配方对吧？呃，对吧或者或者还有其他的，你想想对吧？多想几个有意思的，也重点是咱们得想想符合宗宗主斯瑞斯，扎瑞斯好像叫他这个名字，他的性格和风格是什么样子的
 
-
-
-
 然后说回这这刚才是前瞻内容啊，说回刚才扮演的步伐，就是他的这个演奏稍微差一点。因为这个头子好像有点问题，他把这个呃值加了两遍了，像其实没有那么高，可能是十四点啊。然后正好是想记住察觉，把这杂耍者给出去。我想我是这么想的，就是就是杂耍者帮他帮他们避了这个障碍，然后然后比如说给他们留了一个徽章或者其他的信信物，对吧？既然帮助他，就跟那个青帮一样，对吧？你到哪都可以说我是青帮的人撑场面。但是呢你既然撑着自己的青帮，那你就得替我们干活，对吧？多么合理的，然后就是他们的卷入的这个帮派冲突。毕竟杂耍者，这是四大亨之一，那个工会的那个首领，也是四大四大四大四大暗影大亨之一，对吧？这不就呃进入崩派冲突母这不多。好，但是他好像的这个警差觉有点低，他比他比演奏还低呢，就有点尬住了。这想怎么把这事顺过来，然后咱们继续哎，但是呃，队友协助了咸鱼之提督: 09-17 21:14:20
 
 #拿刚刚自己搓的小投影机想想办法 去给阿奈那打个氛围灯整点特效协助
 
-
-
-
 修林: 09-17 21:14:33
 
 （跟博德之门的算法不一样，被拉瑞安房规误导了）
-
-
-
 
 咸鱼之提督: 09-17 21:14:35
 
@@ -8789,50 +6661,29 @@ Steven: 09-17 21:17:31
 
 奈瓦拉的歌声在嘈杂的市场中响起，虽然动听，但也只是众多街头卖艺中的一个，吸引了几个路人驻足。巡逻的卫兵们只是瞥了一眼，并没有停下脚步，他们的目标是搜捕逃犯，而不是欣赏音乐。
 
-
-
-
 Steven: 09-17 21:17:52
 
 反倒是猎颅用废掉出来的小投影仪，吸引了大量的闲杂人等
-
-
-
 
 Steven: 09-17 21:18:37
 
 与此同时，你们注意到一群正在表演吞火的杂耍演员正在从旁边经过
 
-
-
-
 Steven: 09-17 21:18:46
 
 迅速的又将人群吸引到了另一个方向
-
-
-
 
 Steven: 09-17 21:19:13
 
 你们成功借此机会冲向了快乐眼魔酒馆
 
-
-
-
 Steven: 09-17 21:19:38
 
 等你们脱离危险之后，后知后觉的奈瓦拉才注意到手中被人塞了一张纸条
 
-
-
-
 Steven: 09-17 21:20:01
 
 上面画着杂耍者的图案，指向了中城区的一个剧院
-
-
-
 
 咸鱼之提督: 09-17 21:20:17
 
@@ -8840,278 +6691,155 @@ Steven: 09-17 21:20:01
 
 例如，想要爬上危险峭壁的角色可能要应DM要求进行一次力量（运动）检定。如果该角色具有运动技能的熟练项，则他可以将其熟练加值加到这次力量检定中。如果没有该熟练项，则他只进行普通的力量检定。）
 
-
-
-
 修林: 09-17 21:20:36
 
 #暂且放着不管，迈起轻快地步伐跟进酒馆
-
-
-
 
 Steven: 09-17 21:20:40
 
 （好欸
 
-
-
-
 咸鱼之提督: 09-17 21:20:43
 
 （所以技能只是在原本属性调整的基础上加了熟练加值）
-
-
-
 
 Steven: 09-17 21:20:46
 
 在奈瓦拉的带领下，你们深吸一口气，推开了那扇厚重的、由飞船外壳改造而成的圆形大门。
 
-
-
-
 咸鱼之提督: 09-17 21:20:48
-
-
-
 
 咸鱼之提督: 09-17 21:21:11
 
 “芜湖 到站了”
 
-
-
-
 Steven: 09-17 21:21:13
 
 预想中的混乱与肮脏并没有出现。与外面嘈杂的市场相比，酒馆内部出奇地安宁而整洁。空气中弥漫着麦酒的香醇和一种淡淡的、类似臭氧的魔法气息。柔和的光芒从悬浮在空中的、不断变换着颜色的光球上洒下，照亮了由深色木材和黄铜打造的桌椅。
-
-
-
 
 咸鱼之提督: 09-17 21:21:18
 
 “我要好好休息一会了”
 
-
-
-
 咸鱼之提督: 09-17 21:21:22
 
 #正色
 
-
-
-
 Steven: 09-17 21:21:29
-
-
-
 
 Steven: 09-17 21:21:38
 
 酒馆里坐着三三两两的客人，与外面的三教九流截然不同，他们大多显得很专业：
 
-
-
-
 Steven: 09-17 21:21:44
 
 角落里，一位身材魁梧的吉夫军官正独自擦拭着他那把巨大的手枪，面前放着一杯冒着热气的饮料
-
-
-
 
 Steven: 09-17 21:21:49
 
 靠窗的位置，两位穿着星界探险服的人类，正为了一张星图争得面红耳赤
 
-
-
-
 咸鱼之提督: 09-17 21:22:02
 
 #吧唧吧唧
-
-
-
 
 咸鱼之提督: 09-17 21:22:30
 
 “阿奈怎么说 这里熟么”
 
-
-
-
 修林: 09-17 21:23:12
 
 #联络酒客打探情报就交给队友吧！这里的酒保是男性还是女性？负责人在吗？我要发挥艺人的本职申请表演换取住宿餐饮服务！
-
-
-
 
 修林: 09-17 21:24:13
 
 “如同蔷薇种子被鸟儿带往世界各地，扎根于每个角落，相信我，我很快就会熟起来了”
 
-
-
-
 修林: 09-17 21:25:59
 
 （111？）
-
-
-
 
 修林: 09-17 21:26:04
 
 （我网卡了嘛？）
 
-
-
-
 咸鱼之提督: 09-17 21:26:16
 
 （是的你卡了）
 
-
-
-
 修林: 09-17 21:26:24
-
-
-
 
 Steven: 09-17 21:26:24
 
 你们要找的酒保正在吧台后面，也就是这个酒馆的主人
 
-
-
-
 Steven: 09-17 21:26:29
 
 ——大卢安
-
-
-
 
 Steven: 09-17 21:26:38
 
 他那巨大的、直径近十尺的球形身躯在空中缓缓漂浮，皮肤是如同古旧皮革般的棕褐色。
 
-
-
-
 咸鱼之提督: 09-17 21:26:49
 
 （话说其他两个笨蛋呢）
 
-
-
-
 Steven: 09-17 21:26:56他巨大的中央眼瞳正温和地注视着你们这些新客人，甚至还友好地眨了眨。他的十根眼梗则像一群训练有素的仆人，各司其职：一根正用一块洁白的抹布擦拭着玻璃杯，另一根灵巧地操作着酒桶的龙头，还有一根则在翻阅着一本厚重的大部头书籍。
-
-
-
 
 木夕儿: 09-17 21:27:11
 
 “一只巨大的眼魔，我一定是眼花了。”
 
-
-
-
 咸鱼之提督: 09-17 21:27:14
 
 （速速活跃@罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往1/2 @隆金 AC17 HP 46/46 DC12 ）
-
-
-
 
 Steven: 09-17 21:27:19
 
 他没有寻常眼魔那种令人不安的疯狂气息，反而像一位博学而沉稳的学者
 
-
-
-
 修林: 09-17 21:27:25
 
 （眼魔酒馆的老板还真是一个眼魔啊）
-
-
-
 
 木夕儿: 09-17 21:27:27
 
 “不过想想酒吧名字，好像也该是这个形象。”
 
-
-
-
 :D: 09-17 21:27:34
 
 “没毛病嗷”
-
-
-
 
 Steven: 09-17 21:27:34
 
 （你说呢？[斜眼笑]
 
-
-
-
 修林: 09-17 21:27:37
 
 （你们星界真厉害）
-
-
-
 
 Steven: 09-17 21:27:39
 
 （要不然为什么叫快乐眼魔呢？
 
-
-
-
 咸鱼之提督: 09-17 21:27:40
 
 “是眼魔 好吃”
 
-
-
-
 修林: 09-17 21:27:43
-
-
-
 
 Steven: 09-17 21:27:52
 
 （而且这可不是我瞎编的这可是书中原有的最著名的酒馆
 
-
-
-
 Steven: 09-17 21:27:58
 
 当你们走进门时，他那洪亮、带着奇特共鸣的声音在酒馆里响起：
 
-
-
-
 Steven: 09-17 21:28:06
 
 “啊，新面孔！欢迎来到‘快乐眼魔’，旅者们。你们的到来，就像一本我从未读过的新书。快请进吧，找个位置坐下。是想来杯能洗去旅途疲惫的‘星界尘埃’，还是想听听关于这块岩石的最新故事？”
-
-
-
 
 然后这时候可该宗主发话了，对吧？他看到了一个眼膜，居然在邀请别人，这他肯定是不能接受的对吧？
 Steven: 09-17 21:17:31
@@ -9270,9 +6998,6 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 哎，等会儿啊呃呃首先啊咱们也得兼顾其他人的发言啊，不光关注于这一个人，第2个这个地方有点太激烈了，对吧？这个你不太符合思，他，虽然这个人确实愤怒，但是肯一般来说这个宗主角色都以这种冷嘲热讽的这种方式来表达出来的。用幽默的话，虽然他确实很愤怒，就是愤怒的幽默明不知道你没明白我的意思，你这个有点太硬了。第2个，你怎么莫名其妙就转到了这个龙鳞交易了，这是这事，不得循序渐进。文等这也太太硬可了，感觉好像我我非得给你塞一个塞一个这个奖励进去，对吧？你得合理的转过去，对吧？
 
-
-
-
 这股情感风暴是如此猛烈，以至于猎颅可能会感到一阵天旋地 भू转，需要扶住门框才能站稳。
 哎，等会儿啊呃呃首先啊咱们也得兼顾其他人的发言啊，不光关注于这一个人，第2个这个地方有点太激烈了，对吧？这个你不太符合思，他，虽然这个人确实愤怒，但是肯一般来说这个宗主角色都以这种冷嘲热讽的这种方式来表达出来的。用幽默的话，虽然他确实很愤怒，就是愤怒的幽默明不知道你没明白我的意思，你这个有点太硬了。第2个，你怎么莫名其妙就转到了这个龙鳞交易了，这是这事，不得循序渐进。文等这也太太硬可了，感觉好像我我非得给你塞一个塞一个这个奖励进去，对吧？你得合理的转过去，对吧？
 这股情感风暴是如此猛烈，以至于猎颅可能会感到一阵天旋地 भू转，需要扶住门框才能站稳。
@@ -9423,15 +7148,9 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 “冷静瑞丝 冷静 我知道眼魔肮脏的超自然本质 不排除伪装在人群中组建渗透势力的可能，而且我们开着眼魔飞船过来会遭受袭击，而这眼魔能光明正大在这里开店一定有什么原因。”
 
-
-
-
 咸鱼之提督: 09-17 21:38:37
 
 #伴随手掌轻抚骨枪试着安抚一下
-
-
-
 
 咸鱼之提督: 09-17 21:38:50
 
@@ -9439,20 +7158,11 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 好的，那么你们其他人要干什么呢？在猎颅在这边和他的大枪做独特的“情感沟通”的时候
 
-
-
-
 好的好的，我觉得这说不定就是个呃时机，就是发放呃这个龙鳞的这些奖励，呃，然后就是呃得把剧情拉回来呀这个呃，玩家们好像他不不太清楚来酒馆干什么的，他们有点迷茫，对吧？得给他们点儿提示，让他们顺着咱们的剧情线索
 
 # 不稳定药剂
 
-
-
-
 ## **咕叽苹果饮料**
-
-
-
 
 * **类型**: 药水
 
@@ -9464,13 +7174,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **磁石马蹄铁酒**
-
-
-
 
 * **类型**: 药水
 
@@ -9482,13 +7186,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **“荒歌私酿”致命窗口**
-
-
-
 
 * **类型**: 药水
 
@@ -9500,13 +7198,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **尖刺猪皮药**
-
-
-
 
 * **类型**: 药水
 
@@ -9518,13 +7210,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **蜂蜜黄油佳酿**
-
-
-
 
 * **类型**: 药水
 
@@ -9536,13 +7222,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **福灵剂**
-
-
-
 
 * **类型**: 药水
 
@@ -9554,13 +7234,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **荆棘苦艾酊**
-
-
-
 
 * **类型**: 药水
 
@@ -9572,13 +7246,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **“钢骨醇浆”硬化剂**
-
-
-
 
 * **类型**: 药水
 
@@ -9590,13 +7258,7 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **“末日核爆”饮料**
-
-
-
 
 * **类型**: 药水
 
@@ -9608,14 +7270,8 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 
 * *失败*:
 
-
-
-
 ## **“尸潮引流”吸髓剂**
 
-
-
-
 * **类型**: 药水
 
 * **来源**: 罗兰于仓库实验室收集
@@ -9625,15 +7281,9 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 * **效果**: 饮用后一个小时内，
 
 * *失败*:
-
-
-
 
 ## **不稳定药剂（实验品）**
 
-
-
-
 * **类型**: 药水
 
 * **来源**: 罗兰于仓库实验室收集
@@ -9643,15 +7293,9 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 * **效果**: 饮用后一个小时内，
 
 * *失败*:
-
-
-
 
 ## **不稳定药剂（实验品）**
 
-
-
-
 * **类型**: 药水
 
 * **来源**: 罗兰于仓库实验室收集
@@ -9661,47 +7305,26 @@ DM，你说得完全正确。在猎颅的脑海里，一场风暴即将来临。
 * **效果**: 饮用后一个小时内，
 
 * *失败*:
-
-
-
 
 而且我之前创造了很多药水，可以供你参考啊
 
-
-
-
 然后还有就是说这个比如说还有一些比如什么什么什么多元宇宙之力，彩虹药水，对吧？可以他们呃获得一个呃随机的习得，获得一个随机环卫的随机法术。但是这个呃没想出可可行性来，怎么随机出来，对吧？然后呢或者比如说还有比如说饿狼药水，对吧？借鉴神秘博士饿狼之地，那个梗可以让它学习到一种呃随机的这个药品配方什么的，这都可以啊，那这个在意啊然后
-
-
-
 
 Steven: 09-17 22:05:57
 
 好的，那么你们其他人要干什么呢？在猎颅在这边和他的大枪做独特的“情感沟通”的时候
 
-
-
-
 修林: 09-17 22:06:48
 
 我要跟大眼珠子交涉，说服他让我表演换取免费住宿！
-
-
-
 
 :D: 09-17 22:06:48
 
 “老板啊～有啥推荐菜单吗？这位兔子先生给钱”
 
-
-
-
 :D: 09-17 22:07:00
 
 ＃一屁股坐到吧台前
-
-
-
 
 木夕儿: 09-17 22:08:44
 
@@ -9898,46 +7521,25 @@ Steven: 09-17 22:05:57
 
 “嘛，虽然没想到这么快就被发现了，但还是有点令我心神不宁。”
 
-
-
-
 咸鱼之提督: 09-17 22:15:28
 
 （和眼魔飞船有瓜葛（唏嘘））
-
-
-
 
 咸鱼之提督: 09-17 22:15:36
 
 （都是眼魔的陷阱）
 
-
-
-
 木夕儿: 09-17 22:15:50
 
 “首先，对于第一个问题，我想说，这是一个很尴尬的事，因为我们作为冒险者，刚被一个眼魔暗算过。”
-
-
-
 
 木夕儿: 09-17 22:15:58
 
 （这样就是真话了）
 
-
-
-
 “冷静瑞丝 冷静 我知道眼魔肮脏的超自然本质 不排除伪装在人群中组建渗透势力的可能，而且我们开着眼魔飞船过来会遭受袭击，而这眼魔能光明正大在这里开店一定有什么原因。”
 
-
-
-
 哎，对了，不过你也别忘了这边这个哄瑞斯的这根线，好吧？嗯，大概回复一下啊然后呢，重点还是在后续这个这进入引入时机的时候，这个给他发放奖励。好吧，大概回顾一下这事儿就过去现在。然后咱们还是专注于主线剧情进展，毕竟这只是个呃有意思的小插曲毕竟看到大卢安那么慷慨友善，肯定也都有所改观
-
-
-
 
 然后咱们回到其他的这个玩家跟这个大鲁安的交互当中
 :D: 09-17 22:12:00
@@ -10012,36 +7614,21 @@ Steven: 09-17 22:05:57
 
 #在门外眼不见为净安抚瑞丝ing
 
-
-
-
 咸鱼之提督: 09-18 20:22:03
 
 （队友上）
-
-
-
 
 修林: 09-18 20:22:26
 
 “关于这个问题，我有一些小小建议，不知道能不能借用您的智慧帮忙参谋参谋？-----飞船坠落时，我见到“主角”们扬起了一面旗帜，那是一个非常有名的学校，慷慨而强大，如果亮明身份，向公会提出补偿，甚至加上城市卫队背后的那一份。凭借这份筹码，我们能否改变当下的窘境呢？”
 
-
-
-
 :D: 09-18 20:22:41
 
 ＃看着酒从肚子上的洞流出去
 
-
-
-
 修林: 09-18 20:22:50
 
 “换而言之，你认为公会的负责人是一个容易被说服的人吗？”
-
-
-
 
 怎么说？这个注意前瞻啊，对于他们的这些想法怎么样，然骺线在也许就正是时候了，对吧？这个正在安抚中呢，该提出龙鳞交易了，对吧？跟你说的差不多时候了
 咸鱼之提督: 09-18 20:22:00
@@ -10182,358 +7769,205 @@ Steven: 09-17 22:05:57
 
 “手脚短视而狂妄，看不到远方的甘蜜，可以理解，但为何公会的头目也是如此？是有什么渊源吗？”
 
-
-
-
 Steven: 09-18 20:28:01
 
 “你问他的负责人容不容易被说服？不。奥扎马塔就是一头饥饿的星界鲨鱼，他从不与他眼中的食物谈判。你亮出学院的身份，在他看来，不是威胁，而是证明了你们这艘‘残骸’背后有更多的油水可捞。你拉上亲王卫队，在他看来，不过是另一伙想要分一杯羹的、穿着制服的帮派而已。”
-
-
-
 
 Steven: 09-18 20:28:53
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 对于你这个问题，大卢安向你转述了城中权力结构
 
-
-
-
 Steven: 09-18 20:30:19
 
 虽说布瑞尔岩的宗主是安德鲁亲王，但是，布瑞尔言作为一个混乱之地，强龙不压地头蛇真正掌管的是四位影子大亨
-
-
-
 
 Steven: 09-18 20:30:43
 
 四位副领主，每位都相当于一个盗贼公会的头目，在城中相互竞争，争夺更大的权力和收入份额。尽管他们是犯罪领地的领主，但副领主们享有亲王的容忍，至少是因为每位副领主的存在都对其他副领主形成了一种制衡。
 
-
-
-
 Steven: 09-18 20:30:58
 
 现任四位次领主如下：
-
-
-
 
 Steven: 09-18 20:31:11
 
 奥萨马塔。这位守序邪恶的人类控制着码头和大部分低城。
 
-
-
-
 Steven: 09-18 20:31:21
 
 梅雷丁·桑迪脚。这位中立善良的半身人，总部设在被称为"洞穴区"的社区，掌控着手工艺人。
-
-
-
 
 木夕儿: 09-18 20:31:39
 
 （就是说学院管不到这个地方，在这个地方没影响力）
 
-
-
-
 Steven: 09-18 20:31:51
 
 小丑。杂耍者组织的统领，没人知道他真正的名字是谁，潜藏在一堆表演者中
-
-
-
 
 Steven: 09-18 20:32:04
 
 不可知者。在《布拉克之岩》的巨大内部，住着一位神秘的次级领主，他专精于走私
 
-
-
-
 Steven: 09-18 20:32:15
 
 没人知道他是谁，他在干什么，甚至不知道他到底是控制的什么
-
-
-
 
 Steven: 09-18 20:32:32
 
 @隆金 AC17 HP 46/46 DC12 （也不能这么说，理论上来说，学院是呃，皇家派系的一员
 
-
-
-
 Steven: 09-18 20:33:58
 
 （本身学院的资金就主要是由安德鲁亲王投资的
-
-
-
 
 Steven: 09-18 20:34:15
 
 （可以说，学院是皇家的产业。这也就是为什么之前学院发生盗窃案这个院长特别焦虑的原因，因为亲王对此特别不满
 
-
-
-
 木夕儿: 09-18 20:34:23
 
 “名号听着很吓人，不知道他们本人是不是像他们自己吹的那样厉害。”隆金冷哼道
-
-
-
 
 Steven: 09-18 20:35:16
 
 “新来者总是这么想...但是我劝你们一句,你们不能说服一场风暴。你们得有足够坚固的锚能顶住它”
 
-
-
-
 修林: 09-18 20:36:54
 
 “原来如此，看来只有拳头能教会他乖乖坐下来听人讲话”
-
-
-
 
 Steven: 09-18 20:37:07
 
 说起来，你们是不是忘了什么东西？
 
-
-
-
 咸鱼之提督: 09-18 20:37:29
 
 （教会他爱的是至圣斩）
-
-
-
 
 木夕儿: 09-18 20:38:08
 
 （什么，我遗忘什么了吗）
 
-
-
-
 Steven: 09-18 20:39:05
 
 其实是新人类，他可能忘了点什么线索
-
-
-
 
 Steven: 09-18 20:39:15
 
 那么你们先想想啊，咱们先把镜头转移到在店门外头的猎颅
 
-
-
-
 :D: 09-18 20:39:20
 
 （高达的自爆密码吗）
-
-
-
 
 Steven: 09-18 20:39:33
 
 猎颅，当你站在门外，试图用言语和轻抚来平息“古灵精怪枪”中传来的那股冰冷的憎恨时，斯札瑞絲的声音在你脑中响起。她的语气不再是之前那种带着嘲弄的愤怒，而是变得异常冷静，这种冷静之下，是如同深渊般不可动摇的决意。
 
-
-
-
 Steven: 09-18 20:40:36
 
 “你的安抚……很可爱，我的小工匠。就像在对一场即将来临的超新星爆发轻声说‘嘘’。你以为我愤怒，是因为看到了一个同类？不。我愤怒，是因为我看到了一个谎言。”
-
-
-
 
 Steven: 09-18 20:40:42
 
 “它用文明和礼貌将自己包裹起来，这本身就是对我们之间那场血腥背叛的最高级嘲弄。它在告诉你我，‘看，我们也可以是好人’，而这比任何刀剑都更伤人。”
 
-
-
-
 Steven: 09-18 20:41:04
 
 ”不过。。。。“
-
-
-
 
 Steven: 09-18 20:41:10
 
 她停顿了一下，似乎在构思一个危险的计划。
 
-
-
-
 木夕儿: 09-18 20:41:11
 
 （懂了，这眼魔已经向其他人通报消息了）
-
-
-
 
 Steven: 09-18 20:41:34
 
 （那倒是可能有点想多了，快乐演魔是真的很快乐[汪汪]
 
-
-
-
 木夕儿: 09-18 20:42:12
 
 （坏了，这眼魔不会就是小丑吧）
-
-
-
 
 Steven: 09-18 20:42:36
 
 ”小东西，你给了我一个灵感。你说的对，你们现在打不过。硬闯奥扎马塔的船坞是自杀。“
 
-
-
-
 咸鱼之提督: 09-18 20:42:51
 
 #抱胸点了点头
-
-
-
 
 咸鱼之提督: 09-18 20:43:18
 
 “现在还没在这块地站稳脚跟的”
 
-
-
-
 Steven: 09-18 20:43:33
 
 ”我当前这个状态....也给予不了什么力量..不过也许我们可以借用契约之力的力量"
-
-
-
 
 咸鱼之提督: 09-18 20:43:42
 
 “也不是过江龙最多只是落河雨”
 
-
-
-
 咸鱼之提督: 09-18 20:43:45
 
 #吧唧吧唧
-
-
-
 
 咸鱼之提督: 09-18 20:43:58
 
 “能有什么办法么”
 
-
-
-
 Steven: 09-18 20:44:23
 
 "我记得一些关于灵能炼金术的知识……你可以和我缔造更深刻的契约，向我献祭一些东西"
-
-
-
 
 Steven: 09-18 20:44:39
 
 "我能将我的灵魂的纯粹的情感固化成一种不稳定的物质形态。一种……能暂时赋予你部分吾辈力量的药剂。”
 
-
-
-
 咸鱼之提督: 09-18 20:45:16
 
 “如此如此”
-
-
-
 
 修林: 09-18 20:45:28
 
 “拉拢一方势力？或者去“借用”一件强大宝物？针对他们的特性训练？或者尝试说服对方的手下倒戈？”#头脑风暴着自言自语
 
-
-
-
 咸鱼之提督: 09-18 20:45:36
 
 “那么与之对应的需要准备什么么”
-
-
-
 
 Steven: 09-18 20:45:59
 
 猎颅，你每次长修结束后，可以向斯扎瑞斯缔结更深刻的契约，献祭你的灵魂和肉体，换取暂时的力量
 
-
-
-
 咸鱼之提督: 09-18 20:46:56
 
 （#莫名的既视感）
-
-
-
 
 咸鱼之提督: 09-18 20:47:07
 
 （龙之谷：破晓奇兵）
 
-
-
-
 木夕儿: 09-18 20:47:23
 
 （泪目了）
-
-
-
 
 木夕儿: 09-18 20:47:35
 
 （莉雅也算是童年女神之一）
 
-
-
-
 咸鱼之提督: 09-18 20:48:12
 
 “这种程度的代价么…好 加深我们之间的沟通 更快地走出路来”
 
-
-
-
 Steven: 09-18 20:49:44
 
 那么你当前获得了三种契约选项
-
-
-
 
 Steven: 09-18 20:53:45
 
@@ -10541,31 +7975,19 @@ Steven: 09-18 20:53:45
 
 诅咒：你当天第一次鉴定或者豁免失败时会陷入一分钟的睡眠
 
-
-
-
 Steven: 09-18 20:57:11
 
 恶狼之力：斯札瑞絲的古代龙族玲珑之力将你和多元宇宙的bad wolf之力相链接，你暂时学会一个随机的你从未见过的炼金配方或奇械师注法
 
 诅咒：知识是有毒的。这份不属于你的知识会在你脑中产生“排异反应”。在接下来24小时内，你的智力减四
 
-
-
-
 咸鱼之提督: 09-18 20:57:58
 
 （#看）
 
-
-
-
 咸鱼之提督: 09-18 20:58:18
 
 （失忆并睡觉 代价我看到了 奖励呢（不是）
-
-
-
 
 Steven: 09-18 20:59:34
 
@@ -10573,148 +7995,85 @@ Steven: 09-18 20:59:34
 
 诅咒：当你当天大失败的时候，将会有一个随机的梦魇之物出现在你的身边5尺
 
-
-
-
 Steven: 09-18 21:00:00
 
 （难道奖励不就是忘记一种药剂配方吗？
-
-
-
 
 咸鱼之提督: 09-18 21:00:19
 
 （呱 虽然大部分配方确实没啥用就是）
 
-
-
-
 咸鱼之提督: 09-18 21:00:26
 
 [法术]
-
-
-
 
 Steven: 09-18 21:00:33
 
 （@奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 这么久过去了，话说你想起来了没有？
 
-
-
-
 Steven: 09-18 21:00:46
 
 @猎颅 ac18 hp31/31 dc14 （所以说嘛就是原版的配方没啥用，所以可以忘记一个，但是我给你的药剂可都是很强力的
-
-
-
 
 Steven: 09-18 21:01:03
 
 （原本是打算这个等级就给你发4个的，但是你那4个从实验室抢来的药气瓶子你都没研究过，所以一直就发不出来，要不然还是很有意思的
 
-
-
-
 修林: 09-18 21:01:08
 
 （我忘了什么？）
-
-
-
 
 咸鱼之提督: 09-18 21:01:11
 
 “这般”
 
-
-
-
 Steven: 09-18 21:01:20
 
 （你昨天的时候不是拿到了一个杂耍者的纸条吗？
-
-
-
 
 咸鱼之提督: 09-18 21:01:23
 
 （没空研究#真没空.JPG）
 
-
-
-
 咸鱼之提督: 09-18 21:01:33
 
 （有空就去研究了）
-
-
-
 
 咸鱼之提督: 09-18 21:01:37
 
 [大失败]
 
-
-
-
 修林: 09-18 21:01:44
 
 （对哦！）
-
-
-
 
 咸鱼之提督: 09-18 21:01:52
 
 （还忙着修东西还没空鉴定药剂）
 
-
-
-
 修林: 09-18 21:01:57
 
 #后知后觉地拿出之前被塞到的纸条
-
-
-
 
 Steven: 09-18 21:02:07
 
 （你们现在时间很充足啊，只要你们不推荐剧情，找个地方就能够修东西，鉴定药剂了
 
-
-
-
 咸鱼之提督: 09-18 21:02:14
 
 （说的道理）
-
-
-
 
 咸鱼之提督: 09-18 21:02:21
 
 （找个旅馆休息一会我要开始忙碌了）
 
-
-
-
 Steven: 09-18 21:02:24
 
 （我觉得休息时间很多吧，你们有短休的时候，而且还有当时你们决定开到这个布拉岩星球的，之前还有几个小时的航行时间呢，只是你们都没动作
 
-
-
-
 Steven: 09-18 21:02:37
 
 （那你们可以坐在酒馆睡一下，酒馆肯定是有地方睡的
-
-
-
 
 咸鱼之提督: 09-18 21:03:07
 
@@ -10722,31 +8081,19 @@ Steven: 09-18 21:02:37
 
 所以你要选择什么来出卖自己的灵魂和肉体呢[汪汪]
 
-
-
-
 咸鱼之提督: 09-18 21:04:00
 
 [聆听]
 
-
-
-
 Steven: 09-18 21:04:01
 
 龙灵py交易不限制选择的总数，只是每天长修后才能更改
-
-
-
 
 咸鱼之提督: 09-18 21:04:41
 
 #先去看看傲游心海吧咸鱼之提督: 09-18 21:05:00
 
 “那么灵魂和肉体上的交互是？”
-
-
-
 
 咸鱼之提督: 09-18 21:05:07
 
@@ -11002,22 +8349,13 @@ Steven: 09-18 21:04:01
 
 #先去看看傲游心海吧
 
-
-
-
 咸鱼之提督: 09-18 21:05:00
 
 “那么灵魂和肉体上的交互是？”
 
-
-
-
 咸鱼之提督: 09-18 21:05:07
 
 “需要找个安静的场所么”
-
-
-
 
 Steven: 09-18 21:06:51
 
@@ -11026,9 +8364,6 @@ Steven: 09-18 21:06:51
 呃，值得注意的是啊我的这边这个个灵能不打算用官方灵能，打算用这个 ua 的的秘术师的灵能
 
 秘术师职业表
-
-
-
 
 职业等级
 
@@ -11104,12 +8439,6 @@ Steven: 09-18 21:06:51
 
 +3
 
-
-
-
-
-
-
 2
 
 3
@@ -11136,12 +8465,6 @@ Steven: 09-18 21:06:51
 
 +3
 
-
-
-
-
-
-
 2
 
 4
@@ -11167,12 +8490,6 @@ Steven: 09-18 21:06:51
 9级
 
 +4
-
-
-
-
-
-
 
 2
 
@@ -11298,12 +8615,6 @@ Steven: 09-18 21:06:51
 
 +6
 
-
-
-
-
-
-
 4
 
 8
@@ -11374,9 +8685,6 @@ Talents
 
 在你完成一次长休后，你的灵力点总是会恢复到的数量上限。你拥有的灵力点数量无法低于0或高于你的灵力点数量上限。
 
-
-
-
 灵力限制Psi
 
 Limit
@@ -11387,9 +8695,6 @@ Limit
 
 例如，作为一个3级秘术师，每当你使用一个灵术时，你都无法在其上花费多于3点的灵力点，无论你一共具有多少灵力点。
 
-
-
-
 心灵集中Psychic Focus
 
 你可以在将你的心灵能量集中到你的一个灵术上，以从中获取持续性的增益效应。
@@ -11397,9 +8702,6 @@ Limit
 以一个附赠动作，你可以选择一个你的灵术并得到其心灵集中增益，这详述于对应灵术的描述中。该增益持续到你陷入失能状态或使用另一个附赠动作来选择一个不同灵能集中增益为止。
 
 你在同一时间仅能拥有一个心灵集中增益，且在一个灵术上使用心灵集中并不会限制你使用其他灵术的能力选项。
-
-
-
 
 灵能属性Pisonic
 
@@ -11472,9 +8774,6 @@ Improvement
 你免疫于任何疾病、毒素伤害，和中毒状态。
 
 当你死亡时，骰一颗d20。当出现了10或更高的结果时，你会以0点生命值的状态解体，而非濒死。但你将失去意识，并且你和你的装备会消失。你在你死去的存在位面中由你选择的任意位置上，在1d3天后再次出现，并视为已得到了一次长休的好处。
-
-
-
 
 哎，对了对了，这个那个兔子问了，看看米肯他们在干啥？他真的咱把这事儿给忘了。米肯他是个可疑人员，这个得单独考虑。那剩下3个咱们的厨师长啊，还有还有那那两个学员，他们干啥去的，他们得跟着他们走吧，都把他们饭忘了吧。他们他们好像消失了，那么明咱们得再咱补一补，想想他到底到底怎么圆乎他这事儿
 呃，那猎奴这边呢，那么猎奴灵魂交易，他现在要开始交易了呃，怎么说？咸鱼之提督: 09-18 21:04:41
@@ -11778,9 +9077,6 @@ Improvement
 
 “长休！长休！”
 
-
-
-
 木夕儿: 09-18 21:11:06
 
 “你以眼魔的身份说这句话让我觉得有点尴尬😅”隆金对着这只眼魔嘟囔道
@@ -11859,22 +9155,13 @@ DM专属模块：“长休期间的暗流”
 
 “嘶……呼……”#深呼吸
 
-
-
-
 咸鱼之提督: 09-18 21:15:51
 
 “这就是新的配方？”#脑海回顾着
 
-
-
-
 咸鱼之提督: 09-18 21:16:03
 
 #不忘留意下米肯他们
-
-
-
 
 Steven: 09-18 21:17:30
 
@@ -11888,303 +9175,171 @@ Steven: 09-18 21:17:30
 
 效果: 饮用后一个小时内，你获得 6点灵力点，你使用灵术的灵力限制为3，你习得一个由你选择的灵术（来自 ua 秘术师）
 
-
-
-
 咸鱼之提督: 09-18 21:17:50
 
 （哇哦秘术师傅）
-
-
-
 
 Steven: 09-18 21:17:52
 
 @猎颅 ac18 hp31/31 dc14 你转头一看，发现他们居然都不见了！
 
-
-
-
 咸鱼之提督: 09-18 21:18:00
 
 （我超）
-
-
-
 
 咸鱼之提督: 09-18 21:18:04
 
 #左右看看人呢
 
-
-
-
 咸鱼之提督: 09-18 21:18:12
 
 “人呢 咋不见了”
-
-
-
 
 Steven: 09-18 21:18:14
 
 想必是刚才在一片混乱的刺激市场中被冲散了
 
-
-
-
 咸鱼之提督: 09-18 21:18:35
 
 “啧啧 总会汇合的”#嘘
-
-
-
 
 :D: 09-18 21:19:22
 
 “前提是我们不会在奴隶市场看见他们”
 
-
-
-
 Steven: 09-18 21:19:23
 
 @隆金 AC17 HP 46/46 DC12 “呵呵，”他发出一阵低沉的、如同风吹过巨大洞窟般的笑声，
-
-
-
 
 咸鱼之提督: 09-18 21:19:32
 
 “那我们再进去了 我先去找他们聊聊之后打算”#摸了摸骨枪 打算再进酒馆喊喊队友
 
-
-
-
 Steven: 09-18 21:19:35
 
 “请相信我，在这块岩石上，没有谁比我更清楚我的同类能造成多大的痛苦和毁灭。也正因如此，我选择了一条不同的道路。”他的声音变得柔和，“我的选择是收集故事，而非收集奴隶；是酿造美酒，而非酿造灾难。在这里，你们看到的一切，就是我的答案。”
-
-
-
 
 Steven: 09-18 21:19:45
 
 他的一根眼梗指向楼上，结束了这个话题。
 
-
-
-
 Steven: 09-18 21:20:01
 
 “现在，去吧。你们需要休息。“
-
-
-
 
 木夕儿: 09-18 21:20:10
 
 隆金耸耸肩，对这个回答不置可否
 
-
-
-
 Steven: 09-18 21:20:15
 
 他目送着你们，而他其余的眼梗已经恢复了工作，仿佛刚才那段充满哲理的对话从未发生过。
-
-
-
 
 咸鱼之提督: 09-18 21:20:29
 
 “怎么说呢 你们聊到了什么”
 
-
-
-
 咸鱼之提督: 09-18 21:20:41
 
 #过去找队友们沟通一下情报
-
-
-
 
 木夕儿: 09-18 21:20:52
 
 “和眼魔聊了一些眼魔。”隆金拍拍猎颅的肩膀
 
-
-
-
 咸鱼之提督: 09-18 21:20:56
-
-
-
 
 :D: 09-18 21:21:05
 
 “还有一个休息的地方”
 
-
-
-
 咸鱼之提督: 09-18 21:21:08
 
 “就跟刚刚说了一些话一样”
-
-
-
 
 修林: 09-18 21:21:18
 
 “您的慷慨令人动容”#弯腰示意感谢后，拉上或是喝酒或是发愣的主角们，去楼上找个安静的房间观看纸条
 
-
-
-
 Steven: 09-18 21:21:18
 
 @隆金 AC17 HP 46/46 DC12 （听着实在让人难崩[汪汪]
-
-
-
 
 咸鱼之提督: 09-18 21:21:29
 
 “休息的地方 这么？”
 
-
-
-
 咸鱼之提督: 09-18 21:21:43
 
 #下意识看了看怀里的骨枪位置
-
-
-
 
 Steven: 09-18 21:21:52
 
 那么你们带着肚子还露着酒液的罗兰和其他人一起上到了二楼
 
-
-
-
 Steven: 09-18 21:21:57
 
 你们走上二楼，发现了几间干净、舒适的客房，床铺柔软，窗户被厚重的帘子遮蔽，隔绝了外面的一切喧嚣。
 
-
-
-
 咸鱼之提督: 09-18 21:21:58
-
-
-
 
 Steven: 09-18 21:22:01
 
 你们终于有了一个可以进行长休的安全之所。
 
-
-
-
 咸鱼之提督: 09-18 21:22:09
 
 “话说罗兰你肚子破了个洞没问题吧”
-
-
-
 
 咸鱼之提督: 09-18 21:22:33
 
 #从次元袋把自动侏儒和动力爪掏出来维修 之后研究药剂
 
-
-
-
 咸鱼之提督: 09-18 21:22:47
 
 #忙碌的猎颅
-
-
-
 
 :D: 09-18 21:22:51
 
 “大概？冥想一顿后就好了？”
 
-
-
-
 木夕儿: 09-18 21:22:56
 
 “是的，休息的地方，那个眼魔给我们的『投资』～”隆金学着大卢安，罕见的用温柔的声音说出那两个字
-
-
-
 
 咸鱼之提督: 09-18 21:23:01
 
 #再去制造蓝图装备
 
-
-
-
 Steven: 09-18 21:23:27
-
-
-
 
 咸鱼之提督: 09-18 21:23:32
 
 #开火开炉带着工具制作
 
-
-
-
 Steven: 09-18 21:23:37
 
 （罗兰让我想起了这个[汪汪]
-
-
-
 
 咸鱼之提督: 09-18 21:23:46
 
 “懂了 杀人诛心”
 
-
-
-
 木夕儿: 09-18 21:23:47
 
 “好了，不开玩笑了，比起这个，我更想和我们新认识的女士探讨一下语言的美。”
-
-
-
 
 咸鱼之提督: 09-18 21:23:54
 
 “你们先聊哈”
 
-
-
-
 咸鱼之提督: 09-18 21:24:01
 
 #专心在一边忙碌自己的事情
 
-
-
-
 修林: 09-18 21:24:42
 
 “不管你要说什么，我想你应该先看看这个:还记得那个四巨头之一的“小丑”吗？”
-
-
-
 
 修林: 09-18 21:24:53
 
@@ -12345,15 +9500,9 @@ Steven: 09-18 21:28:12
 
 “灯光秀不错。有胆识的人在这块石头上活得长。如果想找真正的朋友，而不是工会暴徒或亲王走狗，就来‘星光舞台’。找琪莉娅。阅后即焚。”
 
-
-
-
 Steven: 09-18 21:29:11
 
 你们正看着突然一团火焰从你手中冒出，把奈瓦拉的眉毛都烧到一块，你们不得不感叹果然阅后即焚
-
-
-
 
 #从次元袋把自动侏儒和动力爪掏出来维修 之后研究药剂然后啊就是有关于这个兔子的这个安排啊，你得想想就是怎么安排它的鉴定和描述，对吧？它的上次送珠昨天要给它修好了，对吧？第2个动力爪之前就是我给他发的一个呃魔魔法物品，用蓝图造出来的，它损坏了，对吧？想想怎么怎么用什么啊，有什么需求给他修给他修好，对吧？消耗一些资源对吧？我们一般资源就分呃金属呃零件不对，应该叫所谓的机械零件，就是粗糙的金属零件，对吧？然后还有精密部件，像什么轴承之类的东西，然后还有就是运算芯片，对吧？然后还有就是奥数呃奥数运算芯片，还有就是什么什么这个什么液压液液压的，呃，还有什么这个这个呃呃这个什么呃四伏、四伏、奥数马达对吧？这这些几个几个小的，还是这些组件以磅重量作为单位的。你想想啊，怎么安排这个呃呃兔子，大家是比比如他首先是修这两个东西，那第2个他得去研究药剂。因为之前他们捡到的四种神秘药剂，这个是我也是给他发的这个药呃，药品的这个配方，但是他还没研究，所以这事就这这这事就没就没进行不下去，所以今天这不正好进行了嘛，嗯，对吧？一会我再发给你具体的内容
 
@@ -12361,167 +9510,95 @@ Steven: 09-18 21:28:12
 
 “灯光秀不错。有胆识的人在这块石头上活得长。如果想找真正的朋友，而不是工会暴徒或亲王走狗，就来‘星光舞台’。找琪莉娅。阅后即焚。”
 
-
-
-
 Steven: 09-18 21:29:11
 
 你们正看着突然一团火焰从你手中冒出，把奈瓦拉的眉毛都烧到一块，你们不得不感叹果然阅后即焚
-
-
-
 
 :D: 09-18 21:29:23
 
 “哇，真的好黑暗啊”
 
-
-
-
 Steven: 09-18 21:30:37
 
 （理论上来说，布瑞尔盐其实就是个小德拉肯海姆里头有很多的派系[汪汪]
-
-
-
 
 Steven: 09-18 21:30:39
 
 [哦]
 
-
-
-
 木夕儿: 09-18 21:30:41
 
 “星光舞台，什么地方？本地人知道吗？”
-
-
-
 
 Steven: 09-18 21:31:00
 
 奈瓦拉，你想起来那是中城区的一个小剧院
 
-
-
-
 修林: 09-18 21:34:52
 
 “那是中城区的一个剧院，拉拢一方攻打另一方，真是瞌睡来了送枕头”
-
-
-
 
 修林: 09-18 21:35:09
 
 “好好休息，然后我们就去与小丑的人接头吧”
 
-
-
-
 木夕儿: 09-18 21:35:35
 
 “被一方拿来当枪使也说不定。”
-
-
-
 
 修林: 09-18 21:37:15
 
 “作为枪，只要够把柄够黏手，也能从双方身上撕下一块肉来”
 
-
-
-
 Steven: 09-18 21:37:35
 
 （乐死，这什么比喻？[汪汪]
-
-
-
 
 木夕儿: 09-18 21:37:54
 
 “喔，原来是这个枪，我还以为是那个枪。”隆金下意识望向猎颅
 
-
-
-
 :D: 09-18 21:38:01
 
 “哪个枪？”
-
-
-
 
 Steven: 09-18 21:38:12
 
 （开始了开始了[汪汪]
 
-
-
-
 木夕儿: 09-18 21:38:45
 
 （就是lance和gun的区别啦）
-
-
-
 
 咸鱼之提督: 09-18 21:38:46
 
 #拿着电焊 大刀拼接材料的人 不忘给自己做个护眼玻璃眼罩
 
-
-
-
 咸鱼之提督: 09-18 21:39:03
 
 #大工程ing
-
-
-
 
 咸鱼之提督: 09-18 21:39:43
 
 #一边瓶瓶罐罐冒着神秘的气泡 一边在热火朝天的加工金属
 
-
-
-
 咸鱼之提督: 09-18 21:39:49
-
-
-
 
 咸鱼之提督: 09-18 21:40:04
 
 “啥子 在喊我？”
 
-
-
-
 木夕儿: 09-18 21:40:50
 
 “没有，你继续忙吧，尽量小声点，我们要准备休息了。”
-
-
-
 
 咸鱼之提督: 09-18 21:41:09
 
 “⭐️”
 
-
-
-
 木夕儿: 09-18 21:45:14
 
 （那么长休！）
-
-
-
 
 :D: 09-18 21:45:27
 
@@ -12722,9 +9799,6 @@ Steven: 09-18 21:38:12
 
 ## **动力背架（蓝图）**
 
-
-
-
 * **类型**: 蓝图（未制作）
 
 * **来源**: 仓库工作台
@@ -12733,62 +9807,35 @@ Steven: 09-18 21:38:12
 
 * **效果**: 制作需3磅金属零件、2磅精细零件，1磅奥数运算零件，消耗1个液压罐，一个伺服电机
 
-
-
-
 咸鱼之提督: 09-18 22:01:31
 
 #造蓝图
-
-
-
 
 咸鱼之提督: 09-18 22:01:40
 
 #抄起蓝图就是一顿造
 
-
-
-
 咸鱼之提督: 09-18 22:01:50
 
 #开始研究那个装甲一样的玩意
-
-
-
 
 Steven: 09-18 22:05:13
 
 （你不维修了？
 
-
-
-
 咸鱼之提督: 09-18 22:05:28
 
 （修啊）
 
-
-
-
 咸鱼之提督: 09-18 22:05:31
-
-
-
 
 咸鱼之提督: 09-18 22:05:50
 
 （还要维修自动侏儒和动力爪呢）
 
-
-
-
 咸鱼之提督: 09-18 22:05:58
 
 #给自动侏儒也给修起来先
-
-
-
 
 那么看来他想要先造这个蓝图，然后呢，有关于自动侏炉的维修，你还得给出一个合理的方法。因为自动侏炉是一个重是一个 nnpc，而且等于额外加了一元。这个这额外加了一个宠物，这个提升还是很巨大的。所以咱要谨慎对待，就是他怎么给出一个合理的这个维修方案
 ## **动力背架（蓝图）**
@@ -12895,345 +9942,195 @@ Steven: 09-18 22:05:13
 
 （#看）
 
-
-
-
 Steven: 09-18 22:11:29
 
 说不定你这就是造成其他玩家做噩梦原因[汪汪]
-
-
-
 
 咸鱼之提督: 09-18 22:11:35
 
 #开造！
 
-
-
-
 咸鱼之提督: 09-18 22:11:40
 
 （#嘘）
-
-
-
 
 咸鱼之提督: 09-18 22:11:48
 
 （他们自己睡不熟）
 
-
-
-
 咸鱼之提督: 09-18 22:11:50
 
 （不能怪我）
-
-
-
 
 Steven: 09-18 22:12:04
 
 那么粗糙的钢板正在等待着烈火与力量的试炼。你需要成功通过一次力量鉴定，为他塑形
 
-
-
-
 咸鱼之提督: 09-18 22:12:14
 
 （我超 力量鉴定）
-
-
-
 
 咸鱼之提督: 09-18 22:12:24
 
 #抄起撬棍
 
-
-
-
 Steven: 09-18 22:12:25
 
 不过你可以用工具呀，这是一次工具鉴定
-
-
-
 
 Steven: 09-18 22:12:40
 
 一般来说，在制造蓝图的期间里，都是工具鉴定
 
-
-
-
 咸鱼之提督: 09-18 22:12:59
 
 #深呼吸
-
-
-
 
 咸鱼之提督: 09-18 22:13:19
 
 （撬棍Crowbar。在适当的地方使用撬棍时，可以让相应的力量检定具有优势。）
 
-
-
-
 咸鱼之提督: 09-18 22:13:23
 
 （可以用不#嘘）
-
-
-
 
 Steven: 09-18 22:13:37
 
 可以
 
-
-
-
 咸鱼之提督: 09-18 22:13:54
 
 #用撬棍辅助工具来弥补自己贫弱的力量
-
-
-
 
 Steven: 09-18 22:14:01
 
 如果你用跳棍的话，那么方圆十里的人都能听见这里沉重的响声
 
-
-
-
 咸鱼之提督: 09-18 22:14:06
-
-
-
 
 咸鱼之提督: 09-18 22:14:10
 
 （这么响）
 
-
-
-
 咸鱼之提督: 09-18 22:14:32
 
 （方圆十里么 以后可以拿去当武器了）
-
-
-
 
 咸鱼之提督: 09-18 22:14:53
 
 #那用工具朴实塑形着
 
-
-
-
 咸鱼之提督: 09-18 22:15:08
 
 .rd-1+2+d4
-
-
-
 
 阿芙娜: 09-18 22:15:11
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d-1+2+d4=5[D20]-1+2+3[d4]=9
 
-
-
-
 咸鱼之提督: 09-18 22:15:16
 
 （#唏嘘）
-
-
-
 
 咸鱼之提督: 09-18 22:15:44
 
 #看看还有没有补救的机会改造改造
 
-
-
-
 Steven: 09-18 22:15:50
 
 那么你不用撬棍？
-
-
-
 
 咸鱼之提督: 09-18 22:16:01
 
 （太响了就不用了）
 
-
-
-
 Steven: 09-18 22:16:48
 
 那么你的力量看起来确实不行。经过你的一番塑形，这个装甲看起来呃。。。
-
-
-
 
 Steven: 09-18 22:17:17
 
 看起来是挺”合身“的，如果同时有10只兔子驾驶他的话
 
-
-
-
 咸鱼之提督: 09-18 22:17:31
 
 #事已至此 重新塑形吧
 
-
-
-
 咸鱼之提督: 09-18 22:17:34
-
-
-
 
 Steven: 09-18 22:17:52
 
 按照之前的惯例可以有一次补救的机会
 
-
-
-
 Steven: 09-18 22:17:58
 
 不过以后可能就没有了
-
-
-
 
 咸鱼之提督: 09-18 22:18:24
 
 .rd-1+2+d4
 
-
-
-
 阿芙娜: 09-18 22:18:26
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d-1+2+d4=1[D20]-1+2+2[d4]=4
-
-
-
 
 咸鱼之提督: 09-18 22:18:31
 
 （唏嘘）
 
-
-
-
 Steven: 09-18 22:18:34
 
 绷
-
-
-
 
 咸鱼之提督: 09-18 22:18:36
 
 （材料报废了）
 
-
-
-
 Steven: 09-18 22:18:57
 
 那么这批材料看起来是彻底被你遭废了
-
-
-
 
 咸鱼之提督: 09-18 22:19:08
 
 “哈人”
 
-
-
-
 咸鱼之提督: 09-18 22:19:16
 
 #掏出一份新的材料准备开造
-
-
-
 
 咸鱼之提督: 09-18 22:19:25
 
 （咿 不对）
 
-
-
-
 Steven: 09-18 22:19:28
 
 你的装甲看起来仿佛已经经历了艾伯伦大战的英雄
-
-
-
 
 咸鱼之提督: 09-18 22:19:29
 
 （好像没电机了）
 
-
-
-
 咸鱼之提督: 09-18 22:19:32
 
 （#看电机）
-
-
-
 
 Steven: 09-18 22:19:45
 
 那么确实是没有了
 
-
-
-
 咸鱼之提督: 09-18 22:20:11
 
 #将就着继续做下去吧看看会做出什么
-
-
-
 
 Steven: 09-18 22:20:22
 
 那么一个小时过去了，除了一堆废铁，你什么也没有产生
 
-
-
-
 咸鱼之提督: 09-18 22:20:34
 
 #如果没办法的话就转头去维修自动侏儒和动力爪了
 
-
-
-
 咸鱼之提督: 09-18 22:20:36
-
-
-
 
 Steven: 09-18 22:20:42
 
@@ -13415,167 +10312,95 @@ Steven: 09-18 22:22:52
 
 “嗯……” 斯札瑞絲的声音在你脑中响起，她似乎在很努力地寻找一个合适的词，“……这真是一场精彩的……‘解构主义’表演。你成功地将宝贵的魔法部件，变成了一件名为《被碾碎的野心》的后现代艺术品。真是……前卫。”
 
-
-
-
 咸鱼之提督: 09-18 22:23:04
 
 “呜哇 我尽力了啊”
-
-
-
 
 咸鱼之提督: 09-18 22:23:06
 
 #叹气
 
-
-
-
 咸鱼之提督: 09-18 22:23:21
 
 “要是每次都顺利就好了”
-
-
-
 
 咸鱼之提督: 09-18 22:24:13
 
 （说起来还有研究宗主环节）
 
-
-
-
 咸鱼之提督: 09-18 22:24:16
 
 （之前都没空）
-
-
-
 
 咸鱼之提督: 09-18 22:24:19
 
 （之后安排下）
 
-
-
-
 咸鱼之提督: 09-18 22:24:28
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\51b18fc8bb35f5ca5a2f89fadc9c4e3c.png" />
-
-
-
 
 Steven: 09-18 22:24:30
 
 那么你目前要做什么呢？是维修“动力爪”“维兹波普”还是研究药剂
 
-
-
-
 Steven: 09-18 22:24:41
 
 @猎颅 ac18 hp31/31 dc14 （你每次升级不就是一次研究吗？
-
-
-
 
 咸鱼之提督: 09-18 22:24:41
 
 #研究药剂
 
-
-
-
 Steven: 09-18 22:24:47
 
 （还是说你还想干什么？[汪汪]
-
-
-
 
 咸鱼之提督: 09-18 22:25:03
 
 （什么 原来不是拆卸研究部件重装么）
 
-
-
-
 Steven: 09-18 22:25:30
 
 那个罗兰之前从仓库药品墙上搜过来的四瓶银白色，墨绿色，无色，黑金色的安瓿正躺在那里，静静的看着你
-
-
-
 
 咸鱼之提督: 09-18 22:25:42
 
 #品鉴品鉴药剂
 
-
-
-
 Steven: 09-18 22:25:44
 
 @猎颅 ac18 hp31/31 dc14 （额额你不是不行[汪汪]
-
-
-
 
 Steven: 09-18 22:25:52
 
 （不过。。。[汪汪]
 
-
-
-
 咸鱼之提督: 09-18 22:26:00
 
 #动用自己炼金的知识研究起来药剂
-
-
-
 
 Steven: 09-18 22:26:06
 
 要研究哪一个呢？
 
-
-
-
 咸鱼之提督: 09-18 22:26:20
 
 #依次研究
-
-
-
 
 Steven: 09-18 22:26:32
 
 你可以花费一个小时对一瓶药剂进行一次炼金工具的智力奥秘鉴定
 
-
-
-
 Steven: 09-18 22:27:30
 
 所以先是哪一个呢？
-
-
-
 
 咸鱼之提督: 09-18 22:28:25
 
 #银白色
 
-
-
-
 ## **荆棘苦艾酊**
-
-
-
 
 * **类型**: 药水
 
@@ -13587,13 +10412,7 @@ Steven: 09-18 22:27:30
 
 * *失败*:
 
-
-
-
 ## **“遨游心海”灵魂深潜剂**
-
-
-
 
 * **类型**: 药水
 
@@ -13605,13 +10424,7 @@ Steven: 09-18 22:27:30
 
 * *失败*:
 
-
-
-
 ## **踏雾行云酿**
-
-
-
 
 * **类型**: 药水
 
@@ -13623,13 +10436,7 @@ Steven: 09-18 22:27:30
 
 * *失败*: 制作过程中发生的爆炸魔法的效果，错误的转移到了你本人身上，你从此失去重力，并且反向转向天空，在空旷场景你维系在地面上的唯一方式是用手脚紧紧抓握土地，收到倒地的效果，在有天花板的室内场景，你可以行走在天花板上，该效果直到长修结束
 
-
-
-
 ## **猫眼观影露**
-
-
-
 
 * **类型**: 药水
 
@@ -13641,13 +10448,7 @@ Steven: 09-18 22:27:30
 
 * *失败*: 巨量的药水在你眼睛中爆开，你失明一个小时，并且在接下来的24小时内，你在有光的环境下进行任何使用到视觉的鉴定都有劣势
 
-
-
-
 ## **无痕夜隐酒**
-
-
-
 
 * **类型**: 药水
 
@@ -13815,15 +10616,9 @@ d6效果1
 
 Self一样的变化。法术的变化具体怎样由饮用者决定，该效果会持续10分钟。
 
-
-
-
 啊，有一个问题你得注意啊，就是呢呃这些东西会加入不稳定药剂，对吧？也就是这个所谓的实验性灵药的表格，呃，目前的表格是这样，首先是原来有这六种对吧？然后还有加上了呃以下的呃这两种
 
 ## **黑牛机师饮料** x2
-
-
-
 
 * **类型**: 药水
 
@@ -13835,13 +10630,7 @@ Self一样的变化。法术的变化具体怎样由饮用者决定，该效果�
 
 失败：你将会触动了另一个位面的正版红牛公司，虚空中会召唤出一头红牛的怪物无差别攻击。在场的所有人
 
-
-
-
 ## **“遨游心海”灵魂深潜剂**
-
-
-
 
 * **类型**: 药水
 
@@ -13853,60 +10642,33 @@ Self一样的变化。法术的变化具体怎样由饮用者决定，该效果�
 
 * *失败*:
 
-
-
-
 啊，也就是说他现在是这样的，就是首先这个你11会儿给给我整整理一下这个灵药表啊，这大概说名字什么的就行，好吧。啊，就是说首先上来是前6个原始原始的，然后就是呃七号和八号，就应该是黑牛，对吧？黑牛的这个正常的和他的这个失败的。然后呢，再加上就是刚才咱们灵魂灵能那个龙族契约给的一个呃这个灵能药水。这个药水因为是灵龙灵契约，所以他没有他没有这个制作失败的选项，对吧？然后这周这周再加一个，那就是呃9个是吧？然后再加上咱们刚才鉴定出来的这个，对吧？呃，这也鉴定出来又又是加两个等于失败的，应该制作失败是占一个随机位的对吧？啊，呃你你先别整理了啊，等咱们这个这个所有钥匙鉴定完了再一起整理。对吧？因为他还要11次次往鉴定的
-
-
-
 
 咸鱼之提督: 09-19 21:13:36
 
 “奇妙的药水”
 
-
-
-
 咸鱼之提督: 09-19 21:13:42
 
 #研究研究下个药水
-
-
-
 
 咸鱼之提督: 09-19 21:13:58
 
 #反手看看墨绿色
 
-
-
-
 咸鱼之提督: 09-19 21:16:45
-
-
-
 
 咸鱼之提督: 09-19 21:16:54
 
 （都一个样么）
 
-
-
-
 Steven: 09-19 21:17:01
 
 那一样的都过奥秘
 
-
-
-
 咸鱼之提督: 09-19 21:17:06
 
 .r2#d+6+d4奥秘
-
-
-
 
 阿芙娜: 09-19 21:17:07
 
@@ -14022,62 +10784,35 @@ d+6+d4=10[D20]+6+3[d4]=19
 
 #再去看看黑金色
 
-
-
-
 咸鱼之提督: 09-19 21:21:11
 
 （什么鉴定原来消耗药水么）
 
-
-
-
 咸鱼之提督: 09-19 21:21:12
-
-
-
 
 Steven: 09-19 21:21:19
 
 （是欸
 
-
-
-
 咸鱼之提督: 09-19 21:21:22
 
 （嘛 问题也不大）
-
-
-
 
 Steven: 09-19 21:21:28
 
 （所以你现在手里只有无色的
 
-
-
-
 咸鱼之提督: 09-19 21:21:32
 
 （理论上炼金工具鉴定应该不用#看介绍）
-
-
-
 
 咸鱼之提督: 09-19 21:22:11
 
 .r2#d+6+d4奥秘
 
-
-
-
 Steven: 09-19 21:22:12
 
 （那理论上炼金工具鉴定也不会把配方加到你的不稳定药剂里[汪汪]
-
-
-
 
 阿芙娜: 09-19 21:22:13
 
@@ -14287,595 +11022,337 @@ Steven: 09-19 21:40:16
 
 |17|遨游心海|获得UA秘术师的灵能力量（6灵力点，限制3，一个灵术），持续1小时。|
 
-
-
-
 Steven: 09-19 21:40:20
 
 这样这是你当前的表格
-
-
-
 
 Steven: 09-19 21:40:32
 
 那么现在
 
-
-
-
 Steven: 09-19 21:40:39
 
 黎明的第一缕光线透过窗帘的缝隙照了进来。
-
-
-
 
 Steven: 09-19 21:41:08
 
 如果你想要继续工作的话需要通过一个感知鉴定，抵抗你的困意或者找其他的办法
 
-
-
-
 咸鱼之提督: 09-19 21:41:36
 
 .rd+1+d4 朴实忙碌
-
-
-
 
 阿芙娜: 09-19 21:41:38
 
 由于 朴实忙碌，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+1+d4=13[D20]+1+2[d4]=16
 
-
-
-
 Steven: 09-19 21:41:50
 
 那么，你虽然身心俱疲，但精神看起来还是相当亢奋的
-
-
-
 
 咸鱼之提督: 09-19 21:42:10
 
 （很好还要过一个dc10体质来看有没有力竭了）
 
-
-
-
 Steven: 09-19 21:42:12
 
 值得注意的这是你当前可以暂时不受力竭的影响。但是如果你呃明天白天继续不睡觉的话，你就会受到力竭的影响
-
-
-
 
 咸鱼之提督: 09-19 21:42:13
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
 
-
-
-
 咸鱼之提督: 09-19 21:42:24
 
 （不是看鉴定么）
-
-
-
 
 Steven: 09-19 21:42:25
 
 （如果你选择干完就睡觉的话，那就不用了
 
-
-
-
 咸鱼之提督: 09-19 21:42:36
 
 （问题不大）
-
-
-
 
 Steven: 09-19 21:42:39
 
 （我的意思是说，你不原本打算白天直接睡觉吗？那就无所谓
 
-
-
-
 咸鱼之提督: 09-19 21:42:40
 
 （白天睡大觉）
-
-
-
 
 Steven: 09-19 21:42:45
 
 （你反正得过是没过去，最后睡觉都没有了
 
-
-
-
 咸鱼之提督: 09-19 21:43:05
 
 “哈～修完这两个东西就去睡觉吧”
-
-
-
 
 咸鱼之提督: 09-19 21:43:08
 
 #打个哈欠
 
-
-
-
 咸鱼之提督: 09-19 21:43:16
 
 #给自动侏儒和动力爪维修一下
-
-
-
 
 Steven: 09-19 21:44:07
 
 那么经过一番检查，你发现其核心的动力结构受损严重。你需要消耗：
 
-
-
-
 Steven: 09-19 21:44:24
 
 1磅 机械零件 (用于重铸破损的外壳)和2磅 精密部件 (用于更换烧毁的传动轴承)
-
-
-
 
 咸鱼之提督: 09-19 21:45:54
 
 #品鉴品鉴
 
-
-
-
 咸鱼之提督: 09-19 21:46:07
 
 “看起来主要损伤是在这里”
-
-
-
 
 咸鱼之提督: 09-19 21:46:21
 
 #抄抄工具修理
 
-
-
-
 Steven: 09-19 21:48:46
 
 那你需要花费两个小时的时间继续进行一次智力的工具鉴定
-
-
-
 
 咸鱼之提督: 09-19 21:49:30
 
 .rd+4+d4
 
-
-
-
 阿芙娜: 09-19 21:49:32
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d+4+d4=11[D20]+4+4[d4]=19
-
-
-
 
 咸鱼之提督: 09-19 21:49:40
 
 （忘了补个+2了）
 
-
-
-
 咸鱼之提督: 09-19 21:49:42
 
 （影响不大）
-
-
-
 
 咸鱼之提督: 09-19 21:49:43
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
 
-
-
-
 Steven: 09-19 21:49:55
 
 那无论如何，这一次，你的操作成功了
-
-
-
 
 Steven: 09-19 21:50:00
 
 动力爪被完全修复，所有功能恢复正常。
 
-
-
-
 Steven: 09-19 21:50:13
 
 那么现在6个小时过去了
-
-
-
 
 Steven: 09-19 21:50:25
 
 窗外的天色已然大亮，楼下的街道里又传出了嘈杂的车水马龙的声音
 
-
-
-
 Steven: 09-19 21:50:49
 
 远处似乎传来了若有若无的星界鸡在打鸣声
-
-
-
 
 Steven: 09-19 21:52:04
 
 楼下的小贩正吆喝着布瑞尔岩的特色早餐流浆体稀饭配烤太空飞猪肉
 
-
-
-
 咸鱼之提督: 09-19 21:52:06
 
 #修好动力爪和自动侏儒后回去睡大觉了
-
-
-
 
 咸鱼之提督: 09-19 21:52:10
 
 “吧唧吧唧”
 
-
-
-
 咸鱼之提督: 09-19 21:52:37
 
 #把自动侏儒摆罗兰他们旁边顺便写个纸条说明一下自己修好了
-
-
-
 
 咸鱼之提督: 09-19 21:52:43
 
 #抱着骨枪睡大觉去
 
-
-
-
 Steven: 09-19 21:52:54
 
 呃，自动侏儒，你还没修呢
-
-
-
 
 咸鱼之提督: 09-19 21:52:56
 
 “困死了累死了 睡觉睡觉”
 
-
-
-
 咸鱼之提督: 09-19 21:53:01
 
 （什么还没修）
-
-
-
 
 咸鱼之提督: 09-19 21:53:07
 
 #垂死病中惊坐起
 
-
-
-
 咸鱼之提督: 09-19 21:53:15
 
 “修！”
-
-
-
 
 咸鱼之提督: 09-19 21:53:22
 
 #掏出自动侏儒开修
 
-
-
-
 Steven: 09-19 21:53:26
 
 维兹波普瞪着他无辜的大眼睛，看着你似乎已经不抱什么希望了
-
-
-
 
 咸鱼之提督: 09-19 21:53:39
 
 “问题不大 我的技术杠杠滴”
 
-
-
-
 Steven: 09-19 21:53:40
 
 你首先需要弄清楚他真正的“病因”。
-
-
-
 
 咸鱼之提督: 09-19 21:53:41
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
 
-
-
-
 Steven: 09-19 21:53:45
 
 你需要通过一次奥秘或者调查鉴定
-
-
-
 
 Steven: 09-19 21:53:54
 
 这次维修需要消耗4个小时的时间
 
-
-
-
 Steven: 09-19 21:54:01
 
 也就意味着在维修一半的时候，别人就已经起床了
-
-
-
 
 咸鱼之提督: 09-19 21:54:13
 
 #用万能工具看看能不能帮忙修理修理
 
-
-
-
 咸鱼之提督: 09-19 21:54:24
 
 #检测构造.JPG
-
-
-
 
 咸鱼之提督: 09-19 21:54:33
 
 #亚音速起子
 
-
-
-
 咸鱼之提督: 09-19 21:55:45
 
 .rd+6+d4奥秘
-
-
-
 
 阿芙娜: 09-19 21:55:46
 
 由于奥秘，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+6+d4=12[D20]+6+1[d4]=19
 
-
-
-
 Steven: 09-19 21:56:01
 
 那么你发现了他的物理损伤只是表象
-
-
-
 
 Steven: 09-19 21:56:12
 
 真正的问题在于他胸腔内部的逻辑核心，在之前的灵能爆炸中被严重腐化了。
 
-
-
-
 Steven: 09-19 21:56:27
 
 你聪明的小脑波啊一转便意识到了一个”好主意“
-
-
-
 
 Steven: 09-19 21:56:40
 
 你可以做一场“心脏”移植手术
 
-
-
-
 Steven: 09-19 21:56:51
 
 反正这个核心是必须得被更换的
-
-
-
 
 咸鱼之提督: 09-19 21:57:05
 
 “诶 我有个好主意”
 
-
-
-
 Steven: 09-19 21:57:06
 
 那么你身上唯一能替代它的，就是你从另一只钟表怪物身上拆下来的那枚完好的【扭曲之核】！
-
-
-
 
 咸鱼之提督: 09-19 21:57:19
 
 #竖手指
 
-
-
-
 咸鱼之提督: 09-19 21:57:29
 
 “要不你试试换个核心要不要”
-
-
-
 
 Steven: 09-19 21:57:31
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\79f902ebceb90c633eef81136f3a74d3.png" />
 
-
-
-
 咸鱼之提督: 09-19 21:57:49
 
 “我之前拆了个钟表怪物的核心”
-
-
-
 
 Steven: 09-19 21:57:50
 
 维兹波普的小脑瓜无法理解你在说什么，他只是用他水灵灵的大眼睛盯着你
 
-
-
-
 咸鱼之提督: 09-19 21:57:58
 
 “虽然好像有点脏”
-
-
-
 
 咸鱼之提督: 09-19 21:59:01
 
 “不过在更换心脏前好像需要确认一下里面的远域能量还在么”
 
-
-
-
 咸鱼之提督: 09-19 21:59:05
 
 #掏出来看看
-
-
-
 
 Steven: 09-19 22:00:34
 
 你刚拿出来那股亵渎的力量就在房间中弥散开来。你能感受到一股邪恶的力量正在其中跳动着生命力，无比活跃
 
-
-
-
 咸鱼之提督: 09-19 22:00:49
 
 “看起来非常的健康”
-
-
-
 
 咸鱼之提督: 09-19 22:00:54
 
 #锤手
 
-
-
-
 Steven: 09-19 22:01:13
 
 《健康》
-
-
-
 
 咸鱼之提督: 09-19 22:01:57
 
 #回忆下器械师的知识中有没有去除远域能量的办法
 
-
-
-
 Steven: 09-19 22:02:01
 
 那么你需要通过一次高难度的奥秘鉴定
-
-
-
 
 咸鱼之提督: 09-19 22:02:13
 
 .rd+6+d4
 
-
-
-
 阿芙娜: 09-19 22:02:15
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d+6+d4=20[D20]+6+3[d4]=29
-
-
-
-
-
-
-
-
-
 
 Steven: 09-19 22:02:30
 
 那么非常成功啊
 
-
-
-
 咸鱼之提督: 09-19 22:02:32
 
 （这下拉满了）
-
-
-
 
 好的好的，接着往下继续扮演啊。然后我觉得你刚才的这些呃前瞻和清醒呃都是不错的，好吧？嗯，但是呢有一点不能，就是他现在等于是呃这个干的一半儿，对吧？现在刚干成功，正好现在长就结束，大家都醒来了，而他熬过了一整夜一点没睡，他只能白天再去睡了，好不好？然后呢，我觉得你这个前瞻都非常不错啊，这个选择就交给玩家们吧。好吧，你先接着把这点扮演下来，然后然后把其他人都唤醒吧
 Steven: 09-19 21:40:16
@@ -15125,300 +11602,171 @@ Steven: 09-19 22:02:30
 
 “嗯哼 不错不错”
 
-
-
-
 Steven: 09-19 22:06:32
 
 维兹波普不仅满血复活，而且成功的保留了自己的人格，成为了一个忠诚的伙伴。
-
-
-
 
 咸鱼之提督: 09-19 22:06:38
 
 #上下打量
 
-
-
-
 Steven: 09-19 22:06:45
 
 与此同时
-
-
-
 
 Steven: 09-19 22:06:49
 
 长休正式结束，房间外的天光已经大亮。
 
-
-
-
 咸鱼之提督: 09-19 22:06:51
 
 “看起来我维修的技术还是很棒的”
-
-
-
 
 Steven: 09-19 22:07:06
 
 奈瓦拉、隆金、罗兰你们各自从各自的船上缓缓转醒
 
-
-
-
 Steven: 09-19 22:07:18
 
 你们看到猎颅瘫坐在一堆工具和废弃零件中间，双眼布满血丝，脸上却挂着疲惫而满足的微笑，显然是一夜未眠。
-
-
-
 
 Steven: 09-19 22:07:24
 
 而在他旁边，站着一个崭新的、行动自如的自动侏儒，正用他那双蓝色的机械眼好奇地打量着你们。
 
-
-
-
 咸鱼之提督: 09-19 22:07:40
 
 #打个哈欠
-
-
-
 
 Steven: 09-19 22:07:44
 
 现在，长休已经结束，队伍整装待发。猎颅的通宵工作也取得了惊人的成果。
 
-
-
-
 咸鱼之提督: 09-19 22:07:49
 
 “总而言之之前还没自我介绍下”
-
-
-
 
 Steven: 09-19 22:07:51
 
 新的一天开始了，接下来你们打算去干什么呢？
 
-
-
-
 咸鱼之提督: 09-19 22:08:02
 
 “我叫猎颅 他们是我的朋友们 你也能信任他们”
-
-
-
 
 Steven: 09-19 22:08:04
 
 @罗兰 hp26/26 ac12dc14先6二3/3一4/4时2/2往2/2 @隆金 AC17 HP 46/46 DC12 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13
 
-
-
-
 咸鱼之提督: 09-19 22:08:16
 
 “我先睡了哈 你们先去玩玩”
-
-
-
 
 咸鱼之提督: 09-19 22:08:40
 
 #钻进次元袋倒头就睡
 
-
-
-
 咸鱼之提督: 09-19 22:08:50
 
 “记得每隔十分钟给我拖出来换一下气谢谢”
-
-
-
 
 咸鱼之提督: 09-19 22:09:10
 
 #sleep
 
-
-
-
 Steven: 09-19 22:09:23
 
 那么兔子实在太激动了，他似乎忘了自己是有呼吸
-
-
-
 
 Steven: 09-19 22:09:42
 
 在你短暂的睡眠中，一个不属于你的梦境将你包裹。
 
-
-
-
 Steven: 09-19 22:09:55
 
 你梦见自己身处一座宏伟得无法想象的水晶图书馆中，一位年轻的、尚未成为灵魂的翡翠龙，正与一位形态优雅的眼魔学者，就一个关于“位面谐振”的理论激烈而友好地辩论着。阳光透过水晶的穹顶，洒在他们身上，气氛祥和而充满了智慧的火花……
-
-
-
 
 :D: 09-19 22:09:58
 
 “好麻烦”＃挠头
 
-
-
-
 Steven: 09-19 22:09:59
 
 然后....
-
-
-
 
 Steven: 09-19 22:10:02
 
 然后....
 
-
-
-
 Steven: 09-19 22:10:07
 
 10分钟以后，你就因缺氧被憋醒了。。。。
 
-
-
-
 咸鱼之提督: 09-19 22:10:11
-
-
-
 
 咸鱼之提督: 09-19 22:10:25
 
 （不是让其他人给我抓起来么（嘘）
 
-
-
-
 咸鱼之提督: 09-19 22:10:29
 
 “呃啊”
-
-
-
 
 咸鱼之提督: 09-19 22:10:36
 
 “没人给我换气要死了”
 
-
-
-
 Steven: 09-19 22:10:58
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13
-
-
-
 
 咸鱼之提督: 09-19 22:11:00
 
 #从次元袋里面伸出一只手 抓着地面缓缓爬行 慢慢的露出身体
 
-
-
-
 咸鱼之提督: 09-19 22:11:05
 
 “睡觉”
-
-
-
 
 Steven: 09-19 22:11:07
 
 （新人类呢？你去哪里了？
 
-
-
-
 咸鱼之提督: 09-19 22:11:09
 
 #继续昏迷
-
-
-
 
 :D: 09-19 22:11:17
 
 “哇好诡异”
 
-
-
-
 修林: 09-19 22:11:44
 
 （什）
-
-
-
 
 咸鱼之提督: 09-19 22:11:46
 
 “罗兰你不是最诡异的么”#吐槽
 
-
-
-
 Steven: 09-19 22:12:49
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 新的一天开始了窗外的天色已然大亮，楼下的街道里又传出了嘈杂的车水马龙的声音远处似乎传来了若有若无的星界鸡在打鸣声楼下的小贩正吆喝着布瑞尔岩的特色早餐流浆体稀饭配烤太空飞猪肉
-
-
-
 
 Steven: 09-19 22:12:56
 
 你们打算去哪里呢？
 
-
-
-
 Steven: 09-19 22:13:01
 
 给你们大概捋一下线索
-
-
-
 
 咸鱼之提督: 09-19 22:13:28
 
 #睡前自然不忘倒酒的人
 
-
-
-
 Steven: 09-19 22:13:47
 
 首先是你们刚到星球，你们的飞船就被码头的打手给拖走了。你们现在没有飞船物资，你们与另一队 np c 也走散了，他们现在正在不知道什么地方绝地求生呢，同时呢你们在这个酒馆的老板大卢湾眼魔的帮助下，你们知道了两个路径。第一个是呃一个著名的工匠矮人、柏林石首，也许可以帮助你们维修飞船。第2个是你受到了杂耍者的帮助，他邀请你去一个剧院
-
-
-
 
 修林: 09-19 22:14:14
 
@@ -15572,322 +11920,175 @@ Steven: 09-19 22:13:47
 
 “毫无疑问，按照计划，我们要去中城区的星光舞台，在哪之前，我需要给你们易容一番，既是为了躲避追捕 也为了杂耍者的身份”
 
-
-
-
 咸鱼之提督: 09-19 22:14:19
 
 （还有一个就是我手搓飞船继续出发）
 
-
-
-
 咸鱼之提督: 09-19 22:14:21
-
-
-
 
 修林: 09-19 22:14:48
 
 “放轻松，很快就结束了”#掏出易容工具脚步轻快地靠近队友
 
-
-
-
 :D: 09-19 22:15:19
 
 “哇你也好诡异吔”
-
-
-
 
 Steven: 09-19 22:15:45
 
 那么奈瓦拉将为大家易容，你需要通过一次魅力工具鉴定
 
-
-
-
 Steven: 09-19 22:15:49
 
 来决定这次集体伪装的效果
-
-
-
 
 Steven: 09-19 22:16:02
 
 （我突然明白了，为什么你的检定会加两次
 
-
-
-
 Steven: 09-19 22:16:21
 
 （那个头字明明说了，就是说呃你的技能只只填你的额外的加值，不要再填调整值了。你估计是把属性调整值也加进去了。路卡的时候
-
-
-
 
 咸鱼之提督: 09-19 22:16:33
 
 （孩子们我在睡觉你们如果要带着我一起行动记得带个板车给我搬运一下）
 
-
-
-
 Steven: 09-19 22:16:38
 
 （所以就是他肯定是默认先加属性调整值，然后再加你额外填的手动加值。由于你都算上了，所以就加了两遍
-
-
-
 
 咸鱼之提督: 09-19 22:16:42
 
 （当然也可以我在酒馆睡一觉）
 
-
-
-
 Steven: 09-19 22:16:45
 
 （想解决这个问题很简单，你重新录一次卡应该就可以
-
-
-
 
 修林: 09-19 22:18:21
 
 .ra魅力
 
-
-
-
 阿芙娜: 09-19 22:18:23
 
 &lt;奈瓦拉-阿玛斯塔夏>的"魅力"检定（DND5E）结果为: 1[d20] + 5[魅力调整值5] = 6
-
-
-
 
 修林: 09-19 22:18:34
 
 （xd）
 
-
-
-
 咸鱼之提督: 09-19 22:18:47
 
 （笑嘻了）
-
-
-
 
 修林: 09-19 22:19:18
 
 （没有哇）
 
-
-
-
 修林: 09-19 22:19:21
-
-
-
 
 Steven: 09-19 22:19:44
 
 （你不能看这个，这个就是它把属性调整值和你的呃熟练加值以及你的这个 y 事通都加一块儿了的。最终结果就是对于这个数，你就直接就是所有的加值之和
 
-
-
-
 Steven: 09-19 22:19:56
 
 （而对于这个骰子的呃，它的这个流程不是这样的
-
-
-
 
 Steven: 09-19 22:20:05
 
 （你的卡片的这种数值是指导你去手动投的时候
 
-
-
-
 Steven: 09-19 22:20:31
 
 呃，那么你直接大失败了
-
-
-
 
 修林: 09-19 22:20:31
 
 （原来如此）
 
-
-
-
 Steven: 09-19 22:20:46
 
 奈瓦拉：她的手艺显然没能跟上她的雄心。
-
-
-
 
 Steven: 09-19 22:20:55
 
 隆金的伪装看起来像是在头上顶了两个奇怪的犄角面包，而罗兰的妆容则让他像个宿醉三天的亡灵法师。你们的伪装非常拙劣，走在街上反而会吸引更多奇怪的目光，可能会在后续的行动中导致劣势。
 
-
-
-
 :D: 09-19 22:21:44
 
 “见鬼去吧你这个卖唱的”＃把脸上乱七八糟一把抹去
-
-
-
 
 咸鱼之提督: 09-19 22:21:47
 
 （热知识之通常来讲技能鉴定没有大成功大失败一说 不过我们这桌开了额外规则）
 
-
-
-
 咸鱼之提督: 09-19 22:21:53
 
 （狗屎卖场）
-
-
-
 
 Steven: 09-19 22:22:57
 
 （对的对的，我们这是开了额外的戏剧化大成攻大失败的规则
 
-
-
-
 修林: 09-19 22:22:57
 
 “呃...我平常没有这么蹩脚...大概是没睡好”#略显尴尬地移开视线，打发“主角”们去清理掉乱七八糟的东西，自己跑去楼下买几个兜帽分给众人应付一下
-
-
-
 
 :D: 09-19 22:23:12
 
 ＃打个响指对自己施放易容术，把自己变成一个平平无奇的穿着黑色海贼衣装的人类
 
-
-
-
 别忘了呃，宗主要多说话啊，不过他列头自己睡下，估计也没人听得见啊。可能啊这个呃然后就是这个这个别忘了前瞻部门和 dm 队后续规划。咱不能说被 pl 推着走，那就越推越远，就可能跑偏了，还得始终让我注意注意力精在我所后续发展上。然后然后咱们以及还有去到那个中城区的路上会经历什么东西。因为你看到下城区和中城区，中山距离挺远的，还有好多东西呢
-
-
-
 
 Getting Your Bearings p60
 
-
-
-
 The Rock of Bral is roughly 1 mile long and half that in width and depth, oriented front to back, with a leading edge and a trailing edge. A gravity plane bisects the length of the Rock, separating it into a topside and an underside.
-
-
-
 
 The city of Bral is spread across the topside. On the trailing edge rises the High City, which includes the royal palace of Starhaven and its grounds, the noble estates, and Lake Bral. From there, the geography of Bral slopes down toward the Middle City, the financial and mercantile heart of the city. At the leading edge of the Rock is the Low City, an area populated by folk of modest means and the businesses they patronize. New arrivals at Bral typically disembark at the Low City's docks.
 
-
-
-
 The underside of the Rock is off limits to the general population and not part of the city per se. It is where Bral's military forces are based. Most of the ground on the underside is used to grow crops to feed the populace. These fields are tended by convicted criminals who are housed in barracks and guarded by soldiers.
-
-
-
 
 The interior of the Rock, which stretches half a mile from the surface of the topside to the surface of the underside, contains a network of caverns and tunnels. Built by pirates and smugglers, this dungeon is home to one of the city's underbarons (see Underbarons above) and is frequently used for clandestine meetings.
 
 High City p60
 
-
-
-
 Rising above the rest of Bral on the trailing edge of the asteroid, the High City is a green, spacious expanse that holds Prince Andru's palace, called Starhaven, and various noble estates.
 
 Starhaven p60
 
-
-
-
 Standing at the highest point topside, Andru's palace of Starhaven crowns the Rock. Enclosed behind a wall, the seat of the ruling prince is a sprawling structure of gleaming domes and climbing vines.
-
-
-
 
 The palace has many windows, all rendered shatterproof by magic. Attendants in impeccable livery see to the needs of the palace's occupants, while armored guards stand vigilant around the grounds.
 
 Lake Bral p60
 
-
-
-
 Lake Bral fills a chasm and provides most of the water that sustains Bral's population. The chasm extends through the gravity plane of the asteroid, so that Lake Bral has two surfaces—its topside surface and another in a cavern deep inside the Rock.
 
-
-
-
 Although the lake means that a shortage of water isn't normally a concern on Bral, the water supply becomes depleted every few years. To replenish it, the Bralian navy embarks on an expedition to latch onto a nearby ice asteroid and bring it back. Before being brought into the Rock's gravity plane and lowered into the lake, the ice is broken up into manageable pieces.
-
-
-
 
 A natural stone formation, called the Stonebridge, spans a narrow part of the lake.
 
 Festival Grounds and Arena of Frun p61
 
-
-
-
 The Festival Grounds is a broad parkland used for public gatherings on holidays and as a recreation spot at other times. Once a year, the Arena of Frun is the site of a series of athletic games, though it is seldom used for organized events otherwise.
 
 Library of the Spheres p61
-
-
-
 
 The Library of the Spheres boasts a vast collection of tomes, scrolls, and other manuscripts. The library doesn't contain any books or scrolls of a magical nature, and none of its contents can be taken off the premises.
 
 The Man-o'-War p61
 
-
-
-
 For those feeling fancy or for whom fanciness is a way of life, the Man-o'-War, with its view overlooking Lake Bral, is the finest restaurant and inn in the city. The establishment has a strict dress code, and guests are not permitted to carry weapons.
-
-
-
 
 Shrii Hallek, a respectful female hadozee, manages the Man-o'-War for its mysterious owners, who are rumored to be adventurers.
 
 Royal Theater Company p61
 
-
-
-
 The Royal Theater has been in operation for over sixty years. The company's lavish stage productions often feature magical illusions and pyrotechnical special effects.
 
 Temple District p61
-
-
-
 
 The temples in the Temple District are devoted to various gods, faiths, and pantheons. The priests here are willing to cast helpful spells in exchange for a donation in coins, gems, or art objects of a certain value, as noted in the Helpful Spells table.
 
@@ -15907,9 +12108,6 @@ Scrying 1,000 gp
 
 Middle City p62
 
-
-
-
 The financial and mercantile center of Bral, the Middle City is home to thousands of Bralians who can afford to live outside the Low City but don't have the privilege or means to dwell behind the walls of the High City.
 
 Elmandar's Star Charts is run by a retired elf adventurer who once served as the spelljammer aboard a space galleon called the Eclipse (shown here as a model)
@@ -15918,121 +12116,67 @@ Elmandar's Star Charts is run by a retired elf adventurer who once served as the
 
 The Donjon p62
 
-
-
-
 The Donjon is a walled fortification near the shore of Lake Bral where some offenders and malefactors against the crown are held. In addition to its role as an auxiliary barracks for the Royal Guard, the Donjon is where those judged too dangerous to serve sentences working the fields on the underside are imprisoned. The Warden of the Donjon is a plasmoid boss (see Boo's Astral Menagerie) named Ux.
 
 The Edge p62
-
-
-
 
 One of the largest and busiest taverns in Bral is the Edge, an establishment that's popular among space travelers visiting the Rock. A chatty, philosophical thri-kreen mystic (see Boo's Astral Menagerie) named Vikka tends bar.
 
 Elmandar's Star Charts p62
 
-
-
-
 Elmandar, a retired elf adventurer, is Bral's most accomplished astronomer. The star charts that he and his staff of cartographers create are highly sought after by navigators. These maps don't come cheap, each one priced between 300 and 800 gold pieces, but the owner of an Elmandar map can bring it back to the shop at any time for an update at no charge.
 
 Gaspar's Reclamations p62
-
-
-
 
 Gaspar's Reclamations specializes in recovering magic items, gems, and works of art on behalf of its clients. The firm makes a living by charging a modest "finder's fee" for returning a lost item to its rightful owner. More important in the short term is the boost to its reputation that the business receives with every successful recovery.
 
 Great Market p62
 
-
-
-
 A chaotic expanse of small vendors, street performers, beggars, orators, merchants, and customers of all descriptions, the Great Market is the hub of the Middle City. During business hours, throngs of people swarm the area, and pickpockets dart among them to ply their own trade.
 
 Juggler's Folk Guildhouse p62
-
-
-
 
 Operating behind the facade of a small backstreet playhouse, the guild of thieves known as the Juggler's Folk doubles as an acting company that puts on bawdy and crass comedies to maintain their ruse. The underbaron known as the Juggler operates out of the theater, occasionally performing before audiences unaware of her identity.
 
 Red Masks Guildhouse p62
 
-
-
-
 The Red Masks are a group of violent youngsters fighting for influence on the Rock. They frequently come into conflict with members of the Juggler's Folk. Fronted by a modest tavern, the Red Masks Guildhouse is located within a series of linked cellars beneath the streets. The tavern has no sign that bears its name, though a placard hanging over the door depicts a thrashing bull rendered crudely in red paint.
-
-
-
 
 Most of the tavern's patrons don't suspect the establishment's true purpose. Those who are here on guild business need to be admitted to the Red Masks' secret sanctum before they are permitted to speak freely with the group's leaders.
 
 Mages' Guildhall p62
 
-
-
-
 A sturdy three-story tower, the Mages' Guildhall is the headquarters and meeting place of the Mages' Guild of Bral. All arcane spellcasters in the city are entitled to join this loose federation, either as short-term guests or permanent, dues-paying members. The benefits of membership include access to hard-to-find spell components, the use of the guild's research facilities, and the prospect of professional discourse with others of a similar mind.
 
 The Sindiath Line p62
-
-
-
 
 A gaudily decorated building tucked away in a cluster of residences is a branch office of the Sindiath Line, a charter service that ferries passengers from Bral to destinations throughout Wildspace, including other Wildspace systems. The captains who work for the Sindiath Line are capable and dependable.
 
 The Smith's Coster p62
 
-
-
-
 The largest and most successful merchant company based on the Rock is the Smith's Coster, which maintains a fleet of trading vessels and several warship escorts. The company specializes in trafficking weapons—for instance, providing iron blades to a community that lacks smithing in exchange for furs and other valuable merchandise, or making firearms available to a culture in which they were previously unknown.
 
 Valkan's Legion p62
 
-
-
-
 The largest group of soldiers on the Rock, aside from the forces commanded by the prince, belongs to the mercenary company called Valkan's Legion. The organization maintains a building in the Middle City as a meeting place and mustering point for its members, who reside in their own homes when they're not on active duty.
-
-
-
 
 Led by the renowned Valkan Riogan, who heads up many of the legion's larger operations personally, the company takes on missions on behalf of the crown as well as hiring out squads of soldiers to rich individuals who need protection or security on a temporary basis.
 
 Low City p63
 
-
-
-
 The beating heart of the Rock lies in the warren of streets and crowded markets of the Low City. It buzzes with activity at all hours, its streets choked with boisterous peddlers, clamorous beggars, and sneaky thieves.
-
-
-
 
 The Low City has a preponderance of taverns, inns, alehouses, shops, and crafting establishments and an equally staggering number of vacant buildings.
 
 Docks p63
 
-
-
-
 Most ships approach Bral at the asteroid's leading edge, where a set of wooden docks extends into Wildspace to provide berths for new arrivals. Caverns at the gravity plane have been cut into the Rock's edge and turned into storage areas. Many of them are fitted with hoists used to transport cargo to the warehouses topside.
 
 The Drydock p63
 
-
-
-
 Referred to as the drydock, the shipyards, or simply the yards, this large, flat area along the leading edge is where ships are built and repaired.
 
 The Happy Beholder p63
-
-
-
 
 This prosperous tavern is owned and run by Large Luigi, a locally famous, lawful neutral beholder. Luigi has encyclopedic knowledge of all sorts of topics, and he's more than happy to share information with just about anybody. He is a civic-minded, well-liked citizen who has no political ambitions. His tavern is rarely troubled by bullies or thieves.
 
@@ -16042,39 +12186,21 @@ Large Luigi, the proprietor of the Happy Beholder, is delighted to meet new patr
 
 Lesser Market p63
 
-
-
-
 The Low City's marketplace is much smaller and shabbier than the Great Market of the Middle City. Most of its structures are rickety stalls where small merchants peddle their wares. Though it draws its clientele mostly from the surrounding neighborhoods, the Lesser Market also attracts new arrivals, fresh from the docks, who are looking for a bargain or perhaps for something more sinister.
 
 Mercane Agency p63
 
-
-
-
 Mercanes (see Boo's Astral Menagerie) recently established a presence on the Rock by taking over an unmarked, inconspicuous building near the Lesser Market. The place is occupied by a small staff of agents who act as an intermediary between the mercanes and those who want to do business with them. Such business typically involves the purchase of spelljamming helms and other magic items.
-
-
-
 
 The mercanes don't advertise their involvement with the facility, nor do they visit the agency very often. When they do, it's usually to conduct business with a particularly wealthy or influential client.
 
 The Rockrat p64
 
-
-
-
 Of all the taverns on Bral, the Rockrat has the reputation of being the most dilapidated and filthy. Its only concession to decoration is a few hanging pieces of damaged nautical gear. Its owner and proprietor is a friendly, foul-mouthed wererat named Maya.
 
 Xenotermination, Ltd. p64
 
-
-
-
 This small group of highly capable combat specialists and spellcasters makes a living by hiring themselves out to capture or kill formidable Wildspace creatures. Typically, they are hired by an individual or a business whose welfare (financial or otherwise) is threatened by a monster that has defied less potent attempts to remove or subdue it.
-
-
-
 
 From time to time, Xenotermination takes on temporary members, who are sought out because they have a particular talent. Anyone who wants to offer their services, on either a permanent or occasional basis, is welcome to visit the building where the present members of the group house themselves.
 
@@ -16082,76 +12208,37 @@ Historic Enclaves
 
 p64
 
-
-
-
 The Rock has several neighborhoods that started as enclaves for immigrants who arrived in large groups. Since then, many of these neighborhoods came to overlap as they merged into the roiling expanse of the Low City, though the name and a bit of the character of each remains. Three of these neighborhoods took root in areas immediately adjacent to the docks:
-
-
-
 
 The Burrows. This lively, friendly community of halflings stands ready to greet new arrivals to the Rock by offering fresh bread, cookies, flowers, charming gift baskets, and directions.
 
-
-
-
 Dwarven District. Many dwarf crafters live in this Middle City district, and their handiwork is second to none.
-
-
-
 
 Gifftown. Many of Bral's giff residents reside in or near Gifftown, gathering in taverns to swap stories of their accomplishments. Gunshots ring out from time to time as giff challenge one another to games of marksmanship.
 
-
-
-
 Underside p64
 
-
-
-
 The underside of the Rock is under the purview of the prince. No private citizens are allowed to reside here. The surface area is devoted mostly to fields that are planted and cultivated to replenish Bral's supplies of food and air. It also contains the headquarters and docks of the royal navy, barracks that house the prisoners who work the fields, and the army headquarters known as the Citadel, which overlooks the entire expanse.
-
-
-
 
 The underside is under military control. Unauthorized visitors who get themselves apprehended are generally assumed to be either spies or prisoners trying to escape.
 
 The Citadel p64
 
-
-
-
 The well-defended fortress at the center of the underside is the command center and barracks for Bral's army. The Port Tower and the Starboard Tower are connected to the Citadel by narrow, covered walkways. Three passages branch off from each tower and end at smaller towers dispersed along the edges of the Rock. All these locations enable soldiers to maintain surveillance of the asteroid's immediate environs, and they are equipped with ballistae and mangonels to defend against an invasion.
 
 Fields p64
 
-
-
-
 The fruits, vegetables, and grains harvested from the fields on the underside keep the Rock's occupants well fed without the need for imported foodstuffs. The planting, cultivating, and harvesting of the produce are performed by convicts working off their sentences.
-
-
-
 
 The work of the prisoners is loosely supervised by bands of army regulars.
 
 Naval Base p64
 
-
-
-
 Along the leading edge of the underside is an array of docks where ships of the royal navy are berthed. At any time, at least two or three ships are actively stationed at the docks, prepared to depart at a moment's notice.
-
-
-
 
 Just inland from the docks is a sprawling complex, the base proper, that includes a drydock area where most of the fleet is moored. The facility also contains barracks and mustering areas for captains and crews.
 
 Prisoner Barracks p64
-
-
-
 
 Convicts who have been sentenced to hard labor on the underside are housed in two rectangular, windowless buildings connected to the Citadel by narrow walkways. When they're not out working the fields, prisoners are kept behind locked doors in the barracks and left to their own devices.
 
@@ -16385,246 +12472,141 @@ The vanes, extending out from four towers on the trailing side of the asteroid, 
 
 然后你看我给你发了这么多，有关于这个城市的设定，就是从下层到到中层这个过程中，他们能有什么随机遭遇吗？你居然提到一些模组内容，或者他能有什么奇怪的，其他的事情可以可以得可以得到，其他的有有有有收获也有危险，对吧？多增加一些剧情的有意思度。然后你再给我讲一下，咱们到达之后大概是什么剧情展开，对吧？你给我说清楚都会发生什么，有什么检定，对吧？有什么危险？有什么人物？咱们你现在就是纯纯面向 dm 的一个回答，这次啊呃，对，还有个注意的就是就是这个小李子就是叽咕叽咕的问题啊。呃，因为他好像现在已经濒临退团了，所以他不再跟着我们理论上来说，他现在一直在船里待着呢，他从来就没有离开那个船。因为他自从好几天前在在在非船上，就他始经失联了，好吧所以你就不用去管他了
 
-
-
-
 :D: 09-19 22:23:12
 
 ＃打个响指对自己施放易容术，把自己变成一个平平无奇的穿着黑色海贼衣装的人类
-
-
-
 
 咸鱼之提督: 09-19 22:24:31
 
 （我变身术药水还在（））
 
-
-
-
 咸鱼之提督: 09-19 22:24:35
 
 （你们喝不）
-
-
-
 
 咸鱼之提督: 09-19 22:24:47
 
 （等我长休起来就不见了）
 
-
-
-
 修林: 09-19 22:25:31
 
 （喝！）
-
-
-
 
 咸鱼之提督: 09-19 22:26:09
 
 #哦对了 睡前搓药
 
-
-
-
 咸鱼之提督: 09-19 22:26:16
 
 #最后一个一环搓个药
-
-
-
 
 咸鱼之提督: 09-19 22:26:28
 
 .rd17
 
-
-
-
 阿芙娜: 09-19 22:26:29
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d17=12
-
-
-
 
 咸鱼之提督: 09-19 22:26:37
 
 #丢给其他人睡觉去了
 
-
-
-
 Steven: 09-19 22:27:36
 
 那么猎颅垂起病中惊坐起，他又艰难的爬出来，决定搓最后一个药。但是果然太困了。是不行的，发生了灾难性的后果
-
-
-
 
 Steven: 09-19 22:27:48
 
 |12|[失败]猫眼观影露|未知|
 
-
-
-
 咸鱼之提督: 09-19 22:27:52
 
 （这是什么）
-
-
-
 
 Steven: 09-19 22:28:01
 
 巨量的药水在你眼睛中爆开，你失明一个小时，并且在接下来的24小时内，你在有光的环境下进行任何使用到视觉的鉴定都有劣势
 
-
-
-
 咸鱼之提督: 09-19 22:28:12
 
 （不是120黑视隐匿优势么）
-
-
-
 
 咸鱼之提督: 09-19 22:28:19
 
 （#陷入思考）
 
-
-
-
 Steven: 09-19 22:28:22
 
 （但是这个也失败了呀
-
-
-
 
 咸鱼之提督: 09-19 22:28:41
 
 （什么失败 不是鉴定药物全成功了么）
 
-
-
-
 Steven: 09-19 22:28:49
 
 你发现自己的皮肤逐渐变黑，好像变成了一个卓尔人，恭喜你啊，黑精灵
-
-
-
 
 咸鱼之提督: 09-19 22:28:52
 
 （#短路）
 
-
-
-
 咸鱼之提督: 09-19 22:29:18
 
 （一眼看）
-
-
-
 
 咸鱼之提督: 09-19 22:29:31
 
 （原来是加了失败选项）
 
-
-
-
 咸鱼之提督: 09-19 22:29:42
 
 #看了看
-
-
-
 
 咸鱼之提督: 09-19 22:29:48
 
 “影响不大 睡了”
 
-
-
-
 Steven: 09-19 22:30:02
 
 (对的对的，只是你不知道失败选项是什么,除了你们通过向你的宗主祈祷、献身得来的秘方以外，其他的钥匙它都是有失败情况的
-
-
-
 
 咸鱼之提督: 09-19 22:30:07
 
 “还能体验一把精灵的感觉”#嘘
 
-
-
-
 咸鱼之提督: 09-19 22:30:32
 
 #安心休眠人
-
-
-
 
 Steven: 09-19 22:30:34
 
 那么所以到底谁喝了变形药水，有没有喝，结果是什么样子？
 
-
-
-
 Steven: 09-19 22:30:37
 
 咱们要准备出发了
-
-
-
 
 咸鱼之提督: 09-19 22:30:47
 
 （队友呢队友）
 
-
-
-
 咸鱼之提督: 09-19 22:31:04
 
 （@罗兰 hp26/26 ac12dc14先6二3/3一3/4时2/2往2/2 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 ）
-
-
-
 
 :D: 09-19 22:31:48
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\06762e5d083b6267572152c12753624f.jpg" />
 
-
-
-
 :D: 09-19 22:32:08
 
 “我们去那个～啥剧场？”
 
-
-
-
 修林: 09-19 22:32:38
 
 “哦，还有这种小玩意？”带着兜帽回来，分享变形药水，变装完毕后出发
-
-
-
 
 Steven: 09-19 22:32:52
 
@@ -16794,695 +12776,395 @@ Steven: 09-19 22:32:52
 
 #那么变成一个双足站立的五尺太空仓鼠
 
-
-
-
 :D: 09-19 22:43:31
 
 （诡异）
-
-
-
 
 Steven: 09-19 22:43:45
 
 那么一个平平无奇的人类和一只站立的太空舱鼠，和一个牛头人
 
-
-
-
 Steven: 09-19 22:43:52
 
 你们一行三人（隆金、罗兰、奈瓦拉）加上一个好奇的自动侏儒维兹波普
-
-
-
 
 Steven: 09-19 22:44:04
 
 戴上兜帽，压低身形，离开了“快乐眼魔”的庇护，踏上了前往中城区的道路。
 
-
-
-
 Steven: 09-19 22:46:09
 
 根据布莱尔岩的地理结构，你们需要“向上”走，从代表着混乱与贫穷的前缘，前往代表着商业与秩序的中部。这段路途不长，但风貌的变迁却极为明显。
-
-
-
 
 Steven: 09-19 22:47:40
 
 （你们选队长吧，由谁领队？
 
-
-
-
 Steven: 09-19 22:47:54
 
 （@奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 你怎么样？我看新人类比较积极，而且也是本地人。
-
-
-
 
 Steven: 09-19 22:48:02
 
 （要不然就是罗兰
 
-
-
-
 Steven: 09-19 22:48:09
 
 （目前只有你们两个人是清醒的[汪汪]
-
-
-
 
 :D: 09-19 22:48:21
 
 （我可以不清醒）
 
-
-
-
 Steven: 09-19 22:48:24
 
 .rd6随机遭遇
-
-
-
 
 阿芙娜: 09-19 22:48:27
 
 由于随机遭遇，&lt;布瑞尔岩招生办主任>掷出了 d6=5
 
-
-
-
 Steven: 09-19 22:48:28
 
 @罗兰 hp26/26 ac12dc14先6二3/3一3/4时2/2往2/2 （难绷
 
-
-
-
 :D: 09-19 22:48:35
-
-
-
 
 Steven: 09-19 22:49:02
 
 你们经过一条散发着恶臭的排污渠时
 
-
-
-
 Steven: 09-19 22:49:07
 
 通过一次察觉检定
-
-
-
 
 :D: 09-19 22:49:14
 
 .rd+6
 
-
-
-
 阿芙娜: 09-19 22:49:15
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+6=1[D20]+6=7
-
-
-
 
 :D: 09-19 22:49:19
 
 （赫赫）
 
-
-
-
 :D: 09-19 22:49:25
 
 （睡觉去了）
-
-
-
 
 Steven: 09-19 22:49:38
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13
 
-
-
-
 修林: 09-19 22:49:42
 
 .ra察觉
-
-
-
 
 阿芙娜: 09-19 22:49:44
 
 &lt;奈瓦拉-阿玛斯塔夏>的"察觉"检定（DND5E）结果为: 10[d20] + 4[感知调整值1+察觉3] = 14
 
-
-
-
 修林: 09-19 22:50:00
 
 （13）
-
-
-
 
 Steven: 09-19 22:50:54
 
 那么奈瓦拉注意到沟渠的金属边缘上，有一些非同寻常的、带着微弱奥术能量的刮痕，似乎是某种大型机械造物在这里爬行过。
 
-
-
-
 Steven: 09-19 22:52:41
 
 （怎么大家是困了吗？怎么感觉大家不太积极呢？今天好久都没人说话
-
-
-
 
 咸鱼之提督: 09-19 22:52:56
 
 （隆金消失了罗兰消失了）
 
-
-
-
 咸鱼之提督: 09-19 22:53:01
 
 （我在酒馆睡觉）
 
-
-
-
 咸鱼之提督: 09-19 22:53:03
-
-
-
 
 咸鱼之提督: 09-19 22:53:11
 
 （阿奈冲）
 
-
-
-
 修林: 09-19 22:53:12
 
 “可以问问舞台的人知不知道排污沟的情况吱吱，说不定我们能搞来一家钢铁大块头开开？”#用个魔法伎俩隔开污水，稍微检查一下那道痕迹
-
-
-
 
 Steven: 09-19 22:53:14
 
 （你不是跟着他们一起走了吗？只是在袋子里睡觉嘛
 
-
-
-
 :D: 09-19 22:53:15
 
 （哇你们都不用上班的吗）
-
-
-
 
 Steven: 09-19 22:53:20
 
 （你要是不走的话，那到时候你还得回来找我
 
-
-
-
 咸鱼之提督: 09-19 22:53:24
 
 （什么原来我跟着在睡觉么）
-
-
-
 
 Steven: 09-19 22:53:30
 
 @罗兰 hp26/26 ac12dc14先6二3/3一3/4时2/2往2/2 （明天是周末啊喂
 
-
-
-
 :D: 09-19 22:53:30
 
 （＃那种表情）
-
-
-
 
 咸鱼之提督: 09-19 22:53:34
 
 （我看他们没人rp带着我走）
 
-
-
-
 Steven: 09-19 22:53:51
 
 （罗兰现在怎么变得跟隆金一样肤浅(bushi
-
-
-
 
 修林: 09-19 22:54:11
 
 （因为罗兰周末也要上班）
 
-
-
-
 :D: 09-19 22:55:24
 
 （这倒是没有）
-
-
-
 
 Steven: 09-19 22:55:36
 
 （绷
 
-
-
-
 Steven: 09-19 22:55:46
 
 （奈瓦拉终究是错付了[汪汪]
-
-
-
 
 修林: 09-19 22:56:19
 
 （总之先推剧情！）
 
-
-
-
 Steven: 09-19 22:56:29
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 那么说者无意，听者有心
-
-
-
 
 Steven: 09-19 22:57:03
 
 目前唯一清醒的参与过暴君船大战的侵略者—罗兰，
 
-
-
-
 Steven: 09-19 22:57:16
 
 你想起来你们当时好像有一只恐怖钟表逃走了，没有打死
-
-
-
 
 :D: 09-19 22:57:51
 
 “诶！我记得有一个构造体跑掉了”
 
-
-
-
 :D: 09-19 22:57:54
 
 ＃☝️😎
-
-
-
 
 修林: 09-19 22:59:47
 
 “先追上去！趁他病要他命，舞台那边什么时候都能去！”#兴冲冲地摩拳擦掌
 
-
-
-
 Steven: 09-19 23:00:51
 
 那么罗兰和奈瓦拉两人一合计，看着这架势是那只跑掉的构造体逃到了布瑞尔岩深邃复杂的下水道系统去了
-
-
-
 
 Steven: 09-19 23:02:16
 
 那么，你们是确定要现在勇闯下水道了吗？
 
-
-
-
 Steven: 09-19 23:02:42
 
 下水道，这是闯地城了，估计是会有战斗的,那就明天再看毕竟现在只有俩人在场？
-
-
-
 
 修林: 09-19 23:02:43
 
 “呃...罗兰，你会导航吗？我们要不还是先去舞台吧”#有些嫌弃地看着下水道，有些打退堂鼓
 
-
-
-
 Steven: 09-19 23:02:53
 
 （楽
-
-
-
 
 Steven: 09-19 23:03:34
 
 目前来说，唯一对这个地方有一定了解的，只有你在这边住过一段时间的奈瓦拉。所以要会导航，也只能是你会导航[汪汪]
 
-
-
-
 咸鱼之提督: 09-19 23:03:39
 
 #在睡觉
-
-
-
 
 咸鱼之提督: 09-19 23:03:45
 
 #虽然不知道被谁拖着
 
-
-
-
 Steven: 09-19 23:03:53
 
 其他几位都属于是刚刚从飞船上"降落"到这个星球上的，可以说是一穷二白，一无所知
-
-
-
 
 :D: 09-19 23:04:56
 
 “哈！不会！”
 
-
-
-
 咸鱼之提督: 09-19 23:05:24
 
 （可以问自动侏儒）
-
-
-
 
 Steven: 09-19 23:05:28
 
 (我原本的设定是奈瓦拉，作为本地人，知道往哪儿走，领队带着大家向着中城区大步扩近，中间有一些风景，有一些小遭诣
 
-
-
-
 咸鱼之提督: 09-19 23:05:31
 
 （说不定人家以前来过呢（嘘）
-
-
-
 
 Steven: 09-19 23:05:38
 
 （目前现在看来得先过个求生[汪汪]？
 
-
-
-
 Steven: 09-19 23:05:46
 
 （居然没人认识路[汪汪]
 
-
-
-
 Steven: 09-19 23:05:59
-
-
-
 
 修林: 09-19 23:06:17
 
 #顺势离开这个之前捂着鼻子从未靠近过的下水道，转头继续带路前往舞台
 
-
-
-
 Steven: 09-19 23:06:19
 
 （自动侏儒肯定是不认识的，他跟这没什么关系
-
-
-
 
 Steven: 09-19 23:07:14
 
 。rd6
 
-
-
-
 阿芙娜: 09-19 23:07:15
 
 &lt;布瑞尔岩招生办主任>掷出了 d6=4
-
-
-
 
 Steven: 09-19 23:07:26
 
 那么你们现在这个地点，但并没有深究，快步离开了这里
 
-
-
-
 Steven: 09-19 23:08:32
 
 那么你们正走着走在宽阔的大道上，其实这街上人并不多，但是呢你们看到有一个穿着斗篷的神秘人，向你们走了过来
-
-
-
 
 Steven: 09-19 23:08:53
 
 你们左挡右避，好像你们向左，他们就向左，你们向右，他就向右，最后你们不出意外的撞了个满怀
 
-
-
-
 :D: 09-19 23:09:33
 
 “呔！你有何居心！”
-
-
-
 
 Steven: 09-19 23:09:36
 
 ”兄弟，我看你印堂发黑定是武学奇才。。。“
 
-
-
-
 Steven: 09-19 23:09:59
 
 ”不是不是串台了。。。“一个裹在斗篷里的神秘商人拦住你们，
-
-
-
 
 :D: 09-19 23:10:10
 
 “放肆！你爷爷我学的是兵法！”
 
-
-
-
 Steven: 09-19 23:10:12
 
 ”但是我这确实有好东西，我是看兄弟，你们面善才跟你们沟通，一般人可不给看呢“
-
-
-
 
 Steven: 09-19 23:10:30
 
 他打开了裹在怀中的斗篷，向你们售一个“刚从坠毁的眼魔船上搞到的宝贝”
 
-
-
-
 Steven: 09-19 23:10:36
 
 ——那是一个还在微微发光的【扭曲之核】
-
-
-
 
 修林: 09-19 23:11:10
 
 “哦？这是什么，它有什么功效吗？”#摇晃着身子凑近低声询问着，一副很感兴趣的样子
 
-
-
-
 :D: 09-19 23:11:35
 
 “我乃一介武夫不善于此！”
-
-
-
 
 Steven: 09-19 23:11:51
 
 ”我告诉你...这可是天外来物听说有奇效,什么上火了，咳嗽了，有痰了，孩子不睡觉了，通通都能解决，可神奇呢"
 
-
-
-
 Steven: 09-19 23:12:21
 
 "不过你果然是一名武夫，我这还真有一本武林秘籍"
-
-
-
 
 Steven: 09-19 23:12:31
 
 "还不知道从另外一个神秘口袋里掏出了一本剑法书"
 
-
-
-
 :D: 09-19 23:12:48
 
 “如此奇物咋不说滋阴壮阳？总比你这等说辞还能卖的出”
-
-
-
 
 Steven: 09-19 23:13:40
 
 "哎，对对对，我看你们在医学上也颇有造诣啊，这正是此物的奇效之一啊..."
 
-
-
-
 Steven: 09-19 23:13:53
 
 "我这还有一本医书...不知道你们感不感兴趣"
-
-
-
 
 Steven: 09-19 23:14:40
 
 那是一本黑面细脊抄本，银纹刻“决斗”
 
-
-
-
 Steven: 09-19 23:14:54
 
 医书上刻着5个大字，医者的自我修养
-
-
-
 
 :D: 09-19 23:14:58
 
 “莫要玩弄你爷爷我！”＃一个大跳前去
 
-
-
-
 :D: 09-19 23:15:05
 
 “先验货！”
-
-
-
 
 Steven: 09-19 23:15:45
 
 "这可不能瞎验呀，谁知道你们是不是好人，若会抢了就跑，这可都是我们的身家性命，可不能与你玩弄“
 
-
-
-
 Steven: 09-19 23:16:04
 
 （这个时候怎么反倒著名的游云诗人不出场？[汪汪]
-
-
-
 
 :D: 09-19 23:16:30
 
 “先前还说你与我等有缘，怎么此时此刻又倒反天罡！”
 
-
-
-
 咸鱼之提督: 09-19 23:18:15
 
 #正在不知道哪里睡觉的人
-
-
-
 
 咸鱼之提督: 09-19 23:18:25
 
 #尽管在睡觉身体也在走路跟着队友们
 
-
-
-
 咸鱼之提督: 09-19 23:18:46
 
 #双手叉腰一边走路头颅点着点着表明在睡觉
 
-
-
-
 Steven: 09-19 23:19:08
 
 “有缘也是与好人有缘，而不是尔等粗野匹夫”
-
-
-
 
 修林: 09-19 23:19:19
 
@@ -17492,309 +13174,177 @@ Steven: 09-19 23:19:08
 
 “我看你也不容易，这样，三本打包，我给你10gb收了，你去好生拾掇一个证件生意，也好娶个媳妇”
 
-
-
-
 Steven: 09-19 23:19:52
 
 “你们是不是根本没钱买货故意戏耍我？”
-
-
-
 
 Steven: 09-19 23:20:15
 
 （楽
 
-
-
-
 Steven: 09-19 23:20:22
 
 （诗人发力了[汪汪]
-
-
-
 
 Steven: 09-19 23:20:35
 
 那么来一次游说吧
 
-
-
-
 修林: 09-19 23:20:44
 
 .ra游说
-
-
-
 
 阿芙娜: 09-19 23:20:45
 
 &lt;奈瓦拉-阿玛斯塔夏>的"游说"检定（DND5E）结果为: 15[d20] + 14[魅力调整值5+游说9] = 29
 
-
-
-
 :D: 09-19 23:20:46
 
 （诗人发力不了我可就发力了）
-
-
-
 
 修林: 09-19 23:21:01
 
 （24）
 
-
-
-
 咸鱼之提督: 09-19 23:21:14
 
 #找个干净的椅子坐着睡 梦游搓个♿️轮椅给自动侏儒推着睡觉
-
-
-
 
 Steven: 09-19 23:21:23
 
 那么奈瓦拉一顿夹枪带棒连着烂梨，柿子一通，给这个商人说的真是可谓摸不着头脑
 
-
-
-
 咸鱼之提督: 09-19 23:21:27
 
 #♿️♿️
-
-
-
 
 Steven: 09-19 23:21:30
 
 稀里糊涂的就同意了你们的交易
 
-
-
-
 Steven: 09-19 23:21:46
 
 反而却仿佛觉得自己好像还挺赚
-
-
-
 
 修林: 09-19 23:22:18
 
 “回头再回！”#趁着对方迷迷糊糊，离开之前顺手摸一把，不管抓到什么加快脚步混入人群
 
-
-
-
 Steven: 09-19 23:23:06
 
 那么这个商人手里已经什么都没有了，你只抓到他的小手，给他弄得一顿脸红
-
-
-
 
 修林: 09-19 23:23:10
 
 （我游厉星界这么多年从来没有花过钱！）
 
-
-
-
 修林: 09-19 23:23:23
 
 （不，他还有我给他的10gb❌）
-
-
-
 
 Steven: 09-19 23:23:31
 
 （难绷
 
-
-
-
 咸鱼之提督: 09-19 23:23:32
 
 #梦游猎颅
-
-
-
 
 Steven: 09-19 23:23:38
 
 那你就需要通过一次巧手鉴定了。偷钱的话
 
-
-
-
 修林: 09-19 23:23:50
 
 .ra巧手
-
-
-
 
 阿芙娜: 09-19 23:23:53
 
 &lt;奈瓦拉-阿玛斯塔夏>的"巧手"检定（DND5E）结果为: 14[d20] + 8[敏捷调整值3+巧手5] = 22
 
-
-
-
 咸鱼之提督: 09-19 23:24:01
 
 #梦游的猎颅抱着骨枪在一旁只是头朝着这边贴着肩膀的
-
-
-
 
 咸鱼之提督: 09-19 23:24:06
 
 （#zzz）
 
-
-
-
 修林: 09-19 23:24:07
 
 （嘶...我的巧手是+7！）
-
-
-
 
 Steven: 09-19 23:24:09
 
 那么奈瓦拉今天手气正好又完成了一次零元购，你们离开了这里
 
-
-
-
 修林: 09-19 23:24:31
 
 （跑完今天重新录个卡❌）
-
-
-
 
 Steven: 09-19 23:25:07
 
 你们什么也没有花费，反正是手里多了一个货真价实的扭曲之和。一本你们看不懂的剑法书，也许以后给到龙金，他能看明白,还有一本好像确实没什么用的。医学书，主要讲的是怎么解决医脑纠纷，怎么学习礼仪，就是没有讲怎么治病救人
 
-
-
-
 修林: 09-19 23:25:43
 
 （那是很实用的医学书#确信）
-
-
-
 
 咸鱼之提督: 09-19 23:25:46
 
 （#zzz）
 
-
-
-
 咸鱼之提督: 09-19 23:25:50
 
 #猎颅睡觉
-
-
-
 
 咸鱼之提督: 09-19 23:26:03
 
 #尽管以某种不可见的方式跟随着队伍
 
-
-
-
 Steven: 09-19 23:26:04
 
 那么，你们沿着主干道走啊走，终于走到了离开低城区的路口
-
-
-
 
 Steven: 09-19 23:26:16
 
 你们看到了一处由奥扎马塔工会私设的“关卡”。几个膀大腰圆、身上带着刺青的打手，正粗暴地向一队试图前往中城贩卖货物的半身人商贩收取高额的“通行费”
 
-
-
-
 咸鱼之提督: 09-19 23:27:08
 
 #zzz
-
-
-
 
 Steven: 09-19 23:28:50
 
 你们也在出关的队伍里，等到这伙人结束，这该轮到你们了，你们该怎么办呢？
 
-
-
-
 咸鱼之提督: 09-19 23:29:05
 
 #雨我无瓜睡大觉
-
-
-
 
 :D: 09-19 23:29:20
 
 （歇逼）
 
-
-
-
 咸鱼之提督: 09-19 23:29:27
 
 （#因为没人搬运只能梦游的猎颅）
-
-
-
 
 Steven: 09-19 23:29:36
 
 (楽
 
-
-
-
 Steven: 09-19 23:29:47
 
 那么就安排着牛头人推着你的板车走吧
-
-
-
 
 修林: 09-19 23:30:06
 
 “兄弟，你看我这也没带啥好玩意，实不相瞒，我是一个星界商人，是来探查市场的，我十几船的货物等着出手呢，这样，等我联络好了买家，十几船货物拉过来，给你们狠狠孝敬一笔，再捎两瓶好酒让你们孝敬上面，到时候还不是大大的提拔？”#靠近几步压低声音蛊惑着
 
-
-
-
 Steven: 09-19 23:30:08
 
 （反正他不在，牛肉大餐吃饱了，自然一股牛劲[汪汪]
-
-
-
 
 咸鱼之提督: 09-19 23:30:43
 
@@ -18149,160 +13699,91 @@ Steven: 09-19 23:30:08
 
 （我一直以为太空仓鼠这种东西在太空是那种拉着一舱货物到处卖的囤囤鼠❌）
 
-
-
-
 Steven: 09-19 23:33:50
 
 （难绷
-
-
-
 
 Steven: 09-19 23:34:02
 
 （巨型太空仓鼠一般是当从坐起的一种大型啮齿类超可爱动物
 
-
-
-
 Steven: 09-19 23:34:08
 
 （坐骑
-
-
-
 
 Steven: 09-19 23:34:18
 
 (而被魔法改造的迷你巨型太空仓鼠是一种宠物
 
-
-
-
 Steven: 09-19 23:34:37
 
 (一般来说，没有经商的的这就好像跟你对接的商人居然是条狗一样[汪汪]
 
-
-
-
 Steven: 09-19 23:34:51
-
-
-
 
 修林: 09-19 23:35:04
 
 “哎哎哎，是我不懂规矩了，您见谅”#眨了眨自己纽扣般与脸庞不陪衬的眼睛，迅速判断一下交多少钱合适，以及值不值得
 
-
-
-
 修林: 09-19 23:35:35
 
 （原来是这样）
-
-
-
 
 Steven: 09-19 23:36:37
 
 你看到上一队人好像这种收费啊，是按比例的，看你有多少钱收取其中20%的"税"
 
-
-
-
 Steven: 09-19 23:37:21
 
 当然这也有个底线，如果你没有交足200gp 的话你就会直接被拉去劳动改造了
-
-
-
 
 修林: 09-19 23:37:37
 
 （真黑）
 
-
-
-
 Steven: 09-19 23:37:50
 
 (人家是黑帮能不黑吗？[汪汪]
-
-
-
 
 Steven: 09-19 23:40:01
 
 所以你们想怎么做呢？可以尝试语言去说服，也可以直接付钱，或者直接开战，或者有更好的主意都可以
 
-
-
-
 Steven: 09-19 23:40:37
 
 啊，或者你们也可以现在过一个察觉
-
-
-
 
 修林: 09-19 23:40:44
 
 .ra察觉
 
-
-
-
 阿芙娜: 09-19 23:40:46
 
 &lt;奈瓦拉-阿玛斯塔夏>的"察觉"检定（DND5E）结果为: 14[d20] + 4[感知调整值1+察觉3] = 18
-
-
-
 
 Steven: 09-19 23:40:59
 
 那奈瓦拉注意到这群打手腰间挂着一把奇特的钥匙——那正是奥扎马塔私人船坞仓库的钥匙样式。
 
-
-
-
 Steven: 09-19 23:41:23
 
 与此同时，打手已经等的不耐烦了
-
-
-
 
 Steven: 09-19 23:41:32
 
 他身后的人都捏紧了拳头，关节发出咔咔的响声，显然已经准备好了第二种方案。
 
-
-
-
 修林: 09-19 23:42:04
 
 “没问题！尊敬的大人，给！这是给你的孝敬”#迅速拿出200gb递过去
-
-
-
 
 Steven: 09-19 23:42:19
 
 （话说你哪儿来的这么多钱？
 
-
-
-
 修林: 09-19 23:43:07
 
 “抱歉我们只有这么多，你也看到了，都是帮老弱病残，沦落到一个小仓鼠出面了”#露出可怜的表情恳求对方高抬贵手，同时眼神示意队友找机会搞出点动静，给自己制造机会把钱摸回来
-
-
-
 
 啊，我觉得可以这么表述，因为他们就是他们很痛快的直接交出了200cp，说明这个出手很阔绰啊，对吧？直接上打手另眼相看，可以这么说，对吧？他瞬间满满脸蹲笑说，啊，原来是个大客户啊，哪天啊这个请您到这个什么我们主着家这个喝茶去。然后同时呢周围的人也发生了不可察觉的变化，或者仿佛是这种饿狼盯着这个肥羊那种感觉，大概这个或者你可以选择其他的更有意思的扮演方法都可以哈
 打手改成河马人吧，毕竟按照说来说，人类在星界是个不常见的种族
@@ -18412,309 +13893,177 @@ Steven: 09-19 23:42:19
 
 （我还在睡觉过不了）
 
-
-
-
 咸鱼之提督: 09-19 23:46:26
 
 （#睡觉了）
-
-
-
 
 咸鱼之提督: 09-19 23:46:36
 
 （罗兰休眠了隆金消失了 阿奈加油）
 
-
-
-
 修林: 09-19 23:46:39
 
 （因为可以先唠会，然后想办法搞点动静让我蹭个优势巧手把东西摸回来❌）
-
-
-
 
 Steven: 09-19 23:47:33
 
 （@罗兰 hp26/26 ac12dc14先6二3/3一3/4时2/2往2/2
 
-
-
-
 Steven: 09-19 23:47:36
 
 （还在吗？
-
-
-
 
 Steven: 09-19 23:47:47
 
 （我感觉可能得靠你自己了[大怨种]
 
-
-
-
 Steven: 09-19 23:47:59
 
 （或者你想办法把兔子临时唤醒
-
-
-
 
 Steven: 09-19 23:48:32
 
 （过去的时间可以算一次短休
 
-
-
-
 Steven: 09-19 23:48:46
 
 （或者让他接着睡觉，或者直接给他抓起把叶子或者灌点饮料
-
-
-
 
 Steven: 09-19 23:49:32
 
 （不过兔子现在是盲僧状态[汪汪]过洞悉可能不太行，只能牵制一下了[汪汪]
 
-
-
-
 咸鱼之提督: 09-19 23:50:00
 
 （#真.盲僧）
-
-
-
 
 咸鱼之提督: 09-19 23:50:06
 
 （瑞丝充当我的视野）
 
-
-
-
 咸鱼之提督: 09-19 23:50:08
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
-
-
-
 
 Steven: 09-19 23:51:15
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 （总之无论你想干什么你可以先把洞悉过了
 
-
-
-
 修林: 09-19 23:51:48
 
 .ra洞悉
-
-
-
 
 阿芙娜: 09-19 23:51:50
 
 &lt;奈瓦拉-阿玛斯塔夏>的"洞悉"检定（DND5E）结果为: 14[d20] + 4[感知调整值1+洞悉3] = 18
 
-
-
-
 修林: 09-19 23:51:56
 
 （先看看洞悉！）
-
-
-
 
 Steven: 09-19 23:53:11
 
 （我发现奈瓦拉真乃鉴定达人也
 
-
-
-
 咸鱼之提督: 09-19 23:53:24
 
 （因为又加了两次属性）
-
-
-
 
 咸鱼之提督: 09-19 23:53:27
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
 
-
-
-
 Steven: 09-19 23:53:28
 
 （你的鉴定好像就没有失败的，诗人真是万能啊
-
-
-
 
 咸鱼之提督: 09-19 23:53:32
 
 （虽然多了1）
 
-
-
-
 Steven: 09-19 23:53:39
 
 （你的加入还是非常有必要的，大大弥补咱们团运气太差的结果[汪汪]
-
-
-
 
 修林: 09-19 23:53:51
 
 （诗人这一块）
 
-
-
-
 咸鱼之提督: 09-19 23:54:02
 
 （万事通这一块）
-
-
-
 
 Steven: 09-19 23:54:18
 
 那么奈瓦拉可以清晰的感受到，在这份虚假的友善之下,周围其他吉夫打手看你们的眼神变了
 
-
-
-
 Steven: 09-19 23:54:24
 
 ——不再是单纯的威胁，而是像一群饿狼看到了过分肥硕、毫无防备的羔羊，正贪婪地盘算着从哪里下口比较好
-
-
-
 
 Steven: 09-19 23:54:37
 
 你明白你们在下城区已经被盯上了
 
-
-
-
 Steven: 09-19 23:55:37
 
 接下来你们有什么想法吗？
-
-
-
 
 咸鱼之提督: 09-19 23:55:52
 
 #毫无知觉
 
-
-
-
 Steven: 09-19 23:55:52
 
 （如果你们实在没有想法的话，我在上面也给你们提供了一些方案
-
-
-
 
 Steven: 09-19 23:56:22
 
 @猎颅 ac18 hp31/31 dc14 当前猎颅还沉浸在他的龙族模拟器中不能自拔[汪汪]
 
-
-
-
 咸鱼之提督: 09-19 23:56:57
 
 #龙族6 我为龙王 绝赞发行中
-
-
-
 
 修林: 09-19 23:57:11
 
 “都是兄弟抬举，那我们就过去了啊，您继续招呼后面的兄弟，不用在意我们”#趁着对方赶走拦路的打手，陪着可爱的笑容对方身边走过，用只有对方能听清的声音说道“这么难得的肥羊，当然不能放过对不对？当然，一个人独享肯定比分享能收获更多，提议带我们去中城区转转吧，当然要阻止你的手下同行，把我们带到一个没人的巷子，动手抢走所有的一切.....毕竟一群老弱病残能有什么威胁呢？没有人可以阻止你独享这份意外之财”
 
-
-
-
 修林: 09-19 23:57:15
 
 #使用暗示术
-
-
-
 
 Steven: 09-19 23:57:33
 
 @猎颅 ac18 hp31/31 dc14 （笑死😆
 
-
-
-
 Steven: 09-19 23:58:11
 
 （哎呀，终于有人用暗示术了我真的太欣慰了[汪汪]
-
-
-
 
 Steven: 09-19 23:58:37
 
 .rd-2
 
-
-
-
 阿芙娜: 09-19 23:58:41
 
 &lt;布瑞尔岩招生办主任>掷出了 d-2=6[D20]-2=4
-
-
-
 
 修林: 09-19 23:58:53
 
 （意志脆弱的小绵羊！）
 
-
-
-
 Steven: 09-19 23:59:34
 
 （哦对了，提醒你们一下，你可以看一看这个法术描述他是可以允许你设置触发器的，并且在有效范围内反复触发[汪汪]
-
-
-
 
 Steven: 09-19 23:59:40
 
 （高级玩法belike
 
-
-
-
 修林: 09-19 23:59:57
 
 （这么厉害）
-
-
-
 
 修林: 09-20 00:00:20
 
@@ -18723,9 +14072,6 @@ Steven: 09-19 23:59:40
 咸鱼之提督: 09-20 00:00:44
 
 #翡翠龙王重生冒险记
-
-
-
 
 咸鱼之提督: 09-20 00:00:49
 
@@ -18884,744 +14230,423 @@ Steven: 09-20 19:56:57
 
 “来，朋友们，跟我走。我知道一条……更安静、更适合谈‘生意’的小路。我们得甩掉那些碍事的眼睛。”
 
-
-
-
 修林: 09-20 19:57:02
 
 （他在被暗示术催眠带路的过程中对他用巧手有优势吗？）
-
-
-
 
 Steven: 09-20 19:57:03
 
 说着，他主动在前面带路，将你们一行人领离了关卡，拐进了一条僻静的小巷。
 
-
-
-
 Steven: 09-20 19:57:41
 
 （那你得提前说啊，你好像暗示术的语句中没提到这个，那就没优势
-
-
-
 
 Steven: 09-20 19:57:53
 
 （暗示术是催眠大法，你只要说了，那就应该能做到，但是你得说
 
-
-
-
 Steven: 09-20 19:57:58
 
 那么接下来你们要怎么做呢？
-
-
-
 
 咸鱼之提督: 09-20 19:58:18
 
 #睡觉
 
-
-
-
 Steven: 09-20 19:58:19
 
 奈瓦拉的暗示术取得了超乎想象的成功。你们不仅毫发无伤地通过了关卡，还意外地获得了一个临时的、对低城区了如指掌的“向导”和“保镖”。
-
-
-
 
 Steven: 09-20 19:58:25
 
 现在，一个强大的吉夫打手正“心甘情愿”地带领你们走向一个他自认为的“完美的抢劫地点”。
 
-
-
-
 修林: 09-20 19:59:55
 
 （有一句“这群老弱病残对你有什么威胁呢？”的暗示，应该可以蹭个优势吧）
-
-
-
 
 修林: 09-20 20:00:12
 
 （虽然不过巧手也没影响）
 
-
-
-
 修林: 09-20 20:03:31
 
 #笑眯眯地扒光对方身上的所有东西，让现实与描述相符合
-
-
-
 
 咸鱼之提督: 09-20 20:03:55
 
 #zzz
 
-
-
-
 Steven: 09-20 20:04:02
 
 （等会儿你要再过一个按示数吗？
-
-
-
 
 咸鱼之提督: 09-20 20:04:03
 
 #发出了zzz的声音
 
-
-
-
 Steven: 09-20 20:04:11
 
 （这玩意儿是专注法术啊
-
-
-
 
 修林: 09-20 20:04:47
 
 （没呀，不是只要法术持续时间内都能暗示吗）
 
-
-
-
 Steven: 09-20 20:07:10
 
 。find 暗示术
-
-
-
 
 Steven: 09-20 20:07:35
 
 （我觉得这事儿不是这么理解[大怨种]
 
-
-
-
 Steven: 09-20 20:07:51
 
 （应该是你施法的时候说暗示的话，然后持续时间内你可以反复触发，而不是持续时间内，你可以更换你暗示的内容
-
-
-
 
 修林: 09-20 20:08:28
 
 （思索）
 
-
-
-
 修林: 09-20 20:08:42
 
 （有点理解了，不过既然不能更改）
-
-
-
 
 修林: 09-20 20:08:57
 
 （那还是让他变成温暖的经验值吧❌）
 
-
-
-
 Steven: 09-20 20:10:21
 
 （总之啊，你就呃，开始跟他交涉吧，我不知道你想干什么
-
-
-
 
 修林: 09-20 20:10:43
 
 （有偷袭轮吗？）
 
-
-
-
 Steven: 09-20 20:12:40
 
 （呃，你们是要打架的吗？
-
-
-
 
 Steven: 09-20 20:12:51
 
 （我还以为你要展示自己的魅力或者偷东西一类的
 
-
-
-
 Steven: 09-20 20:12:57
 
 （你要真想打架，我赶紧去找找数据去
-
-
-
 
 木夕儿: 09-20 20:13:23
 
 （差不多看明白了）
 
-
-
-
 Steven: 09-20 20:13:25
 
 （话说其他人捏？
-
-
-
 
 修林: 09-20 20:13:30
 
 （还是展示魅力吧）
 
-
-
-
 Steven: 09-20 20:13:40
 
 @隆金 AC17 HP 46/46 DC12 （恭喜，终于
-
-
-
 
 修林: 09-20 20:13:51
 
 （我本来想干掉他 伪装成他的样子大摇大摆地把船开走）
 
-
-
-
 :D: 09-20 20:13:52
-
-
-
 
 修林: 09-20 20:14:05
 
 （但是不推翻公会我们没办法修船的样子）
 
-
-
-
 Steven: 09-20 20:14:23
 
 （你要想伪装呢也是可以的，不过我觉得推翻工会吧可能有点困难
-
-
-
 
 修林: 09-20 20:14:29
 
 （想办法打发他去挑衅亲王卫队扩大矛盾）
 
-
-
-
 修林: 09-20 20:14:53
 
 （然后想办法说服杂耍人，让他们认为可以渔翁得利）
-
-
-
 
 Steven: 09-20 20:15:09
 
 （毕竟奥扎马塔是四大财阀之一，想要推翻的话，估计还是需要一定的时间的
 
-
-
-
 修林: 09-20 20:15:42
 
 （再说服最后一支，三个财阀打一个，推翻不了总能捞一笔大的）
-
-
-
 
 木夕儿: 09-20 20:16:08
 
 （果然是诗人的作法）
 
-
-
-
 Steven: 09-20 20:16:11
 
 （哦，你要想找到其他几只，那你们可要深度探索了[汪汪]
-
-
-
 
 木夕儿: 09-20 20:16:13
 
 （好精妙）
 
-
-
-
 木夕儿: 09-20 20:16:19
 
 （我只会至圣斩过去）
-
-
-
 
 木夕儿: 09-20 20:16:37
 
 [至圣斩]
 
-
-
-
 修林: 09-20 20:16:39
 
 （我想的是如果公会和卫队冲突扩大，其他势力入局肯定有很多优势，可以趁机捞好处应该不会太想拒绝）
-
-
-
 
 Steven: 09-20 20:16:42
 
 （嗯，我之前说的这里边有四大亨，还有一大亨藏在洞窟深处，11般人都没见过
 
-
-
-
 Steven: 09-20 20:16:54
 
 （问题在于，你们，人家凭什么相信你们呢？
-
-
-
 
 Steven: 09-20 20:17:08
 
 （这些问题呃，你还是先把当前的这个扮演过去吧
 
-
-
-
 修林: 09-20 20:17:10
 
 （到时候再说啦）
-
-
-
 
 修林: 09-20 20:17:40
 
 （我知道该怎么办了）
 
-
-
-
 NEET: 09-20 20:18:24
-
-
-
 
 NEET: 09-20 20:18:37
 
 （哦，在跑了）
 
-
-
-
 NEET: 09-20 20:18:44
 
 （算了，发都发了）
 
-
-
-
 咸鱼之提督: 09-20 20:18:48
-
-
-
 
 修林: 09-20 20:18:53
 
 （我或者队友想要在他看不到的角度敲晕它，要过力量检定吗？）
 
-
-
-
 咸鱼之提督: 09-20 20:18:54
 
 （逆天dm）
-
-
-
 
 咸鱼之提督: 09-20 20:19:00
 
 （反应都没有）
 
-
-
-
 修林: 09-20 20:19:03
 
 （逆天dm）
-
-
-
 
 NEET: 09-20 20:19:16
 
 （我觉得你反应不过来（））
 
-
-
-
 :D: 09-20 20:19:18
 
 （让我用睡眠术糊他一脸便可）
-
-
-
 
 Steven: 09-20 20:20:29
 
 （应该是攻击检定我觉得
 
-
-
-
 Steven: 09-20 20:20:43
 
 （包括你得在前面吸引他的注意力
-
-
-
 
 修林: 09-20 20:20:56
 
 （让他昏过去，你们把东西扒走跑远点，我把他叫醒，用我的雄辩告诉他他被亲王卫队的人偷袭了，他们看我是个不起眼的坐骑没在意我让我跑了，我看他们紧急集合离开赶紧来叫醒他让他报仇去）
 
-
-
-
 :D: 09-20 20:21:31
 
 （要打吗，在这里！现在！）
-
-
-
 
 木夕儿: 09-20 20:22:06
 
 （听到打架就兴奋的屑罗兰）
 
-
-
-
 Steven: 09-20 20:22:36
 
 （听到打架就兴奋的屑罗兰）
-
-
-
 
 Steven: 09-20 20:22:52
 
 （也是可以的
 
-
-
-
 Steven: 09-20 20:23:00
 
 （不愧是诗人[汪汪]
-
-
-
 
 木夕儿: 09-20 20:23:39
 
 （那就先睡眠术吧）
 
-
-
-
 修林: 09-20 20:23:49
 
 #小声和队友商量好战术，让队友站到他的右后方，快步加速从左边走到对方前面发出慌乱的声音“有！！有人冲过来！左边！前面！”
-
-
-
 
 :D: 09-20 20:23:49
 
 ＃玫瑰花瓣与细沙从法师指尖化为灰烬，随后一指对着那个倒霉蛋施放睡眠术
 
-
-
-
 木夕儿: 09-20 20:23:54
 
 （这200gp可不是一笔小数字）
-
-
-
 
 :D: 09-20 20:24:05
 
 .r5d8
 
-
-
-
 阿芙娜: 09-20 20:24:08
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 5d8=26[5d8=5+6+8+2+5]=26
-
-
-
 
 :D: 09-20 20:24:44
 
 （话说我是不是要用二环施来着）
 
-
-
-
 :D: 09-20 20:24:53
 
 （万一他是血牛捏）
-
-
-
 
 修林: 09-20 20:25:03
 
 （我看到他收了前一个人的钱！他身上肯定不止200gb吱吱）
 
-
-
-
 Steven: 09-20 20:25:15
 
 （你怎么就变成睡眠术了？
-
-
-
 
 修林: 09-20 20:25:16
 
 （而且还有钥匙）
 
-
-
-
 Steven: 09-20 20:25:20
 
 （这肯定是不行的呀，这个人不可能才二十六点写
-
-
-
 
 :D: 09-20 20:25:36
 
 （得了，我就知道）
 
-
-
-
 :D: 09-20 20:26:01
 
 （嘻，能反悔莫）
-
-
-
 
 木夕儿: 09-20 20:26:04
 
 （那就该突袭了）
 
-
-
-
 修林: 09-20 20:26:06
 
 （那就紧急补个偷袭，还能营造一种人很多的印象）
-
-
-
 
 木夕儿: 09-20 20:26:24
 
 （可以吗）
 
-
-
-
 Steven: 09-20 20:26:46
 
 （算了，咱们重来吧，咱们回到刚才这个从小巷进来
-
-
-
 
 Steven: 09-20 20:26:49
 
 （这也太混乱了
 
-
-
-
 :D: 09-20 20:26:54
 
 （👌）
-
-
-
 
 Steven: 09-20 20:26:56
 
 那么时空发生的倒转，现在时间回到了刚进入小巷的时候
 
-
-
-
 Steven: 09-20 20:27:12
 
 “来，朋友们，跟我走。我知道一条……更安静、更适合谈‘生意’的小路。我们得甩掉那些碍事的眼睛。”
-
-
-
 
 Steven: 09-20 20:27:32
 
 说着，他主动在前面带路，将你们一行人领离了关卡，拐进了一条僻静的小巷。
 
-
-
-
 修林: 09-20 20:28:07
 
 （我看跑团replay，他们都是pl全部描述完各自的行动再分别具体展开结算的，可以试一试？）
-
-
-
 
 :D: 09-20 20:29:12
 
 （牛头人直接至圣斩吧，我补刀）
 
-
-
-
 木夕儿: 09-20 20:29:17
 
 （彳亍）
-
-
-
 
 木夕儿: 09-20 20:29:22
 
 （不对，不太行）
 
-
-
-
 木夕儿: 09-20 20:29:32
 
 （我这把剑好像留手不了）
-
-
-
 
 :D: 09-20 20:29:43
 
 （没事劈死也行（））
 
-
-
-
 修林: 09-20 20:29:47
 
 （）
-
-
-
 
 木夕儿: 09-20 20:29:52
 
 （要是超过生命值了就会变成灰）
 
-
-
-
 木夕儿: 09-20 20:29:55
 
 （那就）
-
-
-
 
 修林: 09-20 20:29:55
 
 #小声和队友商量好战术，让队友站到他的右后方，快步加速从左边走到对方前面发出慌乱的声音“有！！有人冲过来！左边！前面！”
 
-
-
-
 木夕儿: 09-20 20:29:59
 
 [至圣斩]
-
-
-
 
 木夕儿: 09-20 20:30:35
 
 趁着诗人小姐吸引他的注意力，隆金闪身到他背后，手中的光剑劈出势大力沉的一击
 
-
-
-
 Steven: 09-20 20:30:40
 
 ”啊？什么发生什么？“
-
-
-
 
 Steven: 09-20 20:30:50
 
 迪夫打手惊慌的往四处看去，生怕有人缴获了了他的美差
 
-
-
-
 木夕儿: 09-20 20:31:04
 
 。r2#d+9
-
-
-
 
 阿芙娜: 09-20 20:31:06
 
@@ -19631,209 +14656,119 @@ d+9=19[D20]+9=28
 
 d+9=12[D20]+9=21
 
-
-
-
 修林: 09-20 20:31:14
 
 （我嘞个）
-
-
-
 
 木夕儿: 09-20 20:31:26
 
 （哇，差点重击）
 
-
-
-
 咸鱼之提督: 09-20 20:31:38
 
 （为啥+9）
-
-
-
 
 咸鱼之提督: 09-20 20:31:52
 
 （#失忆中）
 
-
-
-
 咸鱼之提督: 09-20 20:32:02
 
 （5+2+1不是8么）
-
-
-
 
 修林: 09-20 20:32:15
 
 #立刻注意对方的表情，观察对方有没有看到队友的出手露出表情变化
 
-
-
-
 木夕儿: 09-20 20:32:17
 
 （啊，忘记我们还只是4级了）
-
-
-
 
 Steven: 09-20 20:32:19
 
 反正肯定是命中了
 
-
-
-
 木夕儿: 09-20 20:32:24
 
 （我一直以为我们已经5级了）
-
-
-
 
 咸鱼之提督: 09-20 20:32:31
 
 （哦对了 差点忘了我没给隆金改造光剑了）
 
-
-
-
 咸鱼之提督: 09-20 20:32:39
 
 （现在还是单手剑来的）
 
-
-
-
 咸鱼之提督: 09-20 20:32:45
-
-
-
 
 木夕儿: 09-20 20:32:47
 
 [看]
 
-
-
-
 木夕儿: 09-20 20:33:08
 
 （那总之1环至圣斩）
-
-
-
 
 木夕儿: 09-20 20:33:22
 
 （不对，你不是早就改造过了吗）
 
-
-
-
 木夕儿: 09-20 20:33:36
 
 （眼魔船上打架的时候我就是双手剑了）
-
-
-
 
 咸鱼之提督: 09-20 20:33:41
 
 （我何时改造的#：）
 
-
-
-
 木夕儿: 09-20 20:33:43
 
 。r2d6+2d8+6
-
-
-
 
 阿芙娜: 09-20 20:33:45
 
 &lt;隆金 AC17 HP 46/46 DC12>掷出了 2d6+2d8+6=6[2d6=1+5]+9[2d8=3+6]+6=21
 
-
-
-
 咸鱼之提督: 09-20 20:33:51
 
 （我怎么没印象了）
-
-
-
 
 咸鱼之提督: 09-20 20:34:47
 
 （我记得拿到蓝图一直在忙碌没空改造#回忆）
 
-
-
-
 咸鱼之提督: 09-20 20:34:53
 
 （#翻）
-
-
-
 
 咸鱼之提督: 09-20 20:35:30
 
 （dm说的改完了#锤手）
 
-
-
-
 咸鱼之提督: 09-20 20:35:43
 
 （虽然我还没改呢 但是改完了（问题不大））
-
-
-
 
 木夕儿: 09-20 20:36:03
 
 （总之我的攻击结束了）
 
-
-
-
 木夕儿: 09-20 20:36:09
 
 （到罗兰补刀了）
-
-
-
 
 :D: 09-20 20:36:22
 
 ＃罗兰抬手在那个倒霉蛋身后指着他的后脑勺，三发尖啸着的立场飞弹射出
 
-
-
-
 修林: 09-20 20:36:31
 
 （不看伤害直接补刀吗）
 
-
-
-
 :D: 09-20 20:36:33
 
 .r3#1d20+6
-
-
-
 
 阿芙娜: 09-20 20:36:35
 
@@ -19845,174 +14780,99 @@ Steven: 09-20 20:32:19
 
 1d20+6=4+6=10
 
-
-
-
 Steven: 09-20 20:37:23
 
 （饿啊，原来你们是真的要战斗啊
-
-
-
 
 Steven: 09-20 20:37:28
 
 （还以为你们只是打晕的
 
-
-
-
 Steven: 09-20 20:37:36
 
 那么你只有第一项命中了
-
-
-
 
 :D: 09-20 20:37:54
 
 .r2d4
 
-
-
-
 阿芙娜: 09-20 20:37:56
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 2d4=7[2d4=4+3]=7
-
-
-
 
 木夕儿: 09-20 20:38:15
 
 （因为dm说不会只有26血）
 
-
-
-
 Steven: 09-20 20:39:13
 
 （打晕嘛，我觉得就是过个攻击鉴定，然后呢，再过个豁免什么的，看看会不会晕
-
-
-
 
 Steven: 09-20 20:39:17
 
 那么你们正式开启了战斗
 
-
-
-
 修林: 09-20 20:39:27
-
-
-
 
 Steven: 09-20 20:39:30
 
 这个河马的打手有七十五点血，总共
 
-
-
-
 Steven: 09-20 20:39:37
 
 ac12
-
-
-
 
 修林: 09-20 20:40:03
 
 （有偷袭轮嘛？）
 
-
-
-
 Steven: 09-20 20:40:13
 
 可以
-
-
-
 
 Steven: 09-20 20:40:17
 
 （你们当前就是偷袭
 
-
-
-
 Steven: 09-20 20:40:36
 
 还有谁要动的吗？
-
-
-
 
 木夕儿: 09-20 20:40:46
 
 （啊）
 
-
-
-
 木夕儿: 09-20 20:40:56
 
 （难道打晕不是我理解的打晕吗）
-
-
-
 
 Steven: 09-20 20:41:18
 
 （因为我没有想严格的去战斗去算[捂脸]
 
-
-
-
 木夕儿: 09-20 20:41:26
 
 （打晕难道不是清空生命值或者让他丧失意识吗）
-
-
-
 
 木夕儿: 09-20 20:41:34
 
 （那现在也可以这么算呀）
 
-
-
-
 Steven: 09-20 20:41:37
 
 （当然这个是最严格的这个是对的
-
-
-
 
 Steven: 09-20 20:42:00
 
 （那既然这样了，咱们就战斗
 
-
-
-
 Steven: 09-20 20:42:26
 
 （目前你们打了28 75-28=47
 
-
-
-
 Steven: 09-20 20:42:51
 
 .ri+2河马打手
-
-
-
 
 阿芙娜: 09-20 20:42:52
 
@@ -20020,29 +14880,17 @@ Steven: 09-20 20:42:51
 
 1. 河马打手: 11+2=13
 
-
-
-
 修林: 09-20 20:43:17
 
 （奥术飞弹原来不是必中嘛？）
-
-
-
 
 Steven: 09-20 20:43:33
 
 大家投先攻吧
 
-
-
-
 修林: 09-20 20:43:34
 
 .ri
-
-
-
 
 阿芙娜: 09-20 20:43:36
 
@@ -20050,71 +14898,41 @@ Steven: 09-20 20:43:33
 
 1. 奈瓦拉-阿玛斯塔夏: 6
 
-
-
-
 Steven: 09-20 20:43:36
 
 （因为他用的不是魔法飞弹
-
-
-
 
 Steven: 09-20 20:43:47
 
 （他用的是吉米黑魔法水弹
 
-
-
-
 咸鱼之提督: 09-20 20:43:49
 
 #睡觉
-
-
-
 
 Steven: 09-20 20:43:52
 
 （这个是要过鉴定
 
-
-
-
 咸鱼之提督: 09-20 20:43:58
 
 （还花钱）
-
-
-
 
 咸鱼之提督: 09-20 20:44:06
 
 （打一次1金币）
 
-
-
-
 Steven: 09-20 20:44:08
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 （你难道没有任何价值吗？话说
-
-
-
 
 Steven: 09-20 20:44:16
 
 （加值
 
-
-
-
 :D: 09-20 20:44:22
 
 .ri+6
-
-
-
 
 阿芙娜: 09-20 20:44:23
 
@@ -20122,50 +14940,29 @@ Steven: 09-20 20:44:16
 
 1. 罗兰_hp5/26_ac12dc14先6二0/3一0/4时0/2往2/2: 10+6=16
 
-
-
-
 修林: 09-20 20:44:24
 
 （我应该有什么加值吗....？）
-
-
-
 
 Steven: 09-20 20:44:51
 
 （查看你卡片上的先攻，上面告诉你有多少价值
 
-
-
-
 木夕儿: 09-20 20:44:53
 
 （狂宴手风琴？有没有加值）
-
-
-
 
 修林: 09-20 20:44:56
 
 （+4）
 
-
-
-
 木夕儿: 09-20 20:45:08
 
 （哦先攻加值）
 
-
-
-
 木夕儿: 09-20 20:45:24
 
 。ri+1
-
-
-
 
 阿芙娜: 09-20 20:45:29
 
@@ -20173,29 +14970,17 @@ Steven: 09-20 20:44:51
 
 1. 隆金_AC17_HP_46/46_DC12: 3+1=4
 
-
-
-
 修林: 09-20 20:45:36
 
 （还有高手）
-
-
-
 
 Steven: 09-20 20:45:39
 
 （那你就。ri+4
 
-
-
-
 修林: 09-20 20:46:15
 
 .ri+4
-
-
-
 
 阿芙娜: 09-20 20:46:16
 
@@ -20203,55 +14988,31 @@ Steven: 09-20 20:45:39
 
 1. 奈瓦拉-阿玛斯塔夏: 5+4=9
 
-
-
-
 咸鱼之提督: 09-20 20:46:17
 
 （只有敏捷）
 
-
-
-
 咸鱼之提督: 09-20 20:46:22
-
-
-
 
 修林: 09-20 20:46:34
 
 （今日不宜扔骰子❌）
 
-
-
-
 咸鱼之提督: 09-20 20:46:36
 
 （敏捷和不知道算不算的万事通）
-
-
-
 
 Steven: 09-20 20:47:01
 
 （万事通是算的
 
-
-
-
 修林: 09-20 20:48:00
 
 （那就是敏捷+3万事通+1）
 
-
-
-
 Steven: 09-20 20:48:14
 
 。init
-
-
-
 
 阿芙娜: 09-20 20:48:16
 
@@ -20267,36 +15028,21 @@ Steven: 09-20 20:48:14
 
 当前回合：罗兰_hp5/26_ac12dc14先6二0/3一0/4时0/2往2/2
 
-
-
-
 Steven: 09-20 20:48:24
 
 那现在来到了罗兰的回合
-
-
-
 
 Steven: 09-20 20:48:34
 
 很显然，这只盒马人被你们打懵了，现在正在处于呆滞状态
 
-
-
-
 :D: 09-20 20:49:07
 
 ＃挥手三发炽热射线射向盒马
 
-
-
-
 :D: 09-20 20:49:31
 
 .r3#1d20+6
-
-
-
 
 阿芙娜: 09-20 20:49:33
 
@@ -20308,50 +15054,29 @@ Steven: 09-20 20:48:34
 
 1d20+6=9+6=15
 
-
-
-
 :D: 09-20 20:49:41
 
 （重击！）
-
-
-
 
 Steven: 09-20 20:51:57
 
 那你骰伤害呀
 
-
-
-
 :D: 09-20 20:52:06
 
 （中几个啊）
-
-
-
 
 Steven: 09-20 20:52:13
 
 （AC已经告诉你们了
 
-
-
-
 Steven: 09-20 20:52:15
 
 （12
 
-
-
-
 Steven: 09-20 20:52:21
 
 （所以都中了
-
-
-
 
 阿芙娜: 09-20 20:52:43
 
@@ -20363,29 +15088,17 @@ Steven: 09-20 20:52:21
 
 2d6+4d6+2d6=10[2d6=4+6]+16[4d6=2+6+2+6]+11[2d6=6+5]=37
 
-
-
-
 :D: 09-20 20:52:57
 
 .r4d6
-
-
-
 
 阿芙娜: 09-20 20:52:58
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 4d6=15[4d6=3+4+3+5]=15
 
-
-
-
 :D: 09-20 20:53:04
 
 .r2#2d6
-
-
-
 
 阿芙娜: 09-20 20:53:05
 
@@ -20395,29 +15108,17 @@ Steven: 09-20 20:52:21
 
 2d6=8[2d6=4+4]=8
 
-
-
-
 Steven: 09-20 20:53:46
 
 那么目前75-28-32=15
-
-
-
 
 Steven: 09-20 20:53:53
 
 这只河马已经如风中残烛！
 
-
-
-
 Steven: 09-20 20:53:57
 
 .inited
-
-
-
 
 阿芙娜: 09-20 20:53:58
 
@@ -20427,36 +15128,21 @@ Steven: 09-20 20:53:57
 
 同时请【奈瓦拉-阿玛斯塔夏】@奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13做好准备
 
-
-
-
 Steven: 09-20 20:54:28
 
 （为什么你还叫ob[汪汪]
-
-
-
 
 修林: 09-20 20:54:54
 
 （不知道xd）
 
-
-
-
 Steven: 09-20 20:55:37
 
 那么这只河马掏出了他的火绳枪向罗兰砸去！
 
-
-
-
 Steven: 09-20 20:55:50
 
 .r2#d+6
-
-
-
 
 阿芙娜: 09-20 20:55:52
 
@@ -20466,85 +15152,49 @@ d+6=14[D20]+6=20
 
 d+6=5[D20]+6=11
 
-
-
-
 Steven: 09-20 20:56:04
 
 .rd10+4
-
-
-
 
 阿芙娜: 09-20 20:56:05
 
 &lt;布瑞尔岩招生办主任>掷出了 d10+4=7+4=11
 
-
-
-
 修林: 09-20 20:56:15
 
 （大残罗兰）
-
-
-
 
 Steven: 09-20 20:56:24
 
 那么罗兰受到了十一点钝击伤害的重创
 
-
-
-
 :D: 09-20 20:56:25
 
 ＃银光锐语
-
-
-
 
 Steven: 09-20 20:56:35
 
 （你确定要在这里用？
 
-
-
-
 Steven: 09-20 20:56:39
 
 （估计下一轮你们就结束了
-
-
-
 
 :D: 09-20 20:56:58
 
 （那我先大残一下）
 
-
-
-
 :D: 09-20 20:57:03
 
 （赫赫）
-
-
-
 
 Steven: 09-20 20:57:16
 
 。inited
 
-
-
-
 阿芙娜: 09-20 20:57:18
 
 提示: 当前故事的文本已经记录了 2000 条
-
-
-
 
 阿芙娜: 09-20 20:57:18
 
@@ -20554,155 +15204,89 @@ Steven: 09-20 20:57:16
 
 同时请【隆金_AC17_HP_46/46_DC12】@隆金 AC17 HP 46/46 DC12做好准备
 
-
-
-
 修林: 09-20 20:58:34
 
 #掏出匕首刺向对方的后背
-
-
-
 
 修林: 09-20 20:59:12
 
 （要脸，偷袭了还骂别人不太合适❌）
 
-
-
-
 Steven: 09-20 20:59:23
 
 （难绷
-
-
-
 
 Steven: 09-20 20:59:37
 
 （要脸的诗人[汪汪]
 
-
-
-
 修林: 09-20 21:00:57
 
 .rd+4
-
-
-
 
 阿芙娜: 09-20 21:01:00
 
 &lt;奈瓦拉-阿玛斯塔夏>掷出了 d+4=16[D20]+4=20
 
-
-
-
 修林: 09-20 21:01:31
 
 （伤害要算上敏捷加值吗？）
-
-
-
 
 木夕儿: 09-20 21:02:29
 
 （要）
 
-
-
-
 木夕儿: 09-20 21:02:40
 
 （但是不加熟练加值）
-
-
-
 
 阿芙娜: 09-20 21:03:22
 
 &lt;奈瓦拉-阿玛斯塔夏>掷出了 d+3=9[D20]+3=12
 
-
-
-
 修林: 09-20 21:03:28
 
 .rd4+3
-
-
-
 
 阿芙娜: 09-20 21:03:29
 
 &lt;奈瓦拉-阿玛斯塔夏>掷出了 d4+3=4+3=7
 
-
-
-
 Steven: 09-20 21:03:48
 
 那么目前75-28-32-7=8
-
-
-
 
 修林: 09-20 21:04:11
 
 （用匕首伤害比骂人高#目移）
 
-
-
-
 修林: 09-20 21:04:20
 
 （加油啊圣武士！）
-
-
-
 
 Steven: 09-20 21:04:30
 
 还有动作吗？
 
-
-
-
 修林: 09-20 21:05:08
 
 （没有了）
-
-
-
 
 Steven: 09-20 21:05:17
 
 （那就可以发。inited
 
-
-
-
 Steven: 09-20 21:05:21
 
 （这样的话就跳转到下一个
-
-
-
 
 咸鱼之提督: 09-20 21:05:34
 
 （#安眠）
 
-
-
-
 修林: 09-20 21:05:34
 
 .inited
-
-
-
 
 阿芙娜: 09-20 21:05:38
 
@@ -20712,15 +15296,9 @@ Steven: 09-20 21:05:21
 
 同时请【罗兰_hp5/26_ac12dc14先6二0/3一0/4时0/2往2/2】@罗兰 hp26/26 ac12dc14先6二3/3一3/4时2/2往2/2做好准备
 
-
-
-
 咸鱼之提督: 09-20 21:05:46
 
 （.init end）
-
-
-
 
 木夕儿: 09-20 21:06:02
 
@@ -20730,99 +15308,57 @@ Steven: 09-20 21:05:21
 
 （不过好像也行）
 
-
-
-
 咸鱼之提督: 09-20 21:06:13
 
 （#看关键词检测）
-
-
-
 
 木夕儿: 09-20 21:06:16
 
 。rd+7
 
-
-
-
 阿芙娜: 09-20 21:06:18
 
 &lt;隆金 AC17 HP 46/46 DC12>掷出了 d+7=7[D20]+7=14
-
-
-
 
 木夕儿: 09-20 21:06:33
 
 （这次用拳头的）
 
-
-
-
 Steven: 09-20 21:06:35
 
 （你那个是完整版，我们都嫌太长了，我记得好像有的骰子。ed都行
-
-
-
 
 木夕儿: 09-20 21:06:41
 
 。r2d8+6
 
-
-
-
 阿芙娜: 09-20 21:06:43
 
 &lt;隆金 AC17 HP 46/46 DC12>掷出了 2d8+6=12[2d8=4+8]+6=18
-
-
-
 
 木夕儿: 09-20 21:06:54
 
 （好了，用拳头打出至圣斩）
 
-
-
-
 修林: 09-20 21:06:54
 
 （恐怖）
-
-
-
 
 修林: 09-20 21:07:03
 
 （为什么拳头有2d8）
 
-
-
-
 木夕儿: 09-20 21:07:06
 
 （确切的说，用天生武器，牛角）
-
-
-
 
 Steven: 09-20 21:07:31
 
 那个击杀吗？
 
-
-
-
 修林: 09-20 21:07:33
 
 （心灵匕首都才2d8❌bushi）
-
-
-
 
 木夕儿: 09-20 21:07:42
 
@@ -20832,148 +15368,85 @@ Steven: 09-20 21:07:31
 
 （原来是这样啊）
 
-
-
-
 木夕儿: 09-20 21:08:14
 
 （但是我的牛角可以当做天生武器进行徒手打击，也就是变成1d6）
-
-
-
 
 木夕儿: 09-20 21:08:20
 
 （实际上可以更高）
 
-
-
-
 木夕儿: 09-20 21:08:26
 
 （击晕）
-
-
-
 
 Steven: 09-20 21:08:33
 
 （额。。。理论上来说，根据威士忌的说法，天生武器好像是不能发射至圣栈的
 
-
-
-
 木夕儿: 09-20 21:08:37
 
 （诗人不是要挑起内战吗）
-
-
-
 
 Steven: 09-20 21:08:38
 
 （不过，我不在意就是
 
-
-
-
 修林: 09-20 21:08:58
 
 （看到我们动手了还能骗吗）
-
-
-
 
 Steven: 09-20 21:09:00
 
 （其实你不消耗，这一发估计伤害也够
 
-
-
-
 咸鱼之提督: 09-20 21:09:08
 
 #休眠人员
-
-
-
 
 Steven: 09-20 21:09:11
 
 那么最后一个带着神光的牛角结束了战场
 
-
-
-
 Steven: 09-20 21:09:17
 
 河马彻底昏死了过去
-
-
-
 
 Steven: 09-20 21:09:27
 
 不过他在沉睡之前，确实也看到了你们的脸
 
-
-
-
 木夕儿: 09-20 21:10:19
 
 （那果然还是杀了？）
-
-
-
 
 Steven: 09-20 21:10:53
 
 他看到的，他在一个巨大的太空仓鼠的诱骗下，被一群海贼和牛头给杀死了
 
-
-
-
 木夕儿: 09-20 21:11:41
 
 （坏了）
-
-
-
 
 木夕儿: 09-20 21:11:47
 
 （我这个牛头太明显了）
 
-
-
-
 咸鱼之提督: 09-20 21:12:12
 
 #旁边睡大觉的卓尔精灵
-
-
-
 
 Steven: 09-20 21:12:21
 
 是的，而且你们这一幕啊，也是被他们刚才海关的小弟们看到的。总之如果这个头目死了的话，那么小弟们看到他最后一刻的事情，就是他带着你们去了一个神秘的小巷
 
-
-
-
 修林: 09-20 21:12:30
 
 扒光他的衣服，带走所有东西，随意地把他扔在角落，随后沾点他的血液在地上留下一个潦草但清晰的符号——三只正在被抛起的杂耍棍，招呼队友扬长而去
 
-
-
-
 修林: 09-20 21:13:12
 
 （仓鼠被通缉关精灵什么事，反正本体也在被通缉，债多不压身）
-
-
-
 
 修林: 09-20 21:14:06
 
@@ -21649,62 +16122,35 @@ Steven: 09-20 21:12:21
 
 （两三个小时内没人追上来我们就换装跑路了）
 
-
-
-
 木夕儿: 09-20 21:15:18
 
 “干的很熟练嘛，之前干过多少次了？”
 
-
-
-
 咸鱼之提督: 09-20 21:15:31
-
-
-
 
 咸鱼之提督: 09-20 21:15:38
 
 （发光牛角（嘘））
 
-
-
-
 Steven: 09-20 21:15:59
 
 那么你们回收了自己的200金币，还有那串叮当作响的仓库钥匙，还有他手持的火神枪都被你们尽数收入囊中
-
-
-
 
 修林: 09-20 21:16:09
 
 “出门在外总得有点一技之长，我来星界这么久可从没没有付过钱”#顺便连底裤也不给他留！这个可恶的混蛋居然敢嘲笑太空仓鼠！这个目光狭隘的混蛋
 
-
-
-
 Steven: 09-20 21:16:10
 
 小巷里的血腥味很快就会引来注意。你们必须立刻离开这里。
-
-
-
 
 修林: 09-20 21:17:50
 
 “好了，不能多待，我们赶紧走！”#把沾血迹的衣服扔到与逃跑路线相反的方向，，用魔法伎俩清理干净附近的气味和血迹，加快速度朝着舞台赶去
 
-
-
-
 Steven: 09-20 21:17:51
 
 你们的下一个目的地是哪里？是按原计划前往“星光舞台”，直面你们刚刚陷害的对象？还是另寻他处？
-
-
-
 
 木夕儿: 09-20 21:17:57
 
@@ -21871,372 +16317,213 @@ DM，你指出的这几个问题非常精准，它们确实是当前剧情的逻
 
 “这把火枪看着不错诶，诗人小姐，你会用火枪吗？”
 
-
-
-
 修林: 09-20 21:18:25
 
 “我应该会？”#不太确定地边交流边赶路
-
-
-
 
 Steven: 09-20 21:18:32
 
 (你为什么会呀？
 
-
-
-
 Steven: 09-20 21:18:52
 
 火绳枪Musket。远程武器攻击：命中+4，射程40/120尺，单一目标，伤害：8（1d12+2）点穿刺伤害。
-
-
-
 
 Steven: 09-20 21:19:22
 
 (这个是盒马人的这个动作的数据啊，这这个具体价值肯定是重新算他大概这个意思
 
-
-
-
 咸鱼之提督: 09-20 21:19:42
 
 （如果是指不吃熟练加值单纯耍的话是可以耍（））
-
-
-
 
 咸鱼之提督: 09-20 21:19:59
 
 （不吃熟练加值命中只有属性调整本身）
 
-
-
-
 :D: 09-20 21:20:04
 
 “真是一场酣畅淋漓的战斗吔”
-
-
-
 
 修林: 09-20 21:20:21
 
 （我显然没有军用武器熟练）
 
-
-
-
 咸鱼之提督: 09-20 21:20:33
 
 （要专门的火器熟练项）
-
-
-
 
 咸鱼之提督: 09-20 21:20:38
 
 （是第三类）
 
-
-
-
 咸鱼之提督: 09-20 21:20:43
 
 [摸摸头]
-
-
-
 
 修林: 09-20 21:20:44
 
 （哦！）
 
-
-
-
 修林: 09-20 21:20:46
 
 （居然！）
-
-
-
 
 修林: 09-20 21:20:51
 
 （那就更没有了xd）
 
-
-
-
 修林: 09-20 21:21:04
 
 （总之拉着熟睡的队友先去舞台避避吧）
-
-
-
 
 咸鱼之提督: 09-20 21:21:37
 
 （#垂死病中惊坐起）
 
-
-
-
 咸鱼之提督: 09-20 21:21:47
 
 （我想起来忘了什么了）
-
-
-
 
 咸鱼之提督: 09-20 21:22:15
 
 （我仓库拿的u盘还没找电脑插一下查询资料呢（））
 
-
-
-
 咸鱼之提督: 09-20 21:22:36
 
 （#列入待做名单）
-
-
-
 
 Steven: 09-20 21:22:44
 
 (你别说这事儿我都忘了
 
-
-
-
 Steven: 09-20 21:22:57
 
 (哎，不过 u 盘那条线现在已经没有了
-
-
-
 
 Steven: 09-20 21:23:06
 
 (原本是把他要安给那个当时那个新人星界精灵的，现在这条线完全被砍掉了
 
-
-
-
 咸鱼之提督: 09-20 21:23:15
 
 （那就影响不大）
-
-
-
 
 Steven: 09-20 21:23:18
 
 (悲啊，真的是，那你还是准备很详实的
 
-
-
-
 咸鱼之提督: 09-20 21:23:49
 
 （#每天都有事干的器械本器）
-
-
-
 
 Steven: 09-20 21:24:07
 
 好的，那你们立马离开了这个是非之地，继续向着中城去走去
 
-
-
-
 Steven: 09-20 21:24:30
 
 你们离开的低城区，发现这个风景啊真是突变。低城区是混乱贫穷的代名词
-
-
-
 
 Steven: 09-20 21:25:33
 
 而中城区呢就看起来整洁多了，这个有举世闻名的大市场，是当地最大的集贸市场，对吧？而且部队而言，正好又在各个商路的航线上往来频繁，各种各样奇妙的商场，奇妙的商品都能看到。还有民兵团组织、呃，红面罩组织，还有星普馆边缘、酒馆地牢，各种设施一应俱全。对了，魔法师工会，以及还有你咱们的学院总部也在中城区
 
-
-
-
 Steven: 09-20 21:26:23
 
 脚下的石板路也变得平整起来，周围的建筑不再是杂乱无章的棚屋，而是有了统一规划的石制楼房。你们看到了装备精良的瓦尔坎军团（Valkan's Legion）佣兵在街上巡逻，看到了衣着光鲜的商人和学者进出着法师公会和艾尔曼达星图店。空气中，低城区的鱼腥味和汗臭味，被香料和金属锻造的味道所取代。
-
-
-
 
 Steven: 09-20 21:26:50
 
 。rd6
 
-
-
-
 阿芙娜: 09-20 21:26:52
 
 &lt;布瑞尔岩招生办主任>掷出了 d6=4
-
-
-
 
 Steven: 09-20 21:27:05
 
 .rd6
 
-
-
-
 阿芙娜: 09-20 21:27:07
 
 &lt;布瑞尔岩招生办主任>掷出了 d6=2
-
-
-
 
 Steven: 09-20 21:27:47
 
 那么在一条小巷的墙壁上，你们看到了一副新的涂鸦：一个用红色颜料画的、愤怒的公牛头潦草地覆盖在了一个用粉笔画的三球杂耍图案之上。
 
-
-
-
 Steven: 09-20 21:27:58
 
 看来这个城中的局势还真是混乱无比啊
-
-
-
 
 咸鱼之提督: 09-20 21:28:38
 
 #睡觉人 睡觉魂
 
-
-
-
 咸鱼之提督: 09-20 21:29:06
 
 #绿色有角三倍速驾驶员
-
-
-
 
 Steven: 09-20 21:29:35
 
 就在这个时候,一队装备精良、表情冷酷的亲王卫队士兵从你们身边走过。
 
-
-
-
 修林: 09-20 21:29:44
 
 #回忆一下公牛头代表的哪个组织？
-
-
-
 
 Steven: 09-20 21:30:19
 
 公牛所代表的是中城区特有的红面具帮组织
 
-
-
-
 Steven: 09-20 21:30:30
 
 总而言之，这不是一个像奥扎马塔那样的影子大亨影响力巨大的组织
-
-
-
 
 Steven: 09-20 21:30:44
 
 红面具帮只是一群为了争夺岩石地盘斗殴的年轻小混混
 
-
-
-
 Steven: 09-20 21:31:12
 
 不过，近些年势头正猛似由取代杂耍者变成第五影子大亨的趋势，所有人都戴着面具，也不知道长什么样，也不知道首领是谁。据说他们的总部藏在某一个酒馆的地窖里
-
-
-
 
 Steven: 09-20 21:32:15
 
 就在这个时候,一队装备精良、表情冷酷的亲王卫队士兵从你们身边走过。
 
-
-
-
 Steven: 09-20 21:32:36
 
 但是他们并没有盘查路人，而是径直走向了低城区的坠机现场方向。
-
-
-
 
 Steven: 09-20 21:32:44
 
 看起来你们的事迹真是声名远扬啊
 
-
-
-
 Steven: 09-20 21:32:53
 
 不过你们每个人都做的十足的伪装，基本上他没有认出你来
-
-
-
 
 Steven: 09-20 21:33:33
 
 那么你们经过七拐八拐，终于找到了那座那座挂着褪色招牌的小剧院
 
-
-
-
 Steven: 09-20 21:33:57
 
 “星光舞台”看起来毫不起眼，甚至有些破败。入口处挂着过时的海报，门廊下坐着几个无所事事的街头艺人。这里完全不像一个能与奥扎马塔抗衡的势力总部。
-
-
-
 
 Steven: 09-20 21:34:28
 
 你们推门而入,里面光线昏暗，充满了灰尘和旧道具的味道。
 
-
-
-
 Steven: 09-20 21:34:49
 
 舞台上，几个演员正在排练，一个穿着导演马甲、留着火红色短发的精灵女性——琪莉娅——正叉着腰，毫不留情地批评着他们的表演。她眼神锐利，气质干练，更像一个剑客而非艺术家。
 
-
-
-
 咸鱼之提督: 09-20 21:37:01
 
 （#卓尔妖精睡觉）
-
-
-
 
 哎，我觉得你这个这个摄影都非常不错，就按你说的办。我觉得你想的太好了。然后他们现在正在正正在刚进入这个呃舞台了啊。呃，我我前面给你发的这些都是咱们的历史，让你知道咱们进行的哪里了，你就不用再重复再重复描写了。我们刚才一样，前面有我都不用再说了啊，这个这这是第一个。然后你想想咱们怎么去扮演这个这个小丑，就是绮利亚。我觉得啊咱们可以采取这个，就是第一个他肯定是很欣赏这个这个嫁祸的问题，但是呢他还是想要面试一下，对吧？所以咱们可以再给方案。二，那个办法就是他特别谨慎，假装什么都不知道，对吧？用各种巧妙的言辞和试探，咱们可以正好可以跟雄辩诗人奈瓦拉最近一场精彩的交锋，对吧？对吧？然后去试探你们真正的水平。等到无论是哪一方被识破，哪一方聊不下去了，他才说哦，其实你们我早知道你们怎么回事，但是我很欣赏你在台上面试你们一下，然后再自己怎么怎么样，对吧？我觉得这个非常不错，而且根据你下一个说的问题，一问题二都是非常好的内容，对吧？确实是很合理，对吧？肯定是首先这个这个有个仓鼠这个肯定很不对劲，但是牛头人是个重点突破点，所以就会有人去找牛头人是怎么回事，对吧？我觉得非常好，包括亲亲王卫队也扯起来，还是非常不错的啊。对，这里边其实还可以牵扯上红面具帮，对吧？他不也是和杂种的敌对关，而且最后还有第4个大亨那个那个神秘的不可知者，就是那个夺心魔，说不定你对嘴个神份有什么保存，因为有有有什么表现。因为如果这几个方派真的全面开战了，战战那就一片混乱，对吧？那他的德心魔大业就得以进展，所以那个也是可以有所反应的。不过那个人在洞窟里边确实可能信息稍微会慢一点。对吧到等到时候他们进的下水道去去找那个恐怖钟表的时候，哎，这事就可以拿出来说到了啊，咱们先关注于当前的内容，好吧，然后这者还有一个问题，你帮我想一想啊，你先回答这个问，就是咱们到现在目前过了几个小时，从这个呃那个谁呃兔子人开始睡觉，他至少睡6个小时。但是他现在已经有相当长的时间，没有参与我们的跑团了。这个如果他继续睡下去的话，我感觉这个玩家可能有点挫败。但是他不睡的话，他他他零状态还带着一集力竭，这确实没法玩而已，对吧？
 木夕儿: 09-20 21:17:57
@@ -22434,36 +16721,21 @@ Steven: 09-20 21:34:49
 
 （#卓尔妖精睡觉）
 
-
-
-
 Steven: 09-20 21:39:23
 
 嗯，你们要怎么做呢？
-
-
-
 
 咸鱼之提督: 09-20 21:39:30
 
 #睡觉
 
-
-
-
 Steven: 09-20 21:39:40
 
 (楽
 
-
-
-
 修林: 09-20 21:39:46
 
 （睡觉仙人！）
-
-
-
 
 修林: 09-20 21:40:18
 
@@ -22552,218 +16824,125 @@ Steven: 09-20 21:39:40
 
 #尝试判断一下台上各人的表演水平
 
-
-
-
 木夕儿: 09-20 21:42:00
 
 “你就是琪莉娅？看上去不像是个演员，更像是个剑士！”隆金站出来
-
-
-
 
 Steven: 09-20 21:42:22
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 那么你通过一次呃，表演或者洞悉鉴定
 
-
-
-
 Steven: 09-20 21:42:35
 
 @猎颅 ac18 hp31/31 dc14 你别睡了，你给我起来！[汪汪]
-
-
-
 
 Steven: 09-20 21:42:50
 
 猎颅，当你倒在板车上，沉沉睡去，但是你并没有陷入一片黑暗。
 
-
-
-
 Steven: 09-20 21:43:02
 
 一股清凉的、不属于你的意识，轻柔地将你的感知从疲惫的身体中“拉”了出来。
-
-
-
 
 Steven: 09-20 21:43:12
 
 你的视野豁然开朗，但眼前的景象却有些奇特：
 
-
-
-
 咸鱼之提督: 09-20 21:43:16
 
 （干什么干什么 我要睡觉）
-
-
-
 
 修林: 09-20 21:43:17
 
 .ra表演
 
-
-
-
 阿芙娜: 09-20 21:43:19
 
 &lt;奈瓦拉-阿玛斯塔夏>的"表演"检定（DND5E）结果为: 7[d20] + 12[魅力调整值5+表演7] = 19
-
-
-
 
 Steven: 09-20 21:43:21
 
 你正漂浮在半空中，紧跟在你的同伴们身后，但你没有实体，如同一个无形的幽灵。你看到了奈瓦拉、隆金和罗兰的背影，看到了他们正走进一座破旧的剧院。
 
-
-
-
 咸鱼之提督: 09-20 21:43:26
 
 #无奈
-
-
-
 
 Steven: 09-20 21:43:38
 
 这个世界对你来说，既熟悉又陌生。颜色比你记忆中的更鲜艳，声音则像是隔着一层水晶传来，有些沉闷但异常清晰。这是斯札瑞絲的视角
 
-
-
-
 Steven: 09-20 21:44:23
 
 你明白了，这肯定又是斯扎瑞斯搞个鬼，他不满足于这么大好的时光，大好的冒险却在沉沉睡去
-
-
-
 
 咸鱼之提督: 09-20 21:44:25
 
 【我的瑞丝呢 我还没享受好驾驶员的感觉 不对 我现在是什么状态】#思考者姿态
 
-
-
-
 Steven: 09-20 21:44:35
 
 斯札瑞絲可以从“古灵精怪枪”中投射出一部分自己的意识，形成一个无形的、不可触碰的灵能感官。这就像一个隐形的、由她亲自操控的“魔宠
-
-
-
 
 Steven: 09-20 21:45:06
 
 猎颅，你现在是“斯札瑞絲的感官”，一个隐形的、不可触碰的侦察单位。
 
-
-
-
 Steven: 09-20 21:45:11
 
 你可以看到和听到队伍周围发生的一切。
-
-
-
 
 Steven: 09-20 21:45:15
 
 你所感知到的一切，都会以混乱、象征性的梦境形式，实时传递给你正在沉睡的肉体。
 
-
-
-
 Steven: 09-20 21:45:26
 
 你也可以尝试将一句简短的话语（不超过五个词），传递给你身边的队友，但这会像一阵无法溯源的、几乎会被忽略的耳语。
-
-
-
 
 Steven: 09-20 21:45:52
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 那么你发现了这里边好像确实不太对劲的样子
 
-
-
-
 咸鱼之提督: 09-20 21:45:55
 
 #在半空中傲游蠕动身躯翻滚穿梭
-
-
-
 
 Steven: 09-20 21:46:03
 
 台上的演员虽然在念着三流的台词，做着夸张可笑的动作，但他们的基本功——步法、站位、气息控制——都精准得可怕。他们不是在“表演烂”，而是在完美地扮演一群烂演员
 
-
-
-
 咸鱼之提督: 09-20 21:46:09
 
 #试着看看最远能飞离身体多远
-
-
-
 
 Steven: 09-20 21:46:12
 
 这根本不是一个濒临倒闭的剧团，而是一个训练有素、纪律严明的组织，在故意示弱。这个发现让你心中警铃大作。
 
-
-
-
 Steven: 09-20 21:47:18
 
 你发现当你离你的身体超过120尺的时候，仿佛会有一堵无形的墙，把你自己瞬移回来了
-
-
-
 
 咸鱼之提督: 09-20 21:47:53
 
 #半空中飘荡着180℃翻转看着颠倒过来的世界
 
-
-
-
 咸鱼之提督: 09-20 21:48:10
 
 【哦～真是新奇的视角】
-
-
-
 
 Steven: 09-20 21:49:18
 
 @隆金 AC17 HP 46/46 DC12 听到了你的话，琪莉娅叫停排练，饶有兴致地向你们走来。她的眼神在你们身上（特别是隆金的牛角和奈瓦拉的仓鼠形态）扫过，带着一丝玩味。
 
-
-
-
 Steven: 09-20 21:49:27
 
 “新面孔。看你们的样子，不像来买票的。说吧，你们是来找麻烦的，还是来……找工作的？”
 
-
-
-
 咸鱼之提督: 09-20 21:50:07
 
 #跑去地底下开始钻研地下生命的奥秘的猎颅
-
-
-
 
 木夕儿: 09-20 21:50:22
 
@@ -22909,125 +17088,71 @@ DM专栏：琪莉娅的“试镜”任务版
 
 #跑去地底下开始钻研地下生命的奥秘的猎颅
 
-
-
-
 木夕儿: 09-20 21:50:22
 
 “来交朋友的。”隆金向琪莉娅伸出手
-
-
-
 
 修林: 09-20 21:52:35
 
 #跟在牛头人身后半步，扮演好一个无害的宠物太空仓鼠
 
-
-
-
 Steven: 09-20 21:53:12
 
 @隆金 AC17 HP 46/46 DC12 琪莉娅的嘴角勾起一抹玩味的笑容。她没有立刻与他握手，而是像一头优雅的猎豹一样，围绕着他踱了两步，锐利的目光将他从头到脚打量了一遍。
-
-
-
 
 Steven: 09-20 21:53:19
 
 “‘朋友’？”她重复道，语气充满了戏剧化的腔调，“这可是一个很重的词，牛头人先生。在我的剧团里，‘朋友’是一种需要用信任、才华和……共同利益来换取的宝贵角色。告诉我，你和你的朋友们，能为这出戏码带来什么样的‘共同利益’呢？”
 
-
-
-
 咸鱼之提督: 09-20 21:54:14
 
 #从地上缓缓地浮出思考着生命的形态
-
-
-
 
 Steven: 09-20 21:54:21
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 “一位吟游诗人，你不用藏了，我看得出来。但你身边的同伴可不像是普通的伴奏……一位牛头人和一位……嗯，‘大码’的仓鼠。真是个色彩斑斓的组合。是什么样的‘演出’，需要如此兴师动众？”
 
-
-
-
 Steven: 09-20 21:54:53
 
 猎颅，在你那疲惫的睡梦中，之前祥和的水晶图书馆景象开始扭曲、融化。取而代之的，是一个阴暗、压抑的地下世@猎颅 ac18 hp31/31 dc14
-
-
-
 
 Steven: 09-20 21:54:59
 
 你梦见自己漂浮在一个巨大的、由隧道和密室组成的迷宫里。
 
-
-
-
 Steven: 09-20 21:55:08
 
 你看到几个穿着戏服的“演员”，正在一个房间里默默地擦拭着锋利的淬毒匕首。
 
-
-
-
 咸鱼之提督: 09-20 21:55:08
-
-
-
 
 :D: 09-20 21:55:11
 
 “诗人？哪有卖场的？”
 
-
-
-
 Steven: 09-20 21:55:13
 
 你看到金币像河流一样，从一个暗门被搬运进来，堆积在一个巨大的铁箱里。
-
-
-
 
 Steven: 09-20 21:55:19
 
 你看到墙上挂着一张巨大的、详细的布莱尔岩地图，上面用不同颜色的线，标记着几大势力的地盘。其中，代表奥扎马塔的区域，被一个鲜红色的叉所贯穿。
 
-
-
-
 木夕儿: 09-20 21:56:28
 
 隆金用手按了按太阳穴：“真是麻烦啊，明明是你提出让我来这里交朋友的，那张被焚毁的纸条。”
-
-
-
 
 修林: 09-20 21:56:59
 
 “”#浮夸地点着脑袋
 
-
-
-
 木夕儿: 09-20 21:57:21
 
 “如果那张纸条是你写的，那就说明，你其实也看中了我们身上有利可图的地方，既然如此，就不必拿这种浮夸的表演挫我的锐气了。”
 
-
-
-
 木夕儿: 09-20 21:57:33
 
 “敞开天窗，说亮话。”
-
-
-
 
 咸鱼之提督: 09-20 21:57:51
 
@@ -23123,183 +17248,105 @@ Steven: 09-20 21:55:19
 
 哎，我打算把任务 ab 连到一起，我觉得毕竟都是差不多，正好可以外发更丰富一些，多么的有意思啊
 
-
-
-
 木夕儿: 09-20 21:58:18
 
 “演戏是小孩子都会的技能，但谈生意，可是成年人的专属。”
-
-
-
 
 Steven: 09-20 22:00:57
 
 那么你们几位都听到了，耳边似乎传出了若有若无的悠悠鬼叫什么，说着什么“地下室……奥扎马塔……剧团目标……”
 
-
-
-
 Steven: 09-20 22:01:11
 
 也不知道是从哪里传来的，你只看到板车上的卓尔精灵，好像翻了个身
-
-
-
 
 Steven: 09-20 22:01:34
 
 那么琪莉娅她的眼神瞬间变得锐利如刀
 
-
-
-
 Steven: 09-20 22:01:44
 
 她缓缓地、一下一下地鼓起掌来，清脆的掌声在空旷的剧院里回响
-
-
-
 
 Steven: 09-20 22:02:14
 
 “好了，‘演员们’，排练结束了。”她的目光扫过你们每一个人，甚至在隆金身后那片空无一人的地方停留了一瞬，“而且看来，你们还自带了‘提词人’。很有趣。”
 
-
-
-
 咸鱼之提督: 09-20 22:03:15
 
 #在空中翻滚着身躯
-
-
-
 
 Steven: 09-20 22:05:31
 
 她走到一张道具箱上坐下，翘起腿。
 
-
-
-
 修林: 09-20 22:05:42
 
 “一个能知晓秘密的眼耳，怎么想都比寻求庇护的囚徒有趣，不是吗？怎么样？要交朋友吗”
-
-
-
 
 Steven: 09-20 22:05:48
 
 “你说的对，牛头人先生。我邀请你们来，不是为了听诗歌朗诵。我的人在坠机现场看到了你们，看到了你们如何戏耍奥扎马塔的蠢货，也看到了你们在墙上留下的、我那可爱的小标记。”
 
-
-
-
 修林: 09-20 22:06:06
 
 （666开透了）
-
-
-
 
 Steven: 09-20 22:06:15
 
 “我欣赏懂得如何制造舞台效果的艺术家。你们的嫁祸手法虽然粗糙，但胆子够大，我很喜欢。不过，在我决定把你们当作‘朋友’还是‘可以随时丢掉的棋子’之前，我需要看看你们的真本事。我这里，正好有一个‘试镜’的机会。”
 
-
-
-
 Steven: 09-20 22:08:02
 
 ”奥扎马塔本人虽然被愤怒冲昏了头脑，但他手下并非全是蠢货。我的人告诉我，他们的高层虽然在准备报复，但也在暗中打听一个在坠机现场出现过的牛头人的消息。”
-
-
-
 
 咸鱼之提督: 09-20 22:08:03
 
 “饿饿 饭饭”#幽幽
 
-
-
-
 Steven: 09-20 22:08:12
 
 那么又一阵鬼叫传了过来
-
-
-
 
 Steven: 09-20 22:08:30
 
 琪莉娅也不得不皱了皱眉头
 
-
-
-
 Steven: 09-20 22:08:48
 
 （你们没人有互动的吗？[大怨种]
-
-
-
 
 咸鱼之提督: 09-20 22:09:25
 
 “眼魔……终将……背叛……”#幽幽
 
-
-
-
 咸鱼之提督: 09-20 22:09:28
 
 （不知道咧）
-
-
-
 
 咸鱼之提督: 09-20 22:09:31
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Pic\2025-09\Ori\c9110e82f05eb8c986ebb638bbb59bdc.png" />
 
-
-
-
 木夕儿: 09-20 22:09:45
 
 （什么）
-
-
-
 
 Steven: 09-20 22:10:09
 
 “不过这也是一个绝佳的诱饵，红面具帮最近从吉斯洋基人那里搞到了一批非法的灵能增强剂，就藏在他们在次级市场的一个秘密仓库里。我不要你们去偷，那太俗套了。我要你们潜进去，用我提供的这种特殊炼金染料，把他们所有的药剂都染成……彩虹色，再在墙上留下我们‘杂耍者’的记号。我要让全城的买家都知道，红面具帮的货是加了料的‘糖水’。”
 
-
-
-
 木夕儿: 09-20 22:10:10
 
 “看来我现在的样子还是太显眼了。”
-
-
-
 
 Steven: 09-20 22:10:35
 
 “顺便你再去红面具帮常去的一个酒馆里‘不经意地’露个面，并且‘不小心’透露出你和‘杂耍者’有联系的假消息。把奥扎马塔的怒火，引到那群小疯子身上去。”
 
-
-
-
 木夕儿: 09-20 22:11:12
 
 “不得不说，对我来说是个挑战，就算刨去我显眼的外表，我的身体也不是为了潜入而准备的。”
-
-
-
 
 咸鱼之提督: 09-20 22:11:50
 
@@ -23535,22 +17582,13 @@ Steven: 09-20 22:10:35
 
 她将手中的彩虹液体抛出划着一条抛物线，向着你们飞来
 
-
-
-
 ”赫，小丑的音乐品味太高了，那人们不就不来了吗？“琪莉娅朝你们wink一下，转身回到了后台
 
 那么你们接下来打算怎么办呢？
 
 “嘎嘎！”＃突然有开腔的欲望
 
-
-
-
 隆金稳稳接住这瓶不知道是什么的东西
-
-
-
 
 彩虹糖浆：
 
@@ -23560,13 +17598,7 @@ Steven: 09-20 22:10:35
 
 “如果不着急的话，能让我们的提词人参演就好了”#吐槽着打算离开
 
-
-
-
 #蠕动身躯
-
-
-
 
 （呃，人呢，你们接下来呢？
 
@@ -23574,26 +17606,11 @@ Steven: 09-20 22:10:35
 
 （人消失了）
 
-
-
-
-
-
-
-
-
-
 #蠕动身躯
-
-
-
 
 “人人 动动”
 
 @罗兰 hp15/26 ac12dc14先6二1/3一2/4时2/2往2/2 @隆金 AC17 HP 46/46 DC12 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13
-
-
-
 
 “兔兔 好吃”
 
@@ -23607,47 +17624,23 @@ Steven: 09-20 22:10:35
 
 （az
 
-
-
-
 （所以说诗人的问题还挺重要的）
 
 （急不急）
-
-
-
 
 （不急我们就长休）
 
 （急我们就先走了）
 
-
-
-
 “快冲”
-
-
-
-
-
-
 
 （没什么急不急的，你认为急也可以，你认为不急也可以。就是说你们的行为已经对于周围的好像造成一些影响了，你们再次不造成更多的影响，所以这个都行
 
 （可能唯一说有点急的吧，就是你们的船员在外面漂泊着，不知道在哪呢？那可能会有危胁，时间越长，你们的队友们越危险
 
-
-
-
 （喔，这个意思）
 
-
-
-
 （懂了）
-
-
-
 
 （与此同时呢，因为你们闯了不少祸，这时间越长呢，对你们的搜捕会更紧
 
@@ -23659,41 +17652,23 @@ Steven: 09-20 22:10:35
 
 .....
 
-
-
-
 那么你们离开了剧院
 
 （绿皮）
-
-
-
 
 又回到了中城区宽广的大街上
 
 你们接下来打算去哪里呢？
 
-
-
-
 你们有这几件事情要做。首先，number one 的主线任务，你们的目的是去 h 星球取回一块陨石，这是你们的核心任务
 
 只不过由于你们的中途途飞船出现了问题，你们迫降到了这个星球上，那么你们的第二大任就是去修飞船，但是你们的飞船被偷走了。所以你们要想办法去把飞船找回来，同时把飞船修好。也许可以增加一些防御系统，可以购买一些新的技术武器什么的
-
-
-
 
 第三，大任务就是你们的队友们被你们遗弃了，骗得不知去向，需要营救
 
 那第四大任务呢就是在快乐眼魔那里，大卢湾给你们推荐了一个叫做柏林石首的矮人工匠，他说可以帮助你们修飞船
 
-
-
-
 那么第五大任务就是你们要去处理杂耍者的试镜任务，以及还有你们的行为。显然已经惹怒了呃亲王卫队和奥马扎塔的势力，他们正在虎视眈眈的盯着你们
-
-
-
 
 那么第六大任务呢，就是你们之前飞船上放跑了的恐怖钟表，似乎跑到下水道里边
 
@@ -23715,31 +17690,19 @@ Steven: 09-20 22:10:35
 
 对于吃喝这方面，中城区的选择其实比低城区要多一些。这里面也有很多著名的酒馆比如说红面具总部，比如说边缘酒馆
 
-
-
-
 “我们不是来找飞船的吗”
 
 ＃挠头
 
 还有臭名昭著的大市场也是什么都有卖的，最不介议你们也许可以去地牢碰碰运气。比如说你们被逮捕了，你们肯定就包吃包住了[表情]
 
-
-
-
 “局面越混乱，对我们带走飞船越有利。”
 
 确实，局势越混乱，就越有于你们带走飞船，但是局势越混乱。那个角度上来说，对你们的学员们就越危险
 
-
-
-
 “如果把之前的布瑞尔岩比作一潭被亲王和四位副领主掌控的死水的话。”
 
 （你们别忘了，这个是你们的毕业论文任务。结果发现最后死了一个教授和3个学员，那个场景一定非常的美妙[表情][表情]
-
-
-
 
 “最后，是关于补刀和援救，补刀可以先放一放，如果没有太大变化的话，你们的援救目标应该还在公会附近，我们可以在偷袭时顺便营救，再苦一苦他们
 
@@ -23747,85 +17710,49 @@ Steven: 09-20 22:10:35
 
 “那么我们的到来，无异于搅动的整片水潭，但当水波被抚平，也就是其他派系达成了利益交换，那么整片布瑞尔岩都会联合起来对付我们。”
 
-
-
-
 木夕儿: 09-22 20:52:43
 
 “那么，我就先去酒馆里了，看看能不能顺利，祝你们武运昌隆吧。”
-
-
-
 
 咸鱼之提督: 09-22 20:52:44
 
 （快去干活）
 
-
-
-
 修林: 09-22 20:53:58
 
 “既然如此，那就兵分两路吧，祝各位好运....不过，在正式开始行动之前，最好先补充好精力...我们这边会看你们的动静来行动的”#挥手告别
-
-
-
 
 :D: 09-22 20:54:10
 
 “说的道理”
 
-
-
-
 :D: 09-22 20:54:15
 
 ＃点头
-
-
-
 
 Steven: 09-22 20:55:22
 
 那么为了展现剧情的紧张性，那么我们两条线接下来同时推进
 
-
-
-
 修林: 09-22 20:55:32
 
 （我和罗兰没什么战损，牛头人那边肯定有架打，最好还是长休一下）
-
-
-
 
 :D: 09-22 20:56:04
 
 （什么叫没有，我重伤倒地啊！我血流满地啊！）
 
-
-
-
 Steven: 09-22 20:56:05
 
 （其实我原本没安排战斗的，你们非要想找架打，当然是有架打的[汪汪]
-
-
-
 
 修林: 09-22 20:56:08
 
 （趁着这段时间可以去把厨子接回来）
 
-
-
-
 修林: 09-22 20:56:21
 
 （你不是不死者吗）
-
-
-
 
 :D: 09-22 20:56:33
 
@@ -23835,78 +17762,45 @@ Steven: 09-22 20:56:50
 
 （他现在死亡豁免有优势，而且只要等于16，直接自己站起来，所以跟不死没多大区别[汪汪]
 
-
-
-
 咸鱼之提督: 09-22 20:56:51
 
 #zzz
-
-
-
 
 Steven: 09-22 20:56:56
 
 （简直就是僵尸本尸[汪汪]
 
-
-
-
 咸鱼之提督: 09-22 20:57:06
 
 （僵尸本尸）
-
-
-
 
 :D: 09-22 20:57:16
 
 （气抖冷）
 
-
-
-
 Steven: 09-22 20:57:21
 
 那么目前就是，隆金孤身一人，独闯红面具，其他人都去仓库？
-
-
-
 
 :D: 09-22 20:57:28
 
 （我们复生者什么时候才能站起来）
 
-
-
-
 咸鱼之提督: 09-22 20:57:36
 
 #不知道被谁推去哪里的人
-
-
-
 
 咸鱼之提督: 09-22 20:57:43
 
 #睡大觉
 
-
-
-
 咸鱼之提督: 09-22 20:58:11
 
 #半空之中表演空中飞人三百六十度旋转观察世界
 
-
-
-
 咸鱼之提督: 09-22 20:58:46
 
 ［飞行的视角 瑞丝机体——］
-
-
-
 
 修林: 09-22 20:59:48
 
@@ -24108,78 +18002,45 @@ Steven: 09-22 20:56:50
 
 （他现在死亡豁免有优势，而且只要等于16，直接自己站起来，所以跟不死没多大区别[汪汪]
 
-
-
-
 咸鱼之提督: 09-22 20:56:51
 
 #zzz
-
-
-
 
 Steven: 09-22 20:56:56
 
 （简直就是僵尸本尸[汪汪]
 
-
-
-
 咸鱼之提督: 09-22 20:57:06
 
 （僵尸本尸）
-
-
-
 
 :D: 09-22 20:57:16
 
 （气抖冷）
 
-
-
-
 Steven: 09-22 20:57:21
 
 那么目前就是，隆金孤身一人，独闯红面具，其他人都去仓库？
-
-
-
 
 :D: 09-22 20:57:28
 
 （我们复生者什么时候才能站起来）
 
-
-
-
 咸鱼之提督: 09-22 20:57:36
 
 #不知道被谁推去哪里的人
-
-
-
 
 咸鱼之提督: 09-22 20:57:43
 
 #睡大觉
 
-
-
-
 咸鱼之提督: 09-22 20:58:11
 
 #半空之中表演空中飞人三百六十度旋转观察世界
 
-
-
-
 咸鱼之提督: 09-22 20:58:46
 
 ［飞行的视角 瑞丝机体——］
-
-
-
 
 修林: 09-22 20:59:48
 
@@ -24281,15 +18142,9 @@ Steven: 09-22 20:57:21
 
 “大块头，挺大的口气嘛”吧台后的“疤面”科林放下了手中的酒杯，冷冷地问道，“这里是红面具的地盘。你看起来……不像我们的人。
 
-
-
-
 Steven: 09-22 21:07:49
 
 这是一个典型的低端酒馆。空间不大，烟雾缭绕，空气中混合着廉价麦酒和汗水的味道。入口正对着一个长吧台，七八张摇摇晃晃的木桌随意摆放。角落里有一个小舞台，通常没人使用。后厨有一扇小门，厕所则在吧台的尽头。这里几乎没有藏身之处。
-
-
-
 
 木夕儿: 09-22 21:09:25
 
@@ -24359,41 +18214,23 @@ Steven: 09-22 21:12:29
 
 对了，你可以过一个察觉。如果你想的话
 
-
-
-
 木夕儿: 09-22 21:12:55
 
 “心血来潮，偶然路过。”
-
-
-
 
 木夕儿: 09-22 21:13:24
 
 “你知道，我是一个随性的人。”
 
-
-
-
 木夕儿: 09-22 21:13:54
 
 。rd 察觉
-
-
-
 
 初音未来（喜欢ver.）: 09-22 21:13:55
 
 由于察觉，戴尔掷出音符： d=2[D20]=2
 
-
-
-
 咸鱼之提督: 09-22 21:14:03
-
-
-
 
 Steven: 09-22 21:17:40
 
@@ -24401,71 +18238,41 @@ Steven: 09-22 21:17:40
 
 那么隆金你只是感觉好像这酒馆有什么东西，好像挺眼熟的。但是你这个念头11瞬间就消失了
 
-
-
-
 Steven: 09-22 21:19:28
 
 而且隆金那句“随性”的回答，显然没能让“疤面”科林满意。地精的脸上浮现出明显的不耐烦和怀疑。他“砰”的一声把一个空酒杯砸在吧台上，身体前倾，一只手已经摸到了吧台下面。
-
-
-
 
 Steven: 09-22 21:19:43
 
 “‘随性’？哈！”
 
-
-
-
 Steven: 09-22 21:19:50
 
 他发出一声刺耳的嗤笑
-
-
-
 
 Steven: 09-22 21:20:02
 
 “大块头，我的耐心是有限的。你这种体格的人，不会‘随性’地晃到红面具的地盘来。“
 
-
-
-
 Steven: 09-22 21:20:13
 
 ”你要么是来找人，要么是来找茬。现在，告诉我你的来意，否则我就叫弟兄们帮你‘体面’地从门口出去——脸朝下地出去。”
-
-
-
 
 Steven: 09-22 21:20:22
 
 酒馆里其他暴徒的目光也变得更加不善，纷纷停下了手里的动作，隐隐将隆金围在了中央，气氛剑拔弩张
 
-
-
-
 Steven: 09-22 21:20:49
 
 与此同时，在几条街区之外的另一条僻静后巷，奈瓦拉和罗兰正潜伏在阴影中，观察着红面具帮的仓库。
-
-
-
 
 Steven: 09-22 21:21:06
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 @罗兰 hp15/26 ac12dc14先6二1/3一2/4时2/2往2/2 你们的眼前，两名百无聊赖的红面具帮暴徒正坐在仓库门口的木箱上打牌，不时为了一张牌而争吵咒骂，完全没有注意到黑暗中潜藏的危险。
 
-
-
-
 Steven: 09-22 21:21:34
 
 你的梦境继续，……梦中的灰色方块外，两个人影正在为几张画着奇怪符号的纸片大声嚷嚷。方块内部，另外两个影子还在一圈圈地行走。而在那片闪着微光的箱子区域，那根发光的细线陷阱，安静地等待着它的猎物……
-
-
-
 
 Steven: 09-22 21:21:41
 
@@ -24475,36 +18282,21 @@ Steven: 09-22 21:21:41
 
 “咕咕…呼呼…卡牌……箱子……丝线陷阱……”
 
-
-
-
 咸鱼之提督: 09-22 21:28:17
 
 #幽幽鬼魂音
-
-
-
 
 修林: 09-22 21:28:25
 
 #示意队友等待自己的好消息，摇晃着胖乎乎的身体大摇大摆地往门口走
 
-
-
-
 木夕儿: 09-22 21:28:28
 
 “哦，别紧张，小个子。”隆金露出一个嘲讽的笑容
 
-
-
-
 木夕儿: 09-22 21:29:08
 
 “只是个玩笑，不是吗？”然后隆金用手指蘸了点口水，在柜台上慢慢悠悠的画了三根杂耍棍
-
-
-
 
 木夕儿: 09-22 21:29:31
 
@@ -24788,43 +18580,25 @@ DM判定 (DM Adjudication)：你根据他的描述，来决定这次行动需要
 
 “他还说让我跟你们讲，“酒馆有人闹事”，我不明白是什么意思，但是主人说把话带给大人，大人们会明白的”
 
-
-
-
 Steven: 09-22 21:39:03
 
 “啊。。。我。。”
-
-
-
 
 Steven: 09-22 21:39:15
 
 “好..我明白了?"
 
-
-
-
 Steven: 09-22 21:39:32
 
 守卫惊讶的合不拢嘴，结结巴巴的说
-
-
-
 
 Steven: 09-22 21:39:50
 
 "...不对，我不明白，作为一个仓鼠，你怎么能说话呢？"另一个人格斯脑子稍微快了一点
 
-
-
-
 咸鱼之提督: 09-22 21:40:06
 
 #蠕动身躯
-
-
-
 
 修林: 09-22 21:40:51
 
@@ -24832,29 +18606,17 @@ Steven: 09-22 21:39:50
 
 “但主人说过我是“稀罕的物件”
 
-
-
-
 Steven: 09-22 21:41:28
 
 "aa啊？。。难道。。应该。。？”
-
-
-
 
 Steven: 09-22 21:42:09
 
 似乎都能闻到在空气中弥散着 CPU 烧掉的焦糊
 
-
-
-
 修林: 09-22 21:42:36
 
 #那么就这样大眼瞪小眼
-
-
-
 
 木夕儿: 09-22 21:42:49
 
@@ -24951,50 +18713,29 @@ Steven: 09-22 21:42:09
 
 （这又不是什么需要大量人手的事情，难不成还要一瓶一瓶灌吗）（如果费劲的话那就招呼队友一起去吧）
 
-
-
-
 木夕儿: 09-22 21:54:27
 
 眼见战斗一触即发，隆金抓起眼前的空酒杯，虚晃一招砸向酒保。然后抓起那两个措手不及的守卫，揪住他们的领子，把他们头对头撞到一起。
-
-
-
 
 Steven: 09-22 21:54:41
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 (啊，这也不是什么特别费劲的事儿，你你要不想也可以，不过其他人就没剧剧情这个事
 
-
-
-
 Steven: 09-22 21:55:50
 
 那么你出其不遇的举动获得的大成功!那两个守卫的脸，砰的一声就撞在了一起，鲜血横飞!
-
-
-
 
 Steven: 09-22 21:55:53
 
 最后不省人事的倒在了地上
 
-
-
-
 Steven: 09-22 21:56:04
 
 当前混乱度2/5
 
-
-
-
 木夕儿: 09-22 21:56:31
 
 “喂，你们怎么了，这里不让睡觉！”隆金露出恶劣的笑
-
-
-
 
 该到对方行动了
 #那就仿佛失去兴趣的仓鼠般毫无逻辑地转身离开，趁着对方发愣摇摇晃晃地钻仓库，找到那批灵能药剂，让这些危险物变成漂亮的彩虹糖水
@@ -25074,113 +18815,65 @@ Steven: 09-22 22:00:06
 
 那么龙军出其不意的跳起！
 
-
-
-
 木夕儿: 09-22 22:00:22
 
 跳起，踩头！
-
-
-
 
 Steven: 09-22 22:00:24
 
 成功跳到了桌子上面，没有受到影响，相反，桌子之接撞到了墙壁，让两个暴徒都有些拖地
 
-
-
-
 Steven: 09-22 22:01:01
 
 如果你是想用本回合的动作去踩敌人的头的话，那么需要经历一次体操鉴定
-
-
-
 
 Steven: 09-22 22:01:33
 
 。rd4
 
-
-
-
 阿芙娜: 09-22 22:01:34
 
 &lt;布瑞尔岩招生办主任>掷出了 d4=4
-
-
-
 
 Steven: 09-22 22:01:42
 
 与此同时
 
-
-
-
 木夕儿: 09-22 22:01:45
 
 。rd 体操
-
-
-
 
 阿芙娜: 09-22 22:01:49
 
 由于体操，&lt;隆金 AC17 HP 46/46 DC12>掷出了 d=16[D20]=16
 
-
-
-
 Steven: 09-22 22:01:59
 
 你看到“疤面”科林在一次攻击中用力过猛，把他那口昂贵的金牙打飞了出去！
-
-
-
 
 Steven: 09-22 22:02:08
 
 啊，现在柯林正在满地找牙发疯似的在地上寻找他的金牙
 
-
-
-
 Steven: 09-22 22:02:32
 
 那么隆金如同蜻蜓点水，两只脚直接踩在了那两个推桌子的暴徒头上
-
-
-
 
 木夕儿: 09-22 22:03:18
 
 （我这个体重，不应该直接把他们压在地上吗（）
 
-
-
-
 Steven: 09-22 22:03:28
 
 用两个暴徒瞬间失去平衡，向后仰倒，脸皱的如同丑橘一般开的，脸上仿佛开了杂货，肚咸的、酸的、辣的一股脑都出来了
-
-
-
 
 Steven: 09-22 22:03:42
 
 当前混乱度3/5
 
-
-
-
 木夕儿: 09-22 22:03:58
 
 “在找我吗，小个子？”
-
-
-
 
 Steven: 09-22 22:04:05
 
@@ -25366,232 +19059,133 @@ Steven: 09-22 22:04:05
 
 ＃站在兔子推车的连杠上，滑行——🦽
 
-
-
-
 木夕儿: 09-22 22:13:22
 
 “终结技要来啦！”
-
-
-
 
 木夕儿: 09-22 22:14:14
 
 隆金一记肘击
 
-
-
-
 Steven: 09-22 22:14:15
 
 那么当奈瓦拉的法师之手触碰到那三个贴有“吉斯洋基制品”标签的金属箱时
-
-
-
 
 Steven: 09-22 22:14:21
 
 一层微弱的、带着符文的魔法灵光在箱锁处一闪而过
 
-
-
-
 Steven: 09-22 22:14:33
 
 很显然，这些重要的货物，被红面具帮用简易的魔法锁给封住了
-
-
-
 
 Steven: 09-22 22:14:45
 
 另外其他人要打秋风的话，可以通过一个调查或者察觉
 
-
-
-
 Steven: 09-22 22:15:03
 
 @隆金 AC17 HP 46/46 DC12 攻击检定
-
-
-
 
 木夕儿: 09-22 22:15:26
 
 。rd+7
 
-
-
-
 阿芙娜: 09-22 22:15:28
 
 &lt;隆金 AC17 HP 46/46 DC12>掷出了 d+7=20[D20]+7=27
-
-
-
 
 修林: 09-22 22:15:42
 
 .ra察觉
 
-
-
-
 木夕儿: 09-22 22:15:43
 
 （这下真的终结技了）
-
-
-
 
 阿芙娜: 09-22 22:15:44
 
 &lt;奈瓦拉-阿玛斯塔夏>的"察觉"检定（DND5E）结果为: 17[d20] + 4[感知调整值1+察觉3] = 21
 
-
-
-
 木夕儿: 09-22 22:15:47
 
 [头槌]
-
-
-
 
 修林: 09-22 22:16:26
 
 （20！）
 
-
-
-
 木夕儿: 09-22 22:16:40
 
 （man！）
-
-
-
 
 修林: 09-22 22:16:51
 
 （@罗兰 hp15/26 ac12dc14先6二1/3一2/4时2/2往2/2 老法师，出来干活了）
 
-
-
-
 修林: 09-22 22:16:56
 
 （开个锁先）
-
-
-
 
 :D: 09-22 22:17:03
 
 .rd+6
 
-
-
-
 阿芙娜: 09-22 22:17:07
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+6=15[D20]+6=21
-
-
-
 
 Steven: 09-22 22:17:09
 
 那么隆金一记势大力沉的肘击，终结了这场混乱的战斗！
 
-
-
-
 Steven: 09-22 22:17:57
 
 这几肘机正中“疤面”在心窝，吐出一口老血，随即不省人事
-
-
-
 
 Steven: 09-22 22:18:12
 
 与此同时
 
-
-
-
 Steven: 09-22 22:18:19
 
 酒馆外的街道上传来一声尖锐的、属于亲王卫队的哨声！
-
-
-
 
 Steven: 09-22 22:18:52
 
 各位混混瞬间鸟作兽散，一股脑袋都从后门消失了，只留下混乱的酒馆和站在原地的隆金
 
-
-
-
 木夕儿: 09-22 22:19:43
 
 （坏了）
-
-
-
 
 木夕儿: 09-22 22:19:54
 
 （我也溜吧）
 
-
-
-
 木夕儿: 09-22 22:20:52
 
 隆金见势不妙，也混入人群溜走
-
-
-
 
 Steven: 09-22 22:21:25
 
 那么罗兰仔细研究了这个魔法锁的结构，大家是个很简单的三位密码锁，几次随便的尝试就很快破解了，随着它的解锁，这个魔法宝箱也发出了轻轻的咔嚓一声宝箱盖打开，露出了里面的灵能药剂。在这里你们也能感受到澎湃的灵能力，看起来，这确实是一批好货
 
-
-
-
 :D: 09-22 22:21:40
 
 ＃塞包里
-
-
-
 
 :D: 09-22 22:21:53
 
 ＃桀桀桀的笑
 
-
-
-
 Steven: 09-22 22:22:02
 
 @隆金 AC17 HP 46/46 DC12 那么隆金混在混乱的人群中也遁走了。那么龙金这边的任务看来是圆满完成了，那么现在镜头只聚焦到了仓库这边
 
-
-
-
 Steven: 09-22 22:22:37
 
 你想起来小丑给你们的任务是把货变成彩虹药剂，要是你们全部都中饱私囊了，相信这次试镜的结果不是不会很好
-
-
-
 
 :D: 09-22 22:23:33
 
@@ -25744,127 +19338,73 @@ Steven: 09-23 19:54:44
 
 那么罗兰打开了其中一瓶灵魂药水，正在不走心的一股脑把彩虹药水倒下去的时候，发现这个反应很剧烈啊，冒出的巨大的气泡和声响，冒出了阵阵刺鼻的气雾，这个液体翻滚着往上喷涌，差点喷了你一脸
 
-
-
-
 Steven: 09-23 19:55:00
 
 那么看来箱子里的灵能增强剂本身就是一种高度不稳定的炼金产品
-
-
-
 
 Steven: 09-23 19:55:12
 
 琪莉娅给的“彩虹药水”也是一种强效的魔法药剂
 
-
-
-
 :D: 09-23 19:55:22
 
 “啊不赖，喝这玩意准得把脑子烧了”
-
-
-
 
 Steven: 09-23 19:55:23
 
 将两者混合需要一定的技巧
 
-
-
-
 Steven: 09-23 19:55:47
 
 需要通过一个巧手检定，如果你有炼金工具的话，也可以使用
-
-
-
 
 咸鱼之提督: 09-23 19:56:45
 
 #蠕動身軀
 
-
-
-
 修林: 09-23 19:56:49
 
 #见罗兰搞出的动静，深感时间不够用于是决定上前搭把手
-
-
-
 
 :D: 09-23 19:57:00
 
 .rd+2
 
-
-
-
 阿芙娜: 09-23 19:57:02
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+2=2[D20]+2=4
-
-
-
 
 修林: 09-23 19:57:04
 
 （我来试试？）
 
-
-
-
 :D: 09-23 19:57:09
 
 （不赖）
-
-
-
 
 修林: 09-23 19:57:24
 
 .ra妙手
 
-
-
-
 阿芙娜: 09-23 19:57:26
 
 &lt;奈瓦拉-阿玛斯塔夏>的"妙手"检定（DND5E）结果为: 20[d20] + 0[妙手] = 20
-
-
-
 
 Steven: 09-23 19:57:31
 
 那么罗师傅这幅年久失修的躯体看起来也是不太行啊
 
-
-
-
 Steven: 09-23 19:57:43
 
 抖的如同帕金森，两种药剂发生了剧烈的、不可控的反应
-
-
-
 
 修林: 09-23 19:57:47
 
 （虽然打错字了，但是大成功！）
 
-
-
-
 Steven: 09-23 19:57:51
 
 一阵明亮的七彩闪光和一声响亮的“噗”声从箱子缝隙中冒出，同时还散发出一股浓烈的甜味
-
-
-
 
 呃，他们还没那个呃下去啊，他们现在他们打算先做完这个呃药水，他们再再再去下水道啊，先不说那个啊，再再说一下。这个现在场景很奇特啊，就是呃这个罗兰显然是失败了啊，但是呢另外一个人奈瓦拉克大成功了，这个我怎么去描写这个问题，这是第一个。第2个啊，就是对于这个这个底下就是就是这个下面的这个地窖相除了线索也给也得给他们一点奖励，对吧？我觉得啊给钻石好像不太合适，毕竟都被劫劫匪抢走了，他不可能给你留两块钻石，对吧？但是可以留些其他东西。比如说啊他们是学院的人，之前咱们说过说这个学院他们有一个求救室，这个通讯时可以发，每咱就说的每天发次短讯数那种，对吧？然后就可以找到那种印着学院灰迹的符文石肉，这是第一种。第二种啊，我记得就是咱们的刘江技师学员，他是特别擅长吹口琴，对吧？咱们可以留个口琴这里。然后呢，作为作为一个物品发放给咱们的奈瓦拉这个游音诗人，并且别人都发，他自己还没发魔仿物品呢。但注意有一个问题啊，第一个麦瓦拉他本身呃呃他呢手里拿着一个狂焰手风琴，手风琴是个稀有魔仿物品，它拥有呃 dc 和法术加二，也就是加二魔法物品，它还能每天放一次奥物图米五，所以这个魔法已经很强了，对吧？所以咱不能设置一个太强的一个魔法物品，对吧？第2个啊，而且还有，但这个部分物就不能太弱。因为这个魔法物品本质上是属于这个那个流浆体的，所以就意味着等他们解决了这个事情，把那群人掌握在这主播权，得还给人家，不能不能自己就吞没了，对吧？所以得想一想就是又有用，但又不能又不能太强的东西，你可以多给几个方案，对吧？咱可以参考一些，比如说给些其他子子的的能力，如如他的激励，可以像像创造学院的诗人一样，对吧？如如给点什么这额外的效果，或者比如说呃给点其他的职业校，或者或者像什么，比如说乐器放点法术什么都行，你多给我提几种方案，好吧
 Steven: 09-23 19:54:44
@@ -26062,29 +19602,17 @@ Steven: 09-23 19:57:51
 
 “……？”
 
-
-
-
 咸鱼之提督: 09-23 20:07:48
 
 “殺殺殺 誰吵醒我的美夢”
-
-
-
 
 咸鱼之提督: 09-23 20:08:09
 
 #獵顱 震怒了
 
-
-
-
 Steven: 09-23 20:08:47
 
 （话说你为什么一直是繁体字
-
-
-
 
 咸鱼之提督: 09-23 20:09:02
 
@@ -26094,57 +19622,33 @@ Steven: 09-23 20:08:47
 
 “哈啊……困死了 我睡一会等醒了再说”#打了个长长的哈欠 倒头继续补觉了
 
-
-
-
 Steven: 09-23 20:18:07
 
 其实我的意思是说，正好你的长修就结束了
-
-
-
 
 咸鱼之提督: 09-23 20:18:14
 
 （什么结束了么）
 
-
-
-
 Steven: 09-23 20:18:23
 
 就像我之前跟你说过的，你还有一个场景就可以醒了。现在就是可以醒的时候呢
-
-
-
 
 咸鱼之提督: 09-23 20:18:41
 
 “呃啊 被吵醒了之后没睡意了”#蠕动身躯又爬了起来
 
-
-
-
 咸鱼之提督: 09-23 20:18:52
 
 #长休结束的一瞬间当然是搓药
-
-
-
 
 咸鱼之提督: 09-23 20:19:15
 
 .rd17
 
-
-
-
 阿芙娜: 09-23 20:19:18
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d17=8
-
-
-
 
 咸鱼之提督: 09-23 20:19:26
 
@@ -26152,36 +19656,21 @@ Steven: 09-23 20:18:23
 
 那也许啊咱们的这个意外访客以及失控宠物也可以别浪费。比如他们在在地窖的，如果待时间太长，或者他们离开地窖的时候，可以有他这些这些东西，你觉得怎么样？
 
-
-
-
 |8|[失败]黑牛机师饮料|虚空中召唤出一头狂暴公牛（Rampaging Bull）怪物，它会无差别攻击在场所有人，持续1分钟或直至被击败。|
 
 好了，这压根不用咱准备失控宠物物的，他们自己药药直接召唤出一个狂暴公牛来，这是太离谱了啊。然后注意啊，你这个我说的口琴是按照咱们的这个我的这个特性走，对，就我这个罪人表演走。然后呢，然后呢，你再加点外观故事之类的描述，或者加点小特性都可以。但是你别给我把这特性给我改掉了，好吧，然后咱们继续看看这多么有意思的一个场景
-
-
-
 
 咸鱼之提督: 09-23 20:19:40
 
 #召唤红牛去敌群
 
-
-
-
 咸鱼之提督: 09-23 20:19:47
 
 #润走了润走了
 
-
-
-
 咸鱼之提督: 09-23 20:20:27
 
 “这种奇妙的化学反应 似曾相识的效应”#短暂的思考
-
-
-
 
 咸鱼之提督: 09-23 20:20:32
 
@@ -26301,69 +19790,39 @@ Steven: 09-23 20:18:23
 
 要等会儿啊，真的有两个问题。第一个这红牛出来了，那这个守卫怎么反应的？这个仓库怎么反应呢？对吧？第2个问题啊，他们还没去地窖呢，他们不能就这样跑路，他们现在是想跑路的那那我地窖不白准备了吗？我说对吧？你别搞错了，就是猎毒在和他们一直都在，都在仓库里面，在仓库里面爆炸出了一个牛
 
-
-
-
 咸鱼之提督: 09-23 20:20:51
 
 “剩下的红牛会解决”#嘘
-
-
-
 
 Steven: 09-23 20:21:53
 
 “哦， bravo！我的小工匠！” 斯札瑞絲的声音在你脑中响起，充满了病态的喜悦，“看看你是真的喜欢这个商业广告，快看，它来了！”
 
-
-
-
 Steven: 09-23 20:22:03
 
 话音未落，药剂瓶猛然炸开！一团血红色的传送门在你们的客房中央撕裂开来，一股混合着烧焦糖味和狂野麝香的气味喷涌而出。紧接着，一头体型巨大的、由纯粹的红色能量构成的狂暴公牛，低吼着从传送门中冲了出来！它的双眼燃烧着怒火，鼻孔里喷出灼热的蒸汽。
-
-
-
 
 Steven: 09-23 20:22:06
 
 “哞——！！！”
 
-
-
-
 咸鱼之提督: 09-23 20:22:07
 
 “说得道理 我也喜欢”
 
-
-
-
 咸鱼之提督: 09-23 20:22:12
-
-
-
 
 咸鱼之提督: 09-23 20:22:19
 
 “朋友们该跑路了”
 
-
-
-
 Steven: 09-23 20:22:38
 
 “红—牛—！！！”
 
-
-
-
 :D: 09-23 20:22:50
 
 “跑跑跑跑——”
-
-
-
 
 咸鱼之提督: 09-23 20:22:58
 
@@ -26458,547 +19917,313 @@ DM，你完全正确，我犯了一个严重的逻辑错误！我把场景和时
 
 #跑远点看看什么情况 红牛有追过来的迹象么
 
-
-
-
 咸鱼之提督: 09-23 20:26:52
 
 “说来阿奈你找到了什么刚刚 喊我起床”
-
-
-
 
 咸鱼之提督: 09-23 20:29:14
 
 （@奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 #抓抓）
 
-
-
-
 咸鱼之提督: 09-23 20:29:23
 
 （阿奈你翻的活板门呢）
-
-
-
 
 Steven: 09-23 20:31:57
 
 （人呢？
 
-
-
-
 Steven: 09-23 20:32:00
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13
-
-
-
 
 咸鱼之提督: 09-23 20:35:29
 
 （消失了）
 
-
-
-
 咸鱼之提督: 09-23 20:35:38
 
 “罗兰你怎么看刚刚的事”
-
-
-
 
 咸鱼之提督: 09-23 20:35:46
 
 （@罗兰 hp15/26 ac12dc14先6二1/3一2/4时2/2往2/2 ）
 
-
-
-
 :D: 09-23 20:35:51
 
 “我拿眼睛看”
-
-
-
 
 咸鱼之提督: 09-23 20:38:43
 
 “笨蛋”
 
-
-
-
 咸鱼之提督: 09-23 20:38:47
 
 “我是问你看到了什么”
-
-
-
 
 :D: 09-23 20:39:47
 
 “我看到了好的泡泡”
 
-
-
-
 咸鱼之提督: 09-23 20:40:15
 
 “算了我过去看看”
-
-
-
 
 咸鱼之提督: 09-23 20:40:21
 
 #拍额头
 
-
-
-
 咸鱼之提督: 09-23 20:40:41
 
 #过去看看阿奈当时喊自己的地方在哪看看是什么
-
-
-
 
 修林: 09-23 20:47:30
 
 （11）
 
-
-
-
 修林: 09-23 20:48:15
 
 “活板门！”#指出那个活板门的位置
-
-
-
 
 Steven: 09-23 20:48:51
 
 滑板门本就在你们不远处，再加上刚才狂暴的公牛一通乱撞，箱子都撞死里了，露出的滑板门的位置已经很清晰了
 
-
-
-
 Steven: 09-23 20:50:09
 
 就是会有一个小问题，他他的两个守卫已经被红牛拿下了双杀，现在红牛转过头来已经发现了你们你们应该想办法尽快下去，否则的话下一个目标就是你们了
-
-
-
 
 咸鱼之提督: 09-23 20:50:19
 
 #远远看去红牛跑外面哪里闯荡了
 
-
-
-
 咸鱼之提督: 09-23 20:50:27
 
 “好了我们该下去或者赶紧跑路了”
-
-
-
 
 咸鱼之提督: 09-23 20:50:34
 
 “润”
 
-
-
-
 咸鱼之提督: 09-23 20:50:41
 
 #走走
-
-
-
 
 修林: 09-23 20:50:45
 
 “地下室！成堆的黄金，奢华的珠宝，神秘的情报，总之得下去看看，大不了杀出去”
 
-
-
-
 咸鱼之提督: 09-23 20:50:47
 
 #随手再搓一瓶药
-
-
-
 
 咸鱼之提督: 09-23 20:50:51
 
 .rd17
 
-
-
-
 :D: 09-23 20:50:51
 
 ＃走走
-
-
-
 
 阿芙娜: 09-23 20:50:52
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d17=8
 
-
-
-
 咸鱼之提督: 09-23 20:50:57
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
-
-
-
 
 咸鱼之提督: 09-23 20:51:11
 
 “好了我们必须现在就跑下去了”
 
-
-
-
 咸鱼之提督: 09-23 20:51:23
 
 “其他的事情等上来再说”
-
-
-
 
 修林: 09-23 20:52:58
 
 #轻快地翻开活板门，带头冲锋
 
-
-
-
 咸鱼之提督: 09-23 20:53:03
 
 “原因很简单”
-
-
-
 
 咸鱼之提督: 09-23 20:53:11
 
 “第二头要来了”
 
-
-
-
 :D: 09-23 20:53:16
 
 ＃一个前滚翻跳进去
-
-
-
 
 咸鱼之提督: 09-23 20:53:51
 
 “之后看斗牛看两头牛互相打架吧”#嘘
 
-
-
-
 咸鱼之提督: 09-23 20:53:53
 
 #润走下去
-
-
-
 
 Steven: 09-23 20:54:36
 
 又听到转身之间，第二头牛又蹦出来啦！
 
-
-
-
 Steven: 09-23 20:54:43
 
 不得不说，猎颅真是个好人啊
-
-
-
 
 :D: 09-23 20:54:54
 
 （好兔子）
 
-
-
-
 Steven: 09-23 20:55:06
 
 现在可以肯定的是，红面具帮的仓库绝对是全毁了
-
-
-
 
 咸鱼之提督: 09-23 20:56:03
 
 （嘻）
 
-
-
-
 Steven: 09-23 20:56:20
 
 那么呢你们合力拉开暗门
-
-
-
 
 咸鱼之提督: 09-23 20:56:21
 
 “瑞丝你说我是不是上红牛公司白名单了”
 
-
-
-
 Steven: 09-23 20:56:28
 
 一股混合着血腥和霉味的气息扑面而来。下面是一个狭小的地窖
-
-
-
 
 咸鱼之提督: 09-23 20:56:28
 
 “天天给我送红牛”
 
-
-
-
 咸鱼之提督: 09-23 20:56:35
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.jpg" />
-
-
-
 
 咸鱼之提督: 09-23 20:56:40
 
 “什么情况”
 
-
-
-
 Steven: 09-23 20:56:42
 
 “我觉的应该是红名单”
-
-
-
 
 Steven: 09-23 20:57:01
 
 你们可以做一个察觉或者调查
 
-
-
-
 Steven: 09-23 20:57:13
 
 下面10分黢黑，还有时不时有些水声传来
-
-
-
 
 咸鱼之提督: 09-23 20:57:13
 
 .rd+4+d4调查
 
-
-
-
 阿芙娜: 09-23 20:57:14
 
 由于调查，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+4+d4=12[D20]+4+2[d4]=18
-
-
-
 
 Steven: 09-23 20:57:22
 
 你们或是点亮了提灯，或是有黑暗视觉
 
-
-
-
 咸鱼之提督: 09-23 20:57:33
 
 #自然是点灯上路
-
-
-
 
 Steven: 09-23 20:57:45
 
 那猎颅看到了
 
-
-
-
 Steven: 09-23 20:57:57
 
 几包被撕开的、印有星海驾校徽记的口粮
-
-
-
 
 Steven: 09-23 20:58:07
 
 地上有一些挣扎和打斗的痕迹。
 
-
-
-
 咸鱼之提督: 09-23 20:58:10
 
 “耶？”
-
-
-
 
 咸鱼之提督: 09-23 20:58:19
 
 “这是……”
 
-
-
-
 Steven: 09-23 20:58:22
 
 最令人心惊的是，地板和墙壁上，残留着几道清晰的、绿色的流浆体粘液痕迹！
-
-
-
 
 Steven: 09-23 20:58:30
 
 地窖的另一头，墙壁上有一个新破开的大洞，直接通向了黑暗、深邃、散发着恶臭的城市下水道。
 
-
-
-
 咸鱼之提督: 09-23 20:58:31
 
 “野生的同学出现了”
-
-
-
 
 Steven: 09-23 20:58:41
 
 毫无疑问，这里就是厨师长他们之前的藏身之处！
 
-
-
-
 Steven: 09-23 20:58:54
 
 其他人呢，你们都需要过一个察觉或者调查
-
-
-
 
 Steven: 09-23 20:59:07
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 @罗兰 hp15/26 ac12dc14先6二1/3一2/4时2/2往2/2
 
-
-
-
 修林: 09-23 20:59:36
 
 .ra察觉
-
-
-
 
 Steven: 09-23 20:59:36
 
 那么显而易见他们在这里遭到了袭击，并被不明生物拖进了下水道！
 
-
-
-
 阿芙娜: 09-23 20:59:38
 
 &lt;奈瓦拉-阿玛斯塔夏>的"察觉"检定（DND5E）结果为: 11[d20] + 4[感知调整值1+察觉3] = 15
-
-
-
 
 :D: 09-23 21:00:10
 
 .rd+6
 
-
-
-
 阿芙娜: 09-23 21:00:11
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+6=3[D20]+6=9
-
-
-
 
 Steven: 09-23 21:00:15
 
 那么奈瓦拉凭借着你游吟诗人的直觉，在凌乱的地面上一眼相中了一个口琴
 
-
-
-
 Steven: 09-23 21:01:19
 
 你拿起来一瞧，旁边的人立马就发现了，这是你们的同伴。流浆体普弗雷德的随身乐器！
-
-
-
 
 Steven: 09-23 21:01:47
 
 普弗雷德，他最爱吹口琴了，听过他的学员都赞不绝口，显然，他不会故意的丢在这里
 
-
-
-
 咸鱼之提督: 09-23 21:02:37
 
 “阿奈上”
-
-
-
 
 咸鱼之提督: 09-23 21:03:00
 
 #动手做个简易的过滤面罩给自己带上先
 
-
-
-
 咸鱼之提督: 09-23 21:03:03
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
-
-
-
 
 Steven: 09-23 21:04:39
 
@@ -27014,582 +20239,333 @@ Steven: 09-23 21:04:39
 
 一旦你使用了此特性，直到你完成一次短休或长休前你都不能再次使用它。
 
-
-
-
 Steven: 09-23 21:05:36
 
 但是对于罗兰，他老人家的眼神确实不够好，除了看到一地的石子儿，有大有的小，有的发光不发光，他什么也没有发现
-
-
-
 
 咸鱼之提督: 09-23 21:06:01
 
 “阿奈上”
 
-
-
-
 :D: 09-23 21:06:03
 
 “果然是我没资格啊没资格啊”
-
-
-
 
 咸鱼之提督: 09-23 21:06:06
 
 “顺着痕迹找过去”
 
-
-
-
 :D: 09-23 21:06:19
 
 ＃捡石头
-
-
-
 
 咸鱼之提督: 09-23 21:06:27
 
 “这是我们野生的队友”
 
-
-
-
 Steven: 09-23 21:06:42
 
 那顺着痕迹找过去，就是墙上那个大洞，那那里就是你们听到的水流声来源源向了布瑞尔岩地下错综复杂嗯下水道系统
-
-
-
 
 :D: 09-23 21:06:46
 
 （彩虹石乃魂五不得不品尝的一环）
 
-
-
-
 :D: 09-23 21:07:00
 
 （嘻）
-
-
-
 
 Steven: 09-23 21:07:04
 
 罗兰被一地的石子儿迷花了眼，分不出哪个好，哪个不好，也许他需要别人一点帮助
 
-
-
-
 Steven: 09-23 21:08:04
 
 （@奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 阿阿奈呢，人怎么好像又不见了
-
-
-
 
 Steven: 09-23 21:08:33
 
 （其实这个口琴就是给你发的“暂时”魔法物品
 
-
-
-
 Steven: 09-23 21:09:24
 
 （难绷怎么人又不见了？
-
-
-
 
 咸鱼之提督: 09-23 21:09:32
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
 
-
-
-
 Steven: 09-23 21:09:36
 
 （这今天适不适合开团呢？
-
-
-
 
 :D: 09-23 21:10:01
 
 （哦他打文明六去了）
 
-
-
-
 :D: 09-23 21:10:05
 
 （赫赫）
-
-
-
 
 咸鱼之提督: 09-23 21:10:06
 
 “阿奈怎么又在发呆”
 
-
-
-
 咸鱼之提督: 09-23 21:10:13
 
 （#指指点点）
-
-
-
 
 :D: 09-23 21:10:16
 
 （＃一眼看steam好友）
 
-
-
-
 咸鱼之提督: 09-23 21:10:17
 
 （打醒他）
-
-
-
 
 修林: 09-23 21:10:26
 
 #尝试认路
 
-
-
-
 Steven: 09-23 21:10:28
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\2de04ca9f7567e2d309028606edbf23b.png" />
-
-
-
 
 Steven: 09-23 21:10:37
 
 （@奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 听说你去打文明六了？！！！
 
-
-
-
 Steven: 09-23 21:10:40
 
 （#恼
-
-
-
 
 修林: 09-23 21:10:50
 
 （目移）
 
-
-
-
 Steven: 09-23 21:10:52
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\faeee917628419dab47aa2c1255f5543.png" />
-
-
-
 
 咸鱼之提督: 09-23 21:11:01
 
 [指指点点]
 
-
-
-
 Steven: 09-23 21:11:04
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\09ef4140fe4c2400121b05eebfb7d8e2.png" />
-
-
-
 
 咸鱼之提督: 09-23 21:11:04
 
 [杀]
 
-
-
-
 Steven: 09-23 21:11:50
 
 所以
-
-
-
 
 Steven: 09-23 21:11:53
 
 你们要干什么呢？
 
-
-
-
 咸鱼之提督: 09-23 21:12:08
 
 “阿奈上去开路”
-
-
-
 
 修林: 09-23 21:12:15
 
 “看起来你们的队友进来下水道”
 
-
-
-
 咸鱼之提督: 09-23 21:12:16
 
 #没有黑视人的自觉
-
-
-
 
 咸鱼之提督: 09-23 21:12:23
 
 #不对 我现在是卓尔
 
-
-
-
 咸鱼之提督: 09-23 21:12:30
 
 #看看自己能看到多远
-
-
-
 
 修林: 09-23 21:12:54
 
 “我来带路吧，离开这里，顺便还能追杀一下之前的怪物”
 
-
-
-
 Steven: 09-23 21:13:11
 
 不，你并没有卓尔的黑暗视觉，你只是继承了他的日光敏感[汪汪]
-
-
-
 
 咸鱼之提督: 09-23 21:13:34
 
 #那歇息
 
-
-
-
 咸鱼之提督: 09-23 21:13:39
 
 #短休时刻
-
-
-
 
 :D: 09-23 21:14:10
 
 ＃在地上挑石头
 
-
-
-
 Steven: 09-23 21:14:12
 
 那么目前你们的上方传出着红牛的嘶吼，下水道下方又经常传出不明生物的嚎叫，这真是休息的好地方啊
-
-
-
 
 Steven: 09-23 21:14:17
 
 你们开始休息?
 
-
-
-
 Steven: 09-23 21:14:30
 
 @罗兰 hp15/26 ac12dc14先6二1/3一2/4时2/2往2/2 他看见罗兰在队友中人缘太差了，居然都没有人来帮他挑石头[汪汪]
-
-
-
 
 修林: 09-23 21:14:30
 
 （我们还没有跑远哇！）
 
-
-
-
 咸鱼之提督: 09-23 21:14:38
 
 （#邪术师经典路上短休）
-
-
-
 
 咸鱼之提督: 09-23 21:14:46
 
 #坐板车上
 
-
-
-
 咸鱼之提督: 09-23 21:14:51
 
 “你们记得推着哈”
-
-
-
 
 Steven: 09-23 21:15:29
 
 你们现在处在仓库下面的一个地窖，所以你现在还在仓库呢，只是这个地窖被破一个洞，这个洞通向了下方的下水道，你们并没有进入下水道
 
-
-
-
 Steven: 09-23 21:15:38
 
 那这个地窖其实是很小的不大的一个，可能也就二三十平？
-
-
-
 
 Steven: 09-23 21:15:43
 
 这样只能是个密室
 
-
-
-
 Steven: 09-23 21:16:24
 
 加下水道又是一个支线了
-
-
-
 
 修林: 09-23 21:16:27
 
 #拉上捡石头的高松兰，推着倒头就睡的邪术师，快步钻进下水道
 
-
-
-
 Steven: 09-23 21:16:32
 
 我觉得也许你们应该先找牛头人汇合一下，或者返回一下任务
-
-
-
 
 咸鱼之提督: 09-23 21:16:45
 
 #看看密室里面有什么
 
-
-
-
 修林: 09-23 21:16:47
 
 （欸？）
-
-
-
 
 修林: 09-23 21:16:54
 
 （难道要走大门离开嘛）
 
-
-
-
 咸鱼之提督: 09-23 21:17:07
 
 （虽然从上帝视角看确实回头找隆金比较好）
-
-
-
 
 咸鱼之提督: 09-23 21:17:10
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\3ad92d0666134a8de743991a14da7e6e.png" />
 
-
-
-
 咸鱼之提督: 09-23 21:17:19
 
 （可以偷渡离开）
-
-
-
 
 Steven: 09-23 21:17:48
 
 @奈瓦拉-阿玛斯塔夏 HP31/31 AC14 DC15 PP13 （我的意思你们居然没懂，这石头里有东西啊，你们也没有帮着找的，罗兰 已经失败了
 
-
-
-
 咸鱼之提督: 09-23 21:18:13
 
 （在看了在看了）
-
-
-
 
 咸鱼之提督: 09-23 21:18:16
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
 
-
-
-
 Steven: 09-23 21:18:18
 
 你们确定走下水道了？楽
-
-
-
 
 Steven: 09-23 21:18:25
 
 那就再过一个调查或者察觉吧
 
-
-
-
 :D: 09-23 21:18:31
 
 （彩虹石头可是不得不品尝的一环啊）
-
-
-
 
 修林: 09-23 21:18:32
 
 #叹了口气帮忙一起捡石头
 
-
-
-
 修林: 09-23 21:18:38
 
 .ra察觉
-
-
-
 
 阿芙娜: 09-23 21:18:40
 
 &lt;奈瓦拉-阿玛斯塔夏>的"察觉"检定（DND5E）结果为: 4[d20] + 4[感知调整值1+察觉3] = 8
 
-
-
-
 修林: 09-23 21:18:44
 
 （xd）
-
-
-
 
 咸鱼之提督: 09-23 21:18:46
 
 .rd+4+d4调查
 
-
-
-
 阿芙娜: 09-23 21:18:47
 
 由于调查，&lt;猎颅 ac18 hp31/31 dc14>掷出了 d+4+d4=15[D20]+4+1[d4]=20
-
-
-
 
 Steven: 09-23 21:19:12
 
 （你别忘了奈玛拉，你捡到了一个魔法物品，别忘了
 
-
-
-
 Steven: 09-23 21:19:27
 
 那么奈瓦拉的运气不是一直好的，这次他简直一无所获，他觉得这石头可真石头啊
-
-
-
 
 Steven: 09-23 21:19:38
 
 不过兔子倒是眼力不错，一眼就是相中的一块石头，但是这块石头确实不简单
 
-
-
-
 咸鱼之提督: 09-23 21:19:47
 
 #捡起来甩甩
-
-
-
 
 Steven: 09-23 21:19:50
 
 上面刻着灰暗的星海驾校徽章的符文
 
-
-
-
 咸鱼之提督: 09-23 21:20:02
 
 “纳尼所累”
-
-
-
 
 咸鱼之提督: 09-23 21:20:06
 
 “厄运石”
 
-
-
-
 Steven: 09-23 21:20:41
 
 你意识到这个就是当初教授起航时塞给你们的救命石
 
-
-
-
 Steven: 09-23 21:21:01
 
 这是一个传讯石，一块儿在厨师长手里，一块儿在教授手里
-
-
-
 
 Steven: 09-23 21:21:10
 
@@ -27601,344 +20577,197 @@ Steven: 09-23 21:21:10
 
 以此施展短讯术后，直到次日黎明前传讯石都无法再次用以施展该法术。如果一块传讯石被摧毁，则与它配对的另一块石头也将失去其魔法
 
-
-
-
 :D: 09-23 21:21:22
 
 （经典）
-
-
-
 
 Steven: 09-23 21:21:39
 
 你发现上面的符文已经灰暗，说明今天的次数已经用过了，不知道说了什么。不过被遗留在这里，那说明肯定是遭遇的什么不知冒的危险，他们甚至都没有来得及整理
 
-
-
-
 咸鱼之提督: 09-23 21:23:10
 
 “看起来他们已经联络过了”
-
-
-
 
 咸鱼之提督: 09-23 21:23:21
 
 “应该很快有援军？大概啊”
 
-
-
-
 咸鱼之提督: 09-23 21:23:31
 
 “先回去找隆金汇合再来吧”
-
-
-
 
 修林: 09-23 21:25:15
 
 “赞成”
 
-
-
-
 咸鱼之提督: 09-23 21:25:15
 
 “阿奈冲刺”
-
-
-
 
 :D: 09-23 21:25:28
 
 ＃翻滚
 
-
-
-
 修林: 09-23 21:25:32
 
 #默默地给推推车
-
-
-
 
 Steven: 09-23 21:26:48
 
 那么
 
-
-
-
 Steven: 09-23 21:27:31
 
 你们等听着头顶的活板门，不再有踢踏踢踏的响声的时候，你们小心翼翼的推开了探出头去
-
-
-
 
 Steven: 09-23 21:27:57
 
 看起来红牛已经不在周围了，也许但是你仍能闻到空空气中的那股甜腻的味道。而且这个仓库里现在非常的寂静，看不到一个人影
 
-
-
-
 修林: 09-23 21:28:38
 
 “嚯，幸运”#打了个响指稍微庆祝，抓紧机会加速离开
-
-
-
 
 Steven: 09-23 21:29:13
 
 来吧，你们每个人过一次隐匿
 
-
-
-
 咸鱼之提督: 09-23 21:29:30
 
 .rd+4+d4
-
-
-
 
 阿芙娜: 09-23 21:29:31
 
 &lt;猎颅 ac18 hp31/31 dc14>掷出了 d+4+d4=18[D20]+4+1[d4]=23
 
-
-
-
 咸鱼之提督: 09-23 21:29:38
 
 #随手再给其他人拍导
-
-
-
 
 修林: 09-23 21:30:15
 
 .rd隐匿+d4
 
-
-
-
 阿芙娜: 09-23 21:30:16
 
 &lt;奈瓦拉-阿玛斯塔夏>掷出了 d隐匿+d4=0[d隐匿]+3[d4]=3
-
-
-
 
 Steven: 09-23 21:30:33
 
 (SHA?
 
-
-
-
 修林: 09-23 21:30:35
 
 .rd+5+d4
-
-
-
 
 阿芙娜: 09-23 21:30:37
 
 &lt;奈瓦拉-阿玛斯塔夏>掷出了 d+5+d4=1[D20]+5+2[d4]=8
 
-
-
-
 Steven: 09-23 21:30:39
 
 (你居然投出了零点
-
-
-
 
 修林: 09-23 21:30:40
 
 （xd）
 
-
-
-
 咸鱼之提督: 09-23 21:30:41
 
 （唏嘘了）
-
-
-
 
 咸鱼之提督: 09-23 21:30:45
 
 （怎会有零点）
 
-
-
-
 修林: 09-23 21:30:46
 
 （其实是大失败）
-
-
-
 
 咸鱼之提督: 09-23 21:30:52
 
 （紧随其后还有个一点）
 
-
-
-
 :D: 09-23 21:30:54
 
 .rd+2
-
-
-
 
 阿芙娜: 09-23 21:30:56
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+2=2[D20]+2=4
 
-
-
-
 :D: 09-23 21:31:01
 
 （赫赫）
-
-
-
 
 Steven: 09-23 21:31:04
 
 哎呀，那么你们实在是不幸啊
 
-
-
-
 :D: 09-23 21:31:10
 
 （今日骰运不佳）
-
-
-
 
 Steven: 09-23 21:31:44
 
 逃跑的过程中，奈瓦拉实在是太高兴了，有点得意忘形没想到踩到了一个断裂的木板，脚下一滑，在空中翻了几个跟头，扑通就掉到了地上，发生了巨响。与此同时呢，这一击还把它打回了原形，他失去了太空仓鼠的伪装，现在变成了正常人
 
-
-
-
 咸鱼之提督: 09-23 21:31:59
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
-
-
-
 
 Steven: 09-23 21:31:59
 
 罗兰呢看到这一幕，赶紧想上前帮忙，结果呢一个没站稳，自己也摔倒了。这个你俩都属于倒地状态
 
-
-
-
 咸鱼之提督: 09-23 21:32:05
 
 “你们怎么搞的”
-
-
-
 
 咸鱼之提督: 09-23 21:32:09
 
 “快起来 跑路了”
 
-
-
-
 Steven: 09-23 21:32:20
 
 而这俩人都摔倒了，只有在板车上的兔子正在无动力的向前滑行
-
-
-
 
 :D: 09-23 21:32:25
 
 ＃蠕动
 
-
-
-
 Steven: 09-23 21:32:28
 
 那么这声儿巨响啊，显然也吸引了在工厂中游荡的两头公牛的注意
-
-
-
 
 Steven: 09-23 21:32:33
 
 他们向你冲来!
 
-
-
-
 修林: 09-23 21:32:35
 
 #拍拍身前的衣服爬起来逃跑
-
-
-
 
 Steven: 09-23 21:32:47
 
 两头公牛分别目标向着罗兰和奈瓦拉
 
-
-
-
 咸鱼之提督: 09-23 21:34:39
 
 #蠕动身躯板车漂移
-
-
-
 
 :D: 09-23 21:34:52
 
 ＃蠕动翻滚
 
-
-
-
 修林: 09-23 21:35:34
 
 #阴暗闪避
 
-
-
-
 Steven: 09-23 21:35:53
 
 .r2#d优势+6
-
-
-
 
 阿芙娜: 09-23 21:35:54
 
@@ -27948,85 +20777,49 @@ d优势+6=17[d优势={17 | 7}]+6=23
 
 d优势+6=12[d优势={12 | 8}]+6=18
 
-
-
-
 Steven: 09-23 21:36:00
 
 那没有没有反应呢
-
-
-
 
 Steven: 09-23 21:36:08
 
 没有可就双双命中了
 
-
-
-
 :D: 09-23 21:36:28
 
 ＃罗兰的身影开始模糊，另外三个一模一样的罗兰从地上爬起来翻滚着蠕动着跑动着
-
-
-
 
 :D: 09-23 21:36:51
 
 .rd
 
-
-
-
 阿芙娜: 09-23 21:36:53
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 D20=17
-
-
-
 
 Steven: 09-23 21:36:59
 
 (那时候应该是反应，不过好像也不是正经战斗我就不计较了，这次下次注意吧
 
-
-
-
 Steven: 09-23 21:37:36
 
 .find镜像术
-
-
-
 
 阿芙娜: 09-23 21:37:37
 
 未找到搜索结果
 
-
-
-
 :D: 09-23 21:38:01
 
 “wc！牛追上来了！”＃看着一个被牛顶上天花板的镜像分身
-
-
-
 
 Steven: 09-23 21:38:05
 
 (叫叫啥呀？
 
-
-
-
 :D: 09-23 21:38:22
 
 .find镜影术
-
-
-
 
 阿芙娜: 09-23 21:38:23
 
@@ -28058,9 +20851,6 @@ Steven: 09-23 21:38:05
 
 如果一个生物无法视物，或者它可以依靠视觉之外的其它感官（例如盲视），又或者它可以如同真实视觉一样洞察幻象，则本法术无法影响该生物。
 
-
-
-
 本页结果:
 
 [3998][DND]【PHB法术:镜影术】 匹配度4.88
@@ -28071,101 +20861,59 @@ Steven: 09-23 21:38:05
 
 [7580][DND]【TCE职业:装甲师:装甲师法术】 匹配度0.18
 
-
-
-
 使用".find &lt;序号>"可查看明细，如.find 123
 
 共20条结果, 当前显示第1页(第1条 到 第4条)
 
 使用".find &lt;词条> --page=&lt;页码> 查看更多结果
 
-
-
-
 咸鱼之提督: 09-23 21:38:48
 
 “我超 牛”
-
-
-
 
 咸鱼之提督: 09-23 21:38:51
 
 #蠕动身躯
 
-
-
-
 Steven: 09-23 21:39:00
 
 那奈瓦拉有反应吗？
-
-
-
 
 修林: 09-23 21:39:19
 
 （有！）
 
-
-
-
 修林: 09-23 21:40:18
 
 “滚开！”#使用命令术下令俩只牛转向离开
-
-
-
 
 Steven: 09-23 21:41:04
 
 (二环?
 
-
-
-
 修林: 09-23 21:41:40
 
 （一环）
-
-
-
 
 修林: 09-23 21:41:58
 
 （命令术还能升环嘛？）
 
-
-
-
 Steven: 09-23 21:42:42
 
 (可以啊，生环就能同时对两个一环只能对一个
-
-
-
 
 修林: 09-23 21:42:50
 
 （那就升环！）
 
-
-
-
 :D: 09-23 21:42:59
 
 （洗澡去了）
 
-
-
-
 Steven: 09-23 21:43:08
 
 .r2#d
-
-
-
 
 阿芙娜: 09-23 21:43:10
 
@@ -28175,92 +20923,53 @@ d=6[D20]=6
 
 d=7[D20]=7
 
-
-
-
 Steven: 09-23 21:43:22
 
 那么这两头牛双双都没有通过你的命令书，他们乖乖的转身离开了一部分
-
-
-
 
 咸鱼之提督: 09-23 21:43:34
 
 #蠕动身躯
 
-
-
-
 咸鱼之提督: 09-23 21:43:38
 
 “做的好啊阿奈”
-
-
-
 
 咸鱼之提督: 09-23 21:43:45
 
 #短休人的鼓舞
 
-
-
-
 Steven: 09-23 21:43:51
 
 但是离开到了30尺之后，他们又幡然醒悟，要继续向你们展开追逐！
-
-
-
 
 Steven: 09-23 21:43:58
 
 那么现在进入了激动人心的追逐轮[汪汪]
 
-
-
-
 咸鱼之提督: 09-23 21:44:01
 
 “虽然不知道现在什么情况不过快跑啊”
-
-
-
 
 修林: 09-23 21:44:05
 
 #趁着这段时间差迅速逃跑
 
-
-
-
 咸鱼之提督: 09-23 21:44:06
 
 #板车漂移
-
-
-
 
 :D: 09-23 21:44:31
 
 ＃润
 
-
-
-
 Steven: 09-23 21:44:44
 
 我们值得注意的是，红牛这玩意儿是靠飞的而且速度40尺
 
-
-
-
 Steven: 09-23 21:45:32
 
 首先一个问题摆在你面前，你们要往哪里跑呢？
-
-
-
 
 咱们来前瞻规划一下这个追逐轮吧
 咸鱼之提督: 09-23 20:26:40
@@ -28870,22 +21579,13 @@ DM描述环境：在每一轮开始，你先描述他们冲到了一个什么样
 
 #看看周边是啥子地形
 
-
-
-
 咸鱼之提督: 09-23 21:47:34
 
 #有没有可以祸水东引的地方
 
-
-
-
 修林: 09-23 21:48:39
 
 #尝试观察一下周围有没有可以利用的障碍物
-
-
-
 
 哎，咱们可以开始运作这个追逐轮的，我觉得这种东西就没有必要。咱们一轮一轮来回对话了，你把所有的这些呃随机遭遇，还是说追逐过程中内容你都给我写好了，一次性，然后我就直接去运作这个游戏就可以了，你说对吧？
 咸鱼之提督: 09-23 21:47:25
@@ -29370,253 +22070,145 @@ Steven: 09-26 20:51:11
 
 对于奈瓦达而言，现在你在天花板上已经被亲王卫队发现了，你多了一个追踪者，你怎么处理？罗兰，还在等待你的隐匿
 
-
-
-
 木夕儿: 09-26 20:51:15
 
 那么趁奈奈显出原形，吸引亲王卫队的时候，猎颅一边的下水道井盖被牛角顶起来，一只强有力的黑手伸向猎颅，把他拖到下水道里面
-
-
-
 
 Steven: 09-26 20:51:35
 
 那么在没人注意的角落，一只黑手伸了出来，把兔子拖了下去
 
-
-
-
 Steven: 09-26 20:52:21
 
 这段路的下水道很窄，你只能趴着走
-
-
-
 
 Steven: 09-26 20:53:03
 
 而且下面没有任何光黢黑无比。现在呢下面只能凭借着牛头人的盲斗行事
 
-
-
-
 木夕儿: 09-26 20:54:54
 
 （初极狭，才通人）
-
-
-
 
 木夕儿: 09-26 20:55:03
 
 （复行数十步，豁然开朗）
 
-
-
-
 Steven: 09-26 20:55:31
 
 （奈瓦拉捏
-
-
-
 
 木夕儿: 09-26 20:55:36
 
 于是隆金把猎颅夹在腋下，一起慢慢爬行
 
-
-
-
 Steven: 09-26 20:55:38
 
 （不会又去文明溜了吧[爆筋]
-
-
-
 
 Steven: 09-26 20:55:45
 
 （还带着罗兰
 
-
-
-
 木夕儿: 09-26 20:55:51
 
 （文明6，好玩！）
-
-
-
 
 修林: 09-26 20:56:00
 
 （我在）
 
-
-
-
 修林: 09-26 20:56:02
 
 （但是）
-
-
-
 
 修林: 09-26 20:56:17
 
 （我不是在屋顶上跑掉了了嘛）
 
-
-
-
 Steven: 09-26 20:57:15
 
 （没有啊，你刚刚进行完成功跳上屋顶的鉴定
-
-
-
 
 Steven: 09-26 20:57:21
 
 （然后你成功被亲王卫队发现了
 
-
-
-
 :D: 09-26 20:57:51
 
 .rd+2
-
-
-
 
 阿芙娜: 09-26 20:58:02
 
 &lt;罗兰 hp5/26 ac12dc14先6二0/3一0/4时0/2往2/2>掷出了 d+2=17[D20]+2=19
 
-
-
-
 修林: 09-26 20:58:11
 
 “啧，真是穷追不舍啊，你一个月工资多少啊这么玩命，狡兔死，走狗烹啊我的朋友！”#吐槽着对方的同时规划一下道路，准备保持距离拉着对方到星空舞台
-
-
-
 
 Steven: 09-26 21:00:34
 
 那么罗兰，你的隐匿技巧10分高超，突然变幻的伪装，使得追踪者瞬间失去了目标
 
-
-
-
 Steven: 09-26 21:01:12
 
 如此高大的奈瓦拉成功引起了红牛和亲王卫队双倍的关注，一只红牛也腾空飞起，向着你屋顶的方向前去！
-
-
-
 
 Steven: 09-26 21:01:23
 
 当前脱离点数2/5
 
-
-
-
 Steven: 09-26 21:01:58
 
 奈瓦拉，你在屋顶上距离杂耍者的舞台可能得有数10个屋顶的距离
-
-
-
 
 Steven: 09-26 21:02:13
 
 低城区的屋顶是一个由瓦片、铁皮、木板和焦油毡构成的混乱迷宫。屋顶之间有宽窄不一的间隙，偶尔有木板作为临时的桥梁
 
-
-
-
 Steven: 09-26 21:02:21
 
 慌乱的人群撞击着建筑物的墙壁，导致你们脚下的屋顶都在微微颤抖。
-
-
-
 
 Steven: 09-26 21:03:13
 
 那么奈瓦拉经过一阵奔跑，来到了下城区和中城区的交界处这里的房屋间隔就颇大了，你需要进行一次长距离的跳跃，跨越屋顶间的缝隙
 
-
-
-
 Steven: 09-26 21:03:16
 
 需要进行一次运动鉴定
-
-
-
 
 Steven: 09-26 21:03:24
 
 .rd8
 
-
-
-
 阿芙娜: 09-26 21:03:26
 
 &lt;布瑞尔岩招生办主任>掷出了 d8=2
-
-
-
 
 修林: 09-26 21:03:49
 
 #充分发挥精灵灵巧的优势，迈开敏捷的步伐，穿梭腾挪在屋顶之间，伸展身躯纵身一跃
 
-
-
-
 修林: 09-26 21:03:52
 
 .ra运动
-
-
-
 
 Steven: 09-26 21:03:54
 
 与在屋顶上荒乱无比的麦瓦拉成鲜明的对比，就在另一边呀罗兰正在庆幸自己成功脱离了追捕，正在悠闲的在街道上，向着杂耍者的方向逛
 
-
-
-
 阿芙娜: 09-26 21:03:56
 
 &lt;奈瓦拉-阿玛斯塔夏>的"运动"检定（DND5E）结果为: 13[d20] + 3[力量调整值1+运动2] = 16
-
-
-
 
 Steven: 09-26 21:04:13
 
 但是罗兰显然是得意忘形啊，你一不注意就迎面撞上了一小队正在街上闲逛的红面具帮暴徒。
 
-
-
-
 Steven: 09-26 21:04:52
 
 那么没想到啊，这个奈瓦拉诗人不仅口才好，脚底功夫也不错，身轻如燕一下子就跨过了
-
-
-
 
 Steven: 09-26 21:05:29
 
@@ -29771,106 +22363,61 @@ Steven: 09-26 21:05:29
 
 .rd+5
 
-
-
-
 阿芙娜: 09-26 21:33:45
 
 &lt;奈瓦拉-阿玛斯塔夏>掷出了 d+5=7[D20]+5=12
-
-
-
 
 咸鱼之提督: 09-26 21:34:21
 
 （#蠕动身躯）
 
-
-
-
 咸鱼之提督: 09-26 21:34:27
 
 #蠕动身躯
-
-
-
 
 木夕儿: 09-26 21:34:59
 
 “哟，醒了吗？”隆金松开猎颅
 
-
-
-
 咸鱼之提督: 09-26 21:35:28
 
 “哈 我这是在哪里”
-
-
-
 
 咸鱼之提督: 09-26 21:35:35
 
 “诶 隆金 你怎么在了”
 
-
-
-
 咸鱼之提督: 09-26 21:35:43
 
 #左右看看判断一下局势
-
-
-
 
 咸鱼之提督: 09-26 21:35:54
 
 “呕…好臭”
 
-
-
-
 咸鱼之提督: 09-26 21:36:00
 
 #带上之前简单做的面罩
-
-
-
 
 木夕儿: 09-26 21:36:20
 
 “下水道……”隆金幽幽的说道
 
-
-
-
 木夕儿: 09-26 21:36:49
 
 “不过这比我印象中的下水道要更……混乱一点。”
-
-
-
 
 木夕儿: 09-26 21:37:12
 
 “我之前听过一句话，下水道就是城市的良心。”
 
-
-
-
 咸鱼之提督: 09-26 21:37:34
 
 “其他人呢 跑哪里去了”
 
-
-
-
 木夕儿: 09-26 21:38:07
 
 “天知道。”隆金摊手，不知道是不是因为他在下水道时间呆的太长，都感觉不到臭了
-
-
-
 
 好，可以安排的想着了。我觉得你的汇合主意非常不错，然后咱们正好可以找办法是不可以狂野魔法了，是吧？然后再看看这几条路都是什么结局，什么过程？啊，别忘了，既然兔子醒了，那么它的呃宗主就可以又发话了，来点黑色幽默是吧？
 那么总之回到正题，罗兰慌不择路啊，再次以自己为中心释放了一个扩大重力顿时间呀。那个天色煞变几个强盗，没有通过检定强大的重力拉着他们脸色变成了猪肝色，只能半跪在地上，目姿欲裂的看着罗兰跟没事人一样轻松的跑开了。你成功被记住了修林: 09-26 21:33:44
@@ -29980,15 +22527,9 @@ Steven: 09-26 21:05:29
 
 #挠了挠头
 
-
-
-
 木夕儿: 09-26 21:42:58
 
 。r3#d+7 运动
-
-
-
 
 阿芙娜: 09-26 21:43:00
 
@@ -30000,111 +22541,63 @@ d+7=15[D20]+7=22
 
 d+7=12[D20]+7=19
 
-
-
-
 木夕儿: 09-26 21:43:05
 
 （哇袄）
-
-
-
 
 木夕儿: 09-26 21:43:08
 
 （感觉不错）
 
-
-
-
 咸鱼之提督: 09-26 21:43:14
 
 #炼金工具习得操水术
-
-
-
 
 咸鱼之提督: 09-26 21:43:21
 
 #直接冻着河走过去
 
-
-
-
 咸鱼之提督: 09-26 21:43:29
 
 #顺便给自己做个防滑鞋
 
-
-
-
 咸鱼之提督: 09-26 21:43:42
-
-
-
 
 Steven: 09-26 21:43:57
 
 那么龙筋这个牛蹄子真是灵活啊，连续跳过三块石头，居然没踩到一点水，完美通过！
 
-
-
-
 木夕儿: 09-26 21:44:07
 
 （愈发离谱起来）
-
-
-
 
 Steven: 09-26 21:44:13
 
 @猎颅 ac18 hp26/31 dc14 那么你这么做了[汪汪]
 
-
-
-
 Steven: 09-26 21:44:23
 
 （不得不说，你这个操作让我想起来了。猪猪侠[汪汪]
-
-
-
 
 咸鱼之提督: 09-26 21:44:26
 
 “隆金身手不错啊”
 
-
-
-
 Steven: 09-26 21:44:31
 
 （最后想起来的蹄子[汪汪]
-
-
-
 
 木夕儿: 09-26 21:44:36
 
 （隆金→龙金→龙军→龙筋→？？？）
 
-
-
-
 咸鱼之提督: 09-26 21:44:57
 
 #回头看看废料都有什么可回收利用的玩意
 
-
-
-
 Steven: 09-26 21:45:02
 
 。draw狂野魔法浪涌
-
-
-
 
 阿芙娜: 09-26 21:45:04
 
@@ -30114,148 +22607,85 @@ Steven: 09-26 21:46:34
 
 脱离点数：4/5
 
-
-
-
 Steven: 09-26 21:46:41
 
 危机点数：2/3
-
-
-
 
 Steven: 09-26 21:46:57
 
 而另一边的罗兰就很轻松了@罗兰 hp10/26 ac12dc14先6二0/3一1/4时2/2往2/2
 
-
-
-
 Steven: 09-26 21:47:12
 
 你听到身后传来他们气急败坏的吼声：“记住那个穿着黑衣服的家伙！给我找到他！” 你知道，你已经被红面具帮盯上了
-
-
-
 
 Steven: 09-26 21:47:16
 
 但无论如何，你成功摆脱了他们。现在，你正独自一人走在中城区的街道上。“星光舞台”的招牌就在几个街区之外。
 
-
-
-
 Steven: 09-26 21:47:33
 
 那么镜头回到兔子
-
-
-
 
 Steven: 09-26 21:47:53
 
 看起来猎颅作为炼金术士，就是脑瓜子灵活
 
-
-
-
 Steven: 09-26 21:47:59
 
 选择了更为优雅和……充满技术含量的方式
-
-
-
 
 Steven: 09-26 21:48:14
 
 你拿出炼金工具，对着河面念念有词。一股寒气从你的工具中喷涌而出，那条五彩斑斓的河流在你面前的一小片区域，瞬间凝结成了一座坚固的、闪烁着奇特色彩的冰桥
 
-
-
-
 Steven: 09-26 21:48:20
 
 你从容地走了过去，甚至还有闲暇回头赞叹了一句：“隆金身手不错啊。”
-
-
-
 
 Steven: 09-26 21:48:33
 
 但是突然！
 
-
-
-
 Steven: 09-26 21:48:39
 
 整条河都沸腾了起来！
-
-
-
 
 Steven: 09-26 21:48:46
 
 一股巨大的、由七彩能量构成的间歇泉从河中央猛然喷发，直接冲刷过你的身体！
 
-
-
-
 Steven: 09-26 21:49:01
 
 ，你感觉到一股难以言喻的、澎湃的奥术能量涌入了你的身体。你的思维速度被提升到了极限，法术的咒语和手势在你脑中如同闪电般划过。
-
-
-
 
 Steven: 09-26 21:49:15
 
 在接下来的一分钟内，你感觉自己的施法速度变得快如闪电！
 
-
-
-
 Steven: 09-26 21:49:27
 
 那么现在
-
-
-
 
 Steven: 09-26 21:49:31
 
 你们面前，是三条深邃的、散发着不同气味的隧道。
 
-
-
-
 咸鱼之提督: 09-26 21:50:28
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\848d14ffbc181d6d8a656dc9336ded2b.png" />
-
-
-
 
 咸鱼之提督: 09-26 21:51:05
 
 #用我强而有力的鼻子闻闻是什么
 
-
-
-
 木夕儿: 09-26 21:51:58
 
 “选择题，兔子，虽然我感觉对现在的我们来说，没什么区别就是。”
 
-
-
-
 咸鱼之提督: 09-26 21:52:58
 
 “让我品鉴品鉴神奇的滋味”
-
-
-
 
 咸鱼之提督: 09-26 21:53:08
 
@@ -30515,308 +22945,173 @@ Boss战：战斗中，需要有角色（比如奈瓦拉）持续吹响号角（�
 
 呃，那么你想想啊，咱们怎么样先去这个呃汇合，好吧，咱们有什么办法看，让他先去汇合。然后你之前还听到了很多有意思的小景官，这也可以揉进去哈当然，这可以等他们正式下下下木下地城的时候，先让他们想办法汇合然后地表地下一起描述，先让他们汇合
 
-
-
-
-
-
-
-
-
-
 Steven: 09-26 22:02:07
 
 那么猎颅的感官在澎湃的奥术能量加持下变得异常敏锐。你清晰地分辨出了三股截然不同的气味：
-
-
-
 
 木夕儿: 09-26 22:02:17
 
 （看来不用了）
 
-
-
-
 Steven: 09-26 22:03:02
 
 左边的隧道传来一股臭氧、过热的金属和机油的味道；中间的隧道传来一股腐殖质、蘑菇和一种奇特的、带着甜味的腐烂气息；右边的隧道传来一股浓烈的盐水味、多种化学品的混合味，以及一种几乎无法察觉的、如同静电般刺激着你大脑的……思想的味道
-
-
-
 
 咸鱼之提督: 09-26 22:03:46
 
 #闻完在一旁半蹲着扶着双腿干呕
 
-
-
-
 咸鱼之提督: 09-26 22:03:53
 
 “呕…”
-
-
-
 
 咸鱼之提督: 09-26 22:04:31
 
 “难以形容的味道”#完事拿布擦了擦嘴巴丢一边 带上面罩
 
-
-
-
 咸鱼之提督: 09-26 22:05:04
 
 “简单来讲三边是三种味道”#简单描述一下具体
-
-
-
 
 咸鱼之提督: 09-26 22:05:12
 
 “隆金你怎么看”
 
-
-
-
 咸鱼之提督: 09-26 22:05:21
 
 “话说路上还要留意头上哪里有出口”
-
-
-
 
 木夕儿: 09-26 22:06:40
 
 “机油，真菌和化学品……”
 
-
-
-
 木夕儿: 09-26 22:06:57
 
 “感觉都不是什么好相处的，如果硬要我选的话，我选择左边这个。”
-
-
-
 
 咸鱼之提督: 09-26 22:07:17
 
 “说得道理”
 
-
-
-
 咸鱼之提督: 09-26 22:07:23
 
 #手搓个板车
-
-
-
 
 咸鱼之提督: 09-26 22:07:28
 
 “隆金推着我上吧”
 
-
-
-
 咸鱼之提督: 09-26 22:07:34
 
 #短休人 短休魂
-
-
-
 
 木夕儿: 09-26 22:07:44
 
 “你都不问问我选左边的理由吗？”
 
-
-
-
 Steven: 09-26 22:08:03
 
 那么你从你不知道哪里的四次元口袋里摸出来的，很多奇奇怪怪的材料，又凑出一个板车出来
-
-
-
 
 咸鱼之提督: 09-26 22:08:07
 
 “什么 我相信你还需要理由么 那说说看你的理由是什么”
 
-
-
-
 咸鱼之提督: 09-26 22:08:09
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Pic\2025-09\Ori\6558e09714332ba36690986ce2d7a7b8.png" />
-
-
-
 
 Steven: 09-26 22:08:21
 
 不过这个下水道啊这个地质10分的复杂，凹凸不平，还有各种污水横流，在上面都颠成狗了[汪汪]
 
-
-
-
 木夕儿: 09-26 22:08:45
 
 “当然是直觉，身为牛头人的直觉！”隆金一边得意一边帮猎颅组装板车
-
-
-
 
 咸鱼之提督: 09-26 22:08:51
 
 “说得好”
 
-
-
-
 木夕儿: 09-26 22:09:00
 
 “话说这地方这么颠，你就不怕晕车？”
-
-
-
 
 咸鱼之提督: 09-26 22:09:02
 
 #心无杂念自然平
 
-
-
-
 木夕儿: 09-26 22:09:25
 
 “你开口的话，要我背你也不是不可以哦？
-
-
-
 
 木夕儿: 09-26 22:09:57
 
 “我的背阔肌还是蛮发达的！”
 
-
-
-
 咸鱼之提督: 09-26 22:09:59
 
 “放心我可是在故乡坐着发疯的野牛到处跑的人 诶 不过话又说回来了”
-
-
-
 
 咸鱼之提督: 09-26 22:10:08
 
 “隆金你扛得住的话我肯定上”
 
-
-
-
 咸鱼之提督: 09-26 22:10:11
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\3ad92d0666134a8de743991a14da7e6e.png" />
-
-
-
 
 咸鱼之提督: 09-26 22:10:35
 
 “自从和红牛打闹过一阵之后我感觉我已经习惯了”#并非习惯
 
-
-
-
 咸鱼之提督: 09-26 22:10:53
 
 #上隆金背上摸鱼
-
-
-
 
 木夕儿: 09-26 22:11:00
 
 “走你！”隆金拉着猎颅，把他甩到自己的背上
 
-
-
-
 木夕儿: 09-26 22:11:08
 
 “坐稳就出发喽。”
-
-
-
 
 咸鱼之提督: 09-26 22:11:13
 
 “出发”
 
-
-
-
 咸鱼之提督: 09-26 22:11:23
 
 #手指向前方进发
-
-
-
 
 木夕儿: 09-26 22:11:25
 
 随后朝着左边的通道，一头扎进黑暗中
 
-
-
-
 咸鱼之提督: 09-26 22:11:53
 
 #短休期间双手闲着不忘作画的猎颅
-
-
-
 
 咸鱼之提督: 09-26 22:12:16
 
 #手画手的脑子休息脑子的眼睛是在看着四周的
 
-
-
-
 咸鱼之提督: 09-26 22:12:23
 
 &lt;img src="file://C:\Users\ZJHSteven\Documents\Tencent Files\2381516705\nt_qq\nt_data\Emoji\emoji-recv\2025-09\Ori\3ad92d0666134a8de743991a14da7e6e.png" />
-
-
-
 
 Steven: 09-26 22:13:50
 
 那么这边开启了下水道春游模式（不是
 
-
-
-
 Steven: 09-26 22:13:53
 
 镜头回到了地面上
 
-
-
-
 Steven: 09-26 22:15:13
 
 @奈瓦拉-阿玛斯塔夏 HP26/31 AC14 DC15 PP13 奈瓦拉，你因为一步之差，没能成功跳上屋顶，现在正用指尖死死地扒住屋顶的边缘，悬在半空中！
-
-
-
 
 Steven: 09-26 22:15:20
 
@@ -30824,57 +23119,33 @@ Steven: 09-26 22:15:20
 
 危机点数：2/3
 
-
-
-
 Steven: 09-26 22:15:25
 
 你现在离成功逃脱只差一步之遥，但离彻底失败也同样只有一步之遥！你抬头可以看到，那名亲王卫队的头盔已经出现在了屋顶边缘；你下方，那头狂暴公牛正刨着蹄子，准备对这栋建筑发起最后的毁灭性冲撞！
-
-
-
 
 Steven: 09-26 22:15:34
 
 @罗兰 hp10/26 ac12dc14先6二0/3一1/4时2/2往2/2
 
-
-
-
 Steven: 09-26 22:15:49
 
 然后罗兰你成功摆脱了红面具帮的纠缠，独自一人来到了中城区的街道上。“星光舞台”的招牌就在几个街区之外
-
-
-
 
 Steven: 09-26 22:15:57
 
 你是打算闲逛，还是找个地方躲起来，还是直接前往星光舞台？
 
-
-
-
 Steven: 09-26 22:18:05
 
 （另外两位呢？
-
-
-
 
 Steven: 09-26 22:18:28
 
 （又组队去建造我们大秦的金字塔去了？
 
-
-
-
 :D: 09-26 22:18:58
 
 ＃直接去星光舞台
-
-
-
 
 “额啊啊啊没想到最后最麻烦的居然是队友搓出来的玩意”#崩溃地怪叫着，双手发力把自己荡到屋子阳台之类能落脚的地方
 呃，那么你想想啊，咱们怎么样先去这个呃汇合，好吧，咱们有什么办法看，让他先去汇合。然后你之前还听到了很多有意思的小景官，这也可以揉进去哈当然，这可以等他们正式下下下木下地城的时候，先让他们想办法汇合然后地表地下一起描述，先让他们汇合
@@ -31051,9 +23322,6 @@ Steven: 09-26 22:18:28
 
 ＃我很神秘，消失在小巷子的阴影里
 
-
-
-
 Steven: 09-26 22:30:29
 
 那个罗兰扭头就走了，根本没有管杂耍者到底会怎样
@@ -31062,15 +23330,9 @@ Steven: 09-26 22:30:29
 
 .rd+5
 
-
-
-
 阿芙娜: 09-26 22:29:00
 
 &lt;奈瓦拉-阿玛斯塔夏>掷出了 d+5=4[D20]+5=9
-
-
-
 
 然后有几个值得注意。第一个对于这种复杂的场景，那么呃小丑叙利亚会有什么反应，对吧？因为他是安排他们去完成任务的，结果任务一开始挺好的，但是说不定好像很离谱，对吧？呃，既招惹的红艳就到门都堵门口了，对吧？还有人都下道道上来，还有人一片狼藉，非常狼狈，对吧？他对此就作何表现，对吧？其他的帮派张街道发生了什么样的变化，有没有什么新的随机遭遇，对吧？以及还有就是咱们有关这个地下的这个能不能再改一改？因为存在几个问题，咱们现在如果已经到了，那么恐怖钟表查询，那为什么钟表不在这里？以及恐怖钟表，这这肯定还有更多的故事是吧？呃，这怎么处理这个问题，这都是要考虑的。好吧，以及还有谁先进谁后进的问题。我原本以为是罗兰先进去或然后是奈瓦拉，然后最后才是地下的人。现在看来时间正好反过来，可能是地下人身上去。因为奈瓦拉摔摔着了罗兰，他直接不直接不管走了
 :D: 09-26 22:29:55
@@ -31328,246 +23590,141 @@ DM，你指出的这个问题非常关键，我之前的描述确实存在严重
 
 “我是谁我在哪我要干什么”#陷入人生三问
 
-
-
-
 咸鱼之提督: 09-26 22:44:18
 
 “我怎么到这里来了”
-
-
-
 
 木夕儿: 09-26 22:44:20
 
 “走了半天，这下也算是到家了。”
 
-
-
-
 咸鱼之提督: 09-26 22:44:36
 
 “算了 周边好像有点吵出去看看什么情况吧 小心点”
-
-
-
 
 Steven: 09-26 22:45:01
 
 与此同时，在剧院的正门外，那群气势汹汹的红面具帮暴徒已经失去了耐心，为首的一人抬起脚，踹开了剧院的大门！
 
-
-
-
 Steven: 09-26 22:45:21
 
 当然这个时候你们也听到了从后门传出的亲王卫队的声音，似乎他正在威胁你们亲爱的诗人
-
-
-
 
 Steven: 09-26 22:45:42
 
 而奈瓦拉似乎脑中正在回想着文明的恢弘发展，好像已经失智了并没有意识到自己处在一个怎样的环境当中[汪汪]
 
-
-
-
 木夕儿: 09-26 22:45:52
 
 “兔子，准备战斗。”隆金压低声音
-
-
-
 
 咸鱼之提督: 09-26 22:45:56
 
 #探出头去看看后门外什么情况
 
-
-
-
 咸鱼之提督: 09-26 22:46:02
 
 “时刻准备着”
-
-
-
 
 木夕儿: 09-26 22:46:50
 
 （话说）
 
-
-
-
 咸鱼之提督: 09-26 22:47:00
 
 （话说）
-
-
-
 
 Steven: 09-26 22:47:03
 
 （话说）
 
-
-
-
 木夕儿: 09-26 22:47:06
 
 （现在的红面具看到我们出现在星光舞台）
-
-
-
 
 木夕儿: 09-26 22:47:13
 
 （会不会怀疑我们的真实身份）
 
-
-
-
 木夕儿: 09-26 22:47:29
 
 （比如怀疑我们并不是杂耍者之类的）
-
-
-
 
 咸鱼之提督: 09-26 22:47:33
 
 （出门在外身份是自己给的）
 
-
-
-
 Steven: 09-26 22:47:34
 
 （话说这还用怀疑吗？你可是顶着牛头人去人家酒馆闹事了都[汪汪]
-
-
-
 
 咸鱼之提督: 09-26 22:47:51
 
 （我是星际拾荒客）
 
-
-
-
 修林: 09-26 22:47:57
 
 “阿巴阿巴”
-
-
-
 
 木夕儿: 09-26 22:48:12
 
 （闹事的时候用的杂耍者的头衔）
 
-
-
-
 木夕儿: 09-26 22:48:47
 
 （就怕到时候琪莉娅觉得我们耍了她）
-
-
-
 
 木夕儿: 09-26 22:49:01
 
 （然后也加入到追杀我们的大军中）
 
-
-
-
 修林: 09-26 22:49:17
 
 （那就一发火球术全部抬走❌）
-
-
-
 
 木夕儿: 09-26 22:49:39
 
 （算了，走一步，看一步）
 
-
-
-
 木夕儿: 09-26 22:50:13
 
 （对了，这地方有戏服是吧）
-
-
-
 
 Steven: 09-26 22:50:15
 
 @隆金 AC17 HP 46/46 DC12 （好主意，我都没想到这一点（bushi[汪汪]
 
-
-
-
 Steven: 09-26 22:50:20
 
 （对滴
-
-
-
 
 木夕儿: 09-26 22:50:28
 
 （可不可以把自己打扮的花枝招展一点，像小丑一样）
 
-
-
-
 木夕儿: 09-26 22:50:51
 
 （让他们确信我们加入杂耍者）
-
-
-
 
 Steven: 09-26 22:50:56
 
 （当然可以打扮的花枝招展，不过理论上小丑没人见过是谁
 
-
-
-
 咸鱼之提督: 09-26 22:51:06
 
 “阿灵你怎么回事阿灵”#看看有没有机会突袭救走阿奈
-
-
-
 
 阿芙娜: 09-26 22:51:08
 
 提示: 当前故事的文本已经记录了 1000 条
 
-
-
-
 木夕儿: 09-26 22:51:50
 
 （我有点想）
 
-
-
-
 木夕儿: 09-26 22:51:59
 
 （在舞台上表演）
-
-
-
 
 修林: 09-26 22:52:13
 
@@ -31577,15 +23734,9 @@ Steven: 09-26 22:50:56
 
 （用戏剧的形式来嘲讽一下红面具的）
 
-
-
-
 修林: 09-26 22:53:52
 
 （这个好）
-
-
-
 
 修林: 09-26 22:54:16
 
@@ -31763,64 +23914,37 @@ Steven: 09-26 22:50:56
 
 “兔子，帮我一下准备一下道具，『演出』就要开始了。”
 
-
-
-
 咸鱼之提督: 09-26 22:55:02
 
 “需要什么道具”
-
-
-
 
 修林: 09-26 22:55:04
 
 “稀，可以和解嘛？”#被围住发出了无可奈何的声音，尝试拖延时间等待着队友的救援
 
-
-
-
 木夕儿: 09-26 22:55:38
 
 隆金一边对猎颅耳语，一边穿上戏服，把自己打扮成五彩斑斓的小丑🤡
-
-
-
 
 咸鱼之提督: 09-26 22:55:53
 
 #整道具
 
-
-
-
 木夕儿: 09-26 22:56:16
 
 快速准备之后
-
-
-
 
 咸鱼之提督: 09-26 22:56:51
 
 （突然想到了一个花活）
 
-
-
-
 木夕儿: 09-26 22:58:42
 
 就在红面具们在剧院内搜索的时候，从暗处传来报幕声：“喜剧悲剧，第一场第一幕。”
 
-
-
-
 木夕儿: 09-26 22:59:10
 
 随着幕布拉开，隆金登上舞台，将所有红面具成员的注意力吸引过去
-
-
-
 
 咸鱼之提督: 09-26 22:59:21
 
@@ -31916,71 +24040,41 @@ Steven: 09-26 22:50:56
 
 随后，他用咏叹调般的腔调开场：“啊！欢迎我们王国最‘忠诚’的卫士！看那盔甲上的尘土，是急于奔赴战场留下的勋章，还是……在追逐野兔时在灌木中蹭上的荣光？”
 
-
-
-
 木夕儿: 09-26 23:06:22
 
 。rd+2 表演
-
-
-
 
 阿芙娜: 09-26 23:06:23
 
 由于 表演，&lt;隆金 AC17 HP 46/46 DC12>掷出了 d+2=4[D20]+2=6
 
-
-
-
 木夕儿: 09-26 23:06:30
 
 （呜呜呜）
-
-
-
 
 木夕儿: 09-26 23:06:40
 
 （我继续rp吧）
 
-
-
-
 咸鱼之提督: 09-26 23:06:42
 
 “嘻嘻”
-
-
-
 
 咸鱼之提督: 09-26 23:06:52
 
 （我给你补优势（x）
 
-
-
-
 咸鱼之提督: 09-26 23:08:41
 
 #偷摸给隆金拍个导 用投影仪整点🏰的氛围
-
-
-
 
 咸鱼之提督: 09-26 23:09:12
 
 （话说阿奈不是还在被卫队逮着#看）
 
-
-
-
 咸鱼之提督: 09-26 23:09:19
 
 （大伙都来看热闹了）
-
-
-
 
 嗯，描述一下反应。然后嗯关于这个小丑的，可以想想这个事情非常神奇。就首先他们的试镜任务对吧？两次捣乱一个酒馆，一个仓库，对吧？基本上都算是圆满完成。但是由于他们蹦出两头公红牛出来，他们自己造的这导致啊他们有个追逐而追逐。现在正好触发了危险，也就是追逐是以失败告终的对吧？而且还有像那个什么像那个还有人从下水道里冒出来，对吧？一身一身臭味儿样说非常脏，而且还是匍匐前进的，也就意味着这人都是黑的，有股臭味啊。然后然后呢，后来你又整整这一出，就是整这一出成功还是失败，还得结合前面的成功和失败，这就很神奇。你可以给给我一个前瞻部分，想一想
 木夕儿: 09-26 23:05:56
